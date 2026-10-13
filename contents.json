@@ -29390,7 +29390,7 @@
         "swiftui"
       ],
       "license": "other",
-      "source": "https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app",
+      "source": "https://developer.apple.com/videos/play/wwdc2022/10054/",
       "date_added": "Jul 5 2022",
       "suggested_by": "@dkhamsing"
     },
@@ -29983,14 +29983,14 @@
         "misc"
       ],
       "description": "User generated recipe/cooking collection",
-      "source": "https://github.com/fatih-gursoy/Cuisiner",
+      "source": "https://github.com/opensourceios2/Cuisiner",
       "itunes": "https://apps.apple.com/app/id1641238583",
       "tags": [
         "swift"
       ],
       "license": "mit",
       "screenshots": [
-        "https://raw.githubusercontent.com/fatih-gursoy/Cuisiner/master/Screenshots/ss3.png"
+        "https://raw.githubusercontent.com/opensourceios2/Cuisiner/master/Screenshots/ss3.png"
       ],
       "date_added": "Oct 3 2022",
       "suggested_by": "@fatih-gursoy",
@@ -32053,7 +32053,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f018af5c-870a-459a-b507-c378773d2269"
       ],
-      "source": "https://github.com/wvabrinskas/PokePal",
+      "source": "https://github.com/opensourceios/PokePal",
       "license": "other",
       "date_added": "Jul 9 2024",
       "suggested_by": "@dkhamsing",
