@@ -9940,7 +9940,7 @@
         "archive"
       ],
       "description": "Visualize molecules in 3D",
-      "source": "https://www.sunsetlakesoftware.com/molecules",
+      "source": "http://www.sunsetlakesoftware.com/molecules/index.html",
       "itunes": "https://apps.apple.com/app/molecules/id284943090",
       "license": "other",
       "date_added": "Tue May 31 22:58:38 2016 -0600",
@@ -12493,7 +12493,7 @@
         "researchkit"
       ],
       "description": "Clinical research platform for Alzheimer's disease",
-      "source": "https://github.com/BBBInc/AlzPrevent-ios",
+      "source": "https://github.com/opensourceios/AlzPrevent-ios",
       "itunes": "https://apps.apple.com/app/alzprevent/id1065403320",
       "license": "bsd-3-clause",
       "tags": [
@@ -16927,7 +16927,7 @@
     },
     {
       "title": "Awesome Mobile Conference",
-      "source": "https://github.com/aweconf/iOS",
+      "source": "https://github.com/opensourceios/awesome-mobile-conferences-ios",
       "category-ids": [
         "content"
       ],
@@ -32598,7 +32598,7 @@
       "category-ids": [
         "misc"
       ],
-      "source": "https://github.com/ynagatomo/HeyChatGPT",
+      "source": "https://github.com/Chaoren12345/HeyChatGPT",
       "tags": [
         "swift",
         "gpt",
