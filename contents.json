@@ -8203,7 +8203,7 @@
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ef0b930-4ab0-4c65-a70e-9a58bbc24c6d"
       ],
       "description": "Showcases React Native views & modules",
-      "source": "https://github.com/facebook/react-native/tree/main/packages/rn-tester",
+      "source": "https://github.com/react/react-native/tree/main/packages/rn-tester",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "updated": "2023-12-07 14:49:36 UTC",
@@ -9679,9 +9679,9 @@
       ],
       "description": "A WeChat alternative",
       "license": "mit",
-      "source": "https://github.com/hilen/TSWeChat",
+      "source": "https://github.com/lanceylai/TSWeChat",
       "screenshots": [
-        "https://github.com/hilen/TSWeChat/raw/master/images/preview1.gif"
+        "https://raw.githubusercontent.com/lanceylai/TSWeChat/master/images/preview1.gif"
       ],
       "tags": [
         "swift"
@@ -10167,7 +10167,7 @@
       ],
       "description": "EveOnline MMORG character management tool",
       "license": "lgpl-2.1",
-      "source": "https://github.com/mrdepth/Neocom",
+      "source": "https://github.com/artem-shimanski/Neocom",
       "itunes": "https://apps.apple.com/app/eveuniverse/id418895101",
       "stars": 113,
       "date_added": "Wed Jun 1 17:32:57 2016 +0300",
@@ -17773,7 +17773,7 @@
         "swift"
       ],
       "description": "Quickly and easily uploads text or code to https://pastebin.com",
-      "source": "https://github.com/jonluca/PasteBinApp",
+      "source": "https://github.com/jonluca/paste-bin-app",
       "license": "apache-2.0",
       "stars": 33,
       "screenshots": [
@@ -19920,7 +19920,7 @@
     {
       "title": "Matchimals.fun",
       "description": "Animal matching puzzle card game",
-      "source": "https://github.com/igravitystudios/matchimals.fun",
+      "source": "https://github.com/chrisheninger/matchimals.fun",
       "itunes": "https://apps.apple.com/app/id1348821168",
       "category-ids": [
         "game",
@@ -28455,7 +28455,7 @@
       "category-ids": [
         "clone"
       ],
-      "source": "https://github.com/chFlorian/DesignRemakes",
+      "source": "https://github.com/FloWritesCode/DesignRemakes",
       "tags": [
         "swift",
         "swiftui"
@@ -33324,7 +33324,7 @@
       "tags": [
         "swift"
       ],
-      "source": "https://github.com/Root-Down-Digital/DragonSync-iOS",
+      "source": "https://github.com/lukeswitz/DragonSync-iOS",
       "license": "mit",
       "date_added": "Jun 11 2025",
       "suggested_by": "@csprasad",
@@ -33458,7 +33458,7 @@
       "category-ids": [
         "developer"
       ],
-      "source": "https://github.com/rudrankriyam/Foundation-Models-Framework-Example",
+      "source": "https://github.com/rudrankriyam/Foundation-Models-Framework-Lab",
       "tags": [
         "ios26"
       ],
@@ -33705,7 +33705,7 @@
       "tags": [
         "nativeScript"
       ],
-      "source": "https://github.com/Akylas/oss-weather",
+      "source": "https://github.com/ossappscollective/oss-weather",
       "itunes": "https://apps.apple.com/app/oss-weather/id1499117252",
       "screenshots": [
         "https://github.com/user-attachments/assets/396957e5-9c53-4049-abc3-eb538e07837b"
@@ -33839,7 +33839,7 @@
     {
       "title": "InferrLM",
       "description": "On-device local AI",
-      "source": "https://github.com/sbhjt-gr/InferrLM",
+      "source": "https://github.com/loomax-labs/InferrLM",
       "itunes": "https://apps.apple.com/app/inferra/id6754396856",
       "category-ids": [
         "misc"
@@ -34113,7 +34113,7 @@
         "developer"
       ],
       "description": "Browse SourceHut repositories, issues, mailing lists, and patches",
-      "source": "https://github.com/zerolabsco/hutch",
+      "source": "https://github.com/krazywarez/hutch",
       "itunes": "https://apps.apple.com/app/hutch-for-sourcehut/id6760742299",
       "screenshots": [
         "https://img.cleberg.net/apps/hutch/screenshots/iphone/01_patch.jpg",
@@ -34136,7 +34136,7 @@
         "developer"
       ],
       "description": "Perform quick DNS lookups, SSL/TLS checks, and more on any domain",
-      "source": "https://github.com/zerolabsco/domain-dig",
+      "source": "https://github.com/krazywarez/domain-dig",
       "itunes": "https://apps.apple.com/app/domaindig/id6760368004",
       "screenshots": [
         "https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png",
