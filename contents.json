@@ -10775,7 +10775,7 @@
         "archive"
       ],
       "description": "Turn-based strategy game",
-      "source": "https://hg.hedgewars.org/hedgewars/",
+      "source": "https://github.com/hedgewars/hw",
       "homepage": "https://www.hedgewars.org/",
       "itunes": "https://apps.apple.com/app/id391234866",
       "license": "gpl-2.0",
@@ -12308,7 +12308,7 @@
         "sample"
       ],
       "description": "Browse & star GitHub repositories",
-      "source": "https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser",
+      "source": "https://github.com/bustoutsolutions/siesta/tree/main/Examples/GithubBrowser",
       "stars": 660,
       "license": "mit",
       "tags": [
