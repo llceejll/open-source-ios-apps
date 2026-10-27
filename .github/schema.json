@@ -23,10 +23,12 @@
 		},
 		"categories": {
 			"type": "array",
+			"minItems": 1,
 			"uniqueItems": true,
 			"items": {
 				"title": "Category Object",
 				"description": "A category to group project objects under.",
+				"type": "object",
 				"properties": {
 					"title": {
 						"title": "Category Title",
@@ -58,10 +60,12 @@
 		},
 		"projects": {
 			"type": "array",
+			"minItems": 1,
 			"uniqueItems": true,
 			"items": {
 				"title": "Project Object",
 				"description": "An object that holds all the information for a specific project.",
+				"type": "object",
 				"properties": {
 					"title": {
 						"title": "Project Title",
@@ -72,6 +76,8 @@
 						"title": "Project Category",
 						"description": "The list of categories that the project falls under. If it is a list, the categories should be ordered from most to least relevant/applicable to the project.",
 						"type": ["array"],
+						"minItems": 1,
+						"uniqueItems": true,
 						"items": {
 							"type": "string"
 						}
@@ -163,7 +169,12 @@
 					"screenshots": {
 						"title": "Screenshots",
 						"description": "Links to screenshot images.",
-						"type": "array"
+						"type": "array",
+						"uniqueItems": true,
+						"items": {
+							"type": "string",
+							"pattern": "^https?:\\/\\/.*?\\..*$"
+						}
 					}
 				},
 				"required": ["title", "category-ids", "source"],

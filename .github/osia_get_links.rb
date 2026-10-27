@@ -14,13 +14,11 @@ a = j['projects']
 archived = apps_archived a
 active = a.reject { |x| archived.include? x }
 
-uniques = []
-info = []
-active.each do |z|
-  uniques.push z['source']
-  uniques.push z['screenshots'] unless z['screenshots'].nil?
-  info.push z['itunes'] unless z['itunes'].nil?
-end
+uniques = active.flat_map do |app|
+  [app['source'], *Array(app['screenshots'])]
+end.compact.uniq
+
+info = active.filter_map { |app| app['itunes'] }.uniq
 
 uniques.each_with_index { |z, i| puts "#{i+1} #{z}" }
 
@@ -30,17 +28,7 @@ File.open(UNIQUES, 'w') { |f| f.puts uniques }
 puts "Writing #{INFO}"
 File.open(INFO, 'w') { |f| f.puts info }
 
-links = []
-active.each do |z|
-  links.push z['homepage'] unless z['homepage'].nil?
-  links.push z['title'] unless z['title'].nil?
-  links.push z['description'] unless z['description'].nil?
-end
-
-c = j['categories']
-c.each do |z|
-  links.push z['title']
-end
+links = active.filter_map { |app| app['homepage'] }.uniq
 
 links.each_with_index { |z, i| puts "#{i+1} #{z}" }
 
