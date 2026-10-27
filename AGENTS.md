@@ -67,9 +67,11 @@ A GitHub `blob` screenshot URL without `?raw=true` returns the HTML file page. O
 
 The same day, 461 unique `raw.githubusercontent.com`, GitLab `/-/raw/`, Bitbucket, and Codeberg screenshot URLs were requested. 454 returned an image. Seven returned 404 on repositories that are already gone: Eros-FE, Beers, RaceMe, RxCurrency, and Crystal Clipboard. `status.im/img/teaser-image.png` redirects to the Status homepage, and the same path on `status.app` is 404, so that URL stayed.
 
+A later GET of every `github.com` screenshot followed redirects. 662 of 677 returned an image. GitHub drops `?raw=true` when it redirects `/blob/master/` to `/blob/main/`, and the HTML page that remains is not the image. Loose Leaf `collapse-stack.gif` and the two iOSDesignPatternSamples files (`app.gif`, `diff.png`) now use `/blob/main/` with `?raw=true`. That URL returns the image (`GIF89a` or PNG). Orgro and VisionProVacuumDemo screenshot assets are `video/mp4` and stayed, because that upload is the file the URL names. The other ten 404s are deleted files or missing repositories and stayed.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:54 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:55 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
