@@ -591,7 +591,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "date_added": "Thu Aug 6 15:40:46 2015 +0800",
       "suggested_by": "@xubinggui",
       "updated": "2026-08-11 11:06:17 UTC"
@@ -2198,7 +2198,7 @@
         "swift"
       ],
       "stars": 93,
-      "license": "other",
+      "license": "mit",
       "date_added": "Mon Mar 21 23:25:07 2016 +0900",
       "suggested_by": "@Atsushi NAGASE",
       "screenshots": [
@@ -3447,7 +3447,7 @@
         "healthkit"
       ],
       "stars": 8,
-      "license": "other",
+      "license": "apache-2.0",
       "date_added": "Jun 5 2026",
       "suggested_by": "@megabyte0x",
       "updated": "2026-08-05 12:22:58 UTC"
@@ -4130,7 +4130,7 @@
         "archive"
       ],
       "stars": 137,
-      "license": "other",
+      "license": "mit",
       "date_added": "Sun Jun 7 08:57:59 2015 -0700",
       "suggested_by": "@dkhamsing",
       "updated": "2016-07-18 20:26:56 UTC"
@@ -4226,6 +4226,7 @@
       ],
       "description": "Intuitive DJ controller",
       "source": "https://github.com/yuripetrosyan/Controllers",
+      "license": "mit",
       "tags": [
         "swiftui",
         "swift"
@@ -6367,7 +6368,7 @@
       ],
       "source": "https://github.com/JerryHDev/1Trackr",
       "stars": 5,
-      "license": "other",
+      "license": "bsd-3-clause",
       "date_added": "Mon Apr 11 17:58:29 2016 -0500",
       "suggested_by": "@Kevin Bautista",
       "screenshots": [
@@ -6568,7 +6569,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "description": "Weather and forecasts from multiple user-selectable api's or PWS",
       "source": "https://github.com/saxobroko/SaxWeather",
       "itunes": "https://apps.apple.com/app/saxweather/id6742063425",
@@ -7476,7 +7477,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/02/1e/b5/021eb54f-b928-319d-7272-047e1b91ac67/pr_source.png/626x0w.png"
       ],
       "stars": 10,
-      "license": "other",
+      "license": "bsd-3-clause",
       "date_added": "Wed Mar 2 15:56:28 2016 -0300",
       "suggested_by": "@Pedro Paulo Jr",
       "updated": "2026-09-24 21:42:55 UTC"
@@ -8323,7 +8324,7 @@
       ],
       "description": "App by Facebook",
       "source": "https://github.com/react/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048",
-      "license": "other",
+      "license": "mit",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -8341,7 +8342,7 @@
       ],
       "description": "App by Facebook",
       "source": "https://github.com/react/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies",
-      "license": "other",
+      "license": "mit",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -8359,7 +8360,7 @@
       ],
       "description": "App by Facebook",
       "source": "https://github.com/react/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe",
-      "license": "other",
+      "license": "mit",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -8376,7 +8377,7 @@
       ],
       "description": "Showcases React Native views & modules",
       "source": "https://github.com/react/react-native/tree/main/packages/rn-tester",
-      "license": "other",
+      "license": "mit",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "updated": "2023-12-07 14:49:36 UTC",
       "suggested_by": "@dkhamsing"
@@ -8418,7 +8419,7 @@
       "description": "Developer-focused Meetup clone",
       "source": "https://github.com/buildreactnative/assemblies",
       "stars": 354,
-      "license": "other",
+      "license": "mit",
       "date_added": "Mon May 2 07:40:43 2016 -0700",
       "suggested_by": "@dkhamsing",
       "updated": "2017-01-18 05:12:22 UTC"
@@ -10930,7 +10931,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "stars": 788,
       "date_added": "Thu Jun 2 00:02:57 2016 -0600",
       "suggested_by": "@scribblemaniac",
@@ -11921,7 +11922,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other",
+      "license": "mit",
       "description": "Use Emojis to communicate while traveling",
       "source": "https://github.com/themoji/ios",
       "screenshots": [
@@ -12526,6 +12527,7 @@
       "title": "open-source-ios-apps archive",
       "description": "Projects that are no longer maintained",
       "source": "https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md",
+      "license": "cc0-1.0",
       "category-ids": [
         "bonus"
       ],
@@ -12559,7 +12561,7 @@
       ],
       "suggested_by": "@dkhamsing",
       "stars": 10511,
-      "license": "other",
+      "license": "mit",
       "updated": "2026-10-01 13:53:17 UTC"
     },
     {
@@ -12635,7 +12637,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/418dc9f3-3670-4074-8cd8-af7397b8aa58"
       ],
-      "license": "other",
+      "license": "mit",
       "tags": [
         "swift"
       ],
@@ -12847,7 +12849,7 @@
         "swift3",
         "archive"
       ],
-      "license": "other",
+      "license": "mit",
       "stars": 2535,
       "screenshots": [
         "https://i.giphy.com/hwCahHAD1tNHa.gif"
@@ -13033,7 +13035,7 @@
       "category-ids": [
         "security"
       ],
-      "license": "other",
+      "license": "mit",
       "stars": 772,
       "date_added": "Sep 7 2016",
       "suggested_by": "@dkhamsing",
@@ -13180,7 +13182,7 @@
         "rxswift"
       ],
       "stars": 1286,
-      "license": "other",
+      "license": "mit",
       "date_added": "Sep 19 2016",
       "suggested_by": "@dkhamsing",
       "updated": "2022-10-05 19:20:12 UTC"
@@ -13266,7 +13268,7 @@
       "screenshots": [
         "https://github.com/JustinFincher/GitHubContributionsiOS/raw/master/Sketch/GitHub-Contributions.jpg"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "date_added": "Oct 6 2016",
       "suggested_by": "@dkhamsing",
       "stars": 545,
@@ -14339,7 +14341,7 @@
       "screenshots": [
         "http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
       ],
-      "license": "other",
+      "license": "agpl-3.0",
       "date_added": "Jan 18 2017",
       "suggested_by": "@dkhamsing",
       "stars": 821,
@@ -14511,7 +14513,7 @@
       "screenshots": [
         "https://cdn-images-1.medium.com/v2/resize:fit:800/1*vwHKVE8rpcMyqr5Ec7MSxQ.png"
       ],
-      "license": "other",
+      "license": "mpl-2.0",
       "date_added": "Feb 3 2017",
       "suggested_by": "@dkhamsing",
       "stars": 23,
@@ -14966,7 +14968,7 @@
         "swift",
         "archive"
       ],
-      "license": "other",
+      "license": "mit",
       "date_added": "Mar 20 2017",
       "suggested_by": "@dkhamsing",
       "stars": 962,
@@ -15491,7 +15493,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg"
       ],
-      "license": "other",
+      "license": "apache-2.0",
       "date_added": "May 3 2017",
       "suggested_by": "@dkhamsing",
       "stars": 47,
@@ -15941,7 +15943,7 @@
       "screenshots": [
         "https://github.com/rlwimi/major-input/raw/master/Resources/screenshots/tour.gif"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "date_added": "May 31 2017",
       "suggested_by": "@dkhamsing",
       "stars": 45,
@@ -16078,7 +16080,7 @@
       "screenshots": [
         "https://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg"
       ],
-      "license": "other",
+      "license": "mit",
       "date_added": "June 14 2017",
       "suggested_by": "@dkhamsing",
       "stars": 19,
@@ -16096,7 +16098,7 @@
       ],
       "date_added": "June 14 2017",
       "suggested_by": "@dkhamsing",
-      "license": "other"
+      "license": "cc0-1.0"
     },
     {
       "title": "Thoughtless",
@@ -16229,7 +16231,7 @@
         "alamofire",
         "archive"
       ],
-      "license": "other",
+      "license": "mit",
       "date_added": "Jul 5 2017",
       "suggested_by": "@dkhamsing",
       "stars": 2885,
@@ -16726,7 +16728,7 @@
       "tags": [
         "archive"
       ],
-      "license": "other",
+      "license": "bsd-3-clause",
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
       "stars": 502,
@@ -16741,7 +16743,7 @@
       "tags": [
         "archive"
       ],
-      "license": "other",
+      "license": "mit",
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
       "stars": 68,
@@ -16771,7 +16773,7 @@
       "tags": [
         "archive"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
       "stars": 23,
@@ -16786,7 +16788,7 @@
       "tags": [
         "archive"
       ],
-      "license": "other",
+      "license": "mit",
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
       "stars": 52,
@@ -17023,7 +17025,7 @@
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b1c61e6f-e19d-4c1a-9036-fb2ccba8b2cc"
       ],
       "date_added": "Sep 27 2017",
-      "license": "other",
+      "license": "mit",
       "suggested_by": "@SlayterDev",
       "stars": 117,
       "updated": "2021-08-07 11:58:18 UTC"
@@ -17238,6 +17240,7 @@
       ],
       "description": "iTunes Connect app which is actually useful",
       "source": "https://github.com/RishabhTayal/Unofficial-iTC",
+      "license": "mit",
       "screenshots": [
         "https://github.com/RishabhTayal/Unofficial-iTC/blob/master/public-screenshots/screenshot1.png?raw=true",
         "https://github.com/RishabhTayal/Unofficial-iTC/blob/master/public-screenshots/screenshot2.png?raw=true"
@@ -18588,6 +18591,7 @@
       ],
       "description": "Universal Links testing made easy",
       "source": "https://github.com/ethanhuang13/knil",
+      "license": "mit",
       "itunes": "https://apps.apple.com/app/knil-universal-link-testing/id1195310358",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/038718b7-d829-4e60-9f81-f86d2b926eec"
@@ -19081,6 +19085,7 @@
       ],
       "description": "Connect to various photo hosting services and browse images (save to device, set wallpaper, share with friends via your favorite messaging app)",
       "source": "https://github.com/satishbabariya/Danbooru-Lite",
+      "license": "mit",
       "itunes": "https://apps.apple.com/app/danbooru-lite/id1338782992",
       "screenshots": [
         "https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/01.jpg",
@@ -19100,6 +19105,7 @@
       ],
       "description": "Simple CRM app built using Model2App library, lets you quickly generate a CRUD iOS app based on just a data model",
       "source": "https://github.com/Q-Mobile/Model2App",
+      "license": "mit",
       "tags": [
         "swift",
         "realm"
@@ -19476,7 +19482,7 @@
         "list"
       ],
       "suggested_by": "@dkhamsing",
-      "license": "other"
+      "license": "cc0-1.0"
     },
     {
       "title": "Swiftenstein",
@@ -19570,7 +19576,7 @@
       ],
       "description": "Browse movies, made with SwiftUI, Combine & MovieDB",
       "source": "https://github.com/Dimillian/MovieSwiftUI",
-      "license": "other",
+      "license": "apache-2.0",
       "stars": 6526,
       "tags": [
         "swift",
@@ -19972,7 +19978,7 @@
       "description": "An alternate App Store, no jailbreak required",
       "source": "https://github.com/altstoreio/AltStore",
       "homepage": "https://altstore.io",
-      "license": "other",
+      "license": "agpl-3.0",
       "category-ids": [
         "misc"
       ],
@@ -20217,6 +20223,7 @@
       ],
       "description": "Learn languages using popular methods such as spaced repetition",
       "source": "https://github.com/subconcept-labs/ulangi",
+      "license": "gpl-3.0",
       "itunes": "https://apps.apple.com/app/id1435524341",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/06bb7b52-5b66-4825-ae95-489e634b05dd"
@@ -21116,7 +21123,7 @@
         "contact-tracing-reference"
       ],
       "description": "Uses Apple's Privacy-preserving ExposureNotification framework",
-      "license": "other",
+      "license": "mit",
       "source": "https://github.com/CrunchyBagel/TracePrivately",
       "tags": [
         "swift"
@@ -21227,7 +21234,7 @@
       ],
       "date_added": "Apr 19 2020",
       "suggested_by": "@anonrig",
-      "license": "other",
+      "license": "gpl-3.0",
       "stars": 46,
       "updated": "2021-07-04 12:12:34 UTC"
     },
@@ -21410,7 +21417,7 @@
         "swiftui"
       ],
       "source": "https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted",
-      "license": "other",
+      "license": "mit",
       "tags": [
         "swift",
         "swiftui",
@@ -21851,7 +21858,7 @@
         "swiftui",
         "swift"
       ],
-      "license": "other",
+      "license": "apache-2.0",
       "source": "https://github.com/heyrahulrs/ASETimerSwiftUI",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8a30ae63-3b97-4b09-98c4-7d34f48911ba"
@@ -22237,7 +22244,7 @@
       "category-ids": [
         "clone"
       ],
-      "license": "other",
+      "license": "mit",
       "source": "https://github.com/ReactKit/ReactKitCalculator",
       "tags": [
         "archive"
@@ -22607,7 +22614,7 @@
         "archive"
       ],
       "source": "https://github.com/e7711bbear/Simplistic",
-      "license": "other",
+      "license": "mit",
       "date_added": "May 23 2020",
       "suggested_by": "@dkhamsing",
       "stars": 0,
@@ -23053,7 +23060,7 @@
         "c",
         "archive"
       ],
-      "license": "other",
+      "license": "gpl-2.0",
       "date_added": "Jun 3 2020",
       "suggested_by": "@dkhamsing",
       "stars": 143,
@@ -23183,7 +23190,7 @@
       "description": "Tell time in British English",
       "source": "https://github.com/renaudjenny/telltime",
       "itunes": "https://apps.apple.com/app/tell-time-uk/id1496541173",
-      "license": "other",
+      "license": "mit",
       "tags": [
         "swift"
       ],
@@ -23448,7 +23455,7 @@
       "screenshots": [
         "https://github.com/V8tr/InfiniteListSwiftUI/raw/master/demo.gif"
       ],
-      "license": "other",
+      "license": "unlicense",
       "date_added": "Jun 13 2020",
       "suggested_by": "@marlon360",
       "stars": 74,
@@ -23469,7 +23476,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1e70f5e9-78a0-4d53-b176-03393309c91a"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "date_added": "Jun 16 2020",
       "suggested_by": "@dkhamsing",
       "stars": 90,
@@ -23831,7 +23838,7 @@
       ],
       "source": "https://github.com/Chubby-Studio/SafeTimer",
       "itunes": "https://apps.apple.com/app/apple-store/id1512032981",
-      "license": "other",
+      "license": "gpl-3.0",
       "tags": [
         "swift",
         "archive"
@@ -23972,7 +23979,7 @@
         "swiftui"
       ],
       "source": "https://github.com/molcik/swiftui-elements",
-      "license": "other",
+      "license": "mit",
       "tags": [
         "swift",
         "swiftui"
@@ -24339,7 +24346,7 @@
       "screenshots": [
         "https://github.com/atrinh0/sfsymbols/raw/main/images/search.gif"
       ],
-      "license": "other",
+      "license": "mit",
       "date_added": "Jul 24 2020",
       "suggested_by": "@dkhamsing",
       "stars": 135,
@@ -24425,7 +24432,7 @@
       "category-ids": [
         "clone"
       ],
-      "license": "other",
+      "license": "apache-2.0",
       "source": "https://github.com/sbertix/Swiftagram",
       "stars": 264,
       "tags": [
@@ -24680,7 +24687,7 @@
         "themoviedb"
       ],
       "source": "https://github.com/rcaos/TVToday",
-      "license": "other",
+      "license": "mit",
       "date_added": "Aug 11 2020",
       "suggested_by": "@dkhamsing",
       "stars": 188,
@@ -24997,7 +25004,7 @@
         "javascript",
         "ipad"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "date_added": "Aug 26 2020",
       "suggested_by": "@dkhamsing",
       "stars": 523,
@@ -25148,7 +25155,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac2f2230-23ad-4f7c-9625-862b365565d3"
       ],
-      "license": "other",
+      "license": "mit",
       "tags": [
         "swift",
         "swiftui"
@@ -25268,7 +25275,7 @@
       "screenshots": [
         "https://github.com/atrinh0/buttoncraft/raw/master/images/demo.gif"
       ],
-      "license": "other",
+      "license": "mit",
       "tags": [
         "swift",
         "swiftui"
@@ -25845,7 +25852,7 @@
         "https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png"
       ],
       "date_added": "Oct 15 2020",
-      "license": "other",
+      "license": "gpl-3.0",
       "suggested_by": "@elkiwy",
       "stars": 66,
       "updated": "2023-10-17 13:41:36 UTC"
@@ -25995,6 +26002,7 @@
       ],
       "description": "iOS 14 widget displaying NASA's Astronomy Picture of the Day",
       "source": "https://github.com/jtbandes/SpacePOD",
+      "license": "mit",
       "itunes": "https://apps.apple.com/app/id1536864924",
       "screenshots": [
         "https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png",
@@ -26042,7 +26050,7 @@
         "flutter",
         "dart"
       ],
-      "license": "other",
+      "license": "bsd-3-clause",
       "date_added": "Oct 31 2020",
       "suggested_by": "@dkhamsing",
       "stars": 269,
@@ -26143,7 +26151,7 @@
       ],
       "description": "Track the status of COVID-19 around the world",
       "source": "https://github.com/nerdsupremacist/CovidUI",
-      "license": "other",
+      "license": "mit",
       "screenshots": [
         "https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif"
       ],
@@ -26245,7 +26253,7 @@
         "archive"
       ],
       "source": "https://github.com/ukhsa-collaboration/COVID-19-app-iOS-BETA",
-      "license": "other",
+      "license": "mit",
       "date_added": "Jan 9 2021",
       "suggested_by": "@dkhamsing",
       "stars": 800,
@@ -29038,7 +29046,7 @@
       "screenshots": [
         "https://github.com/nicklockwood/Swune/raw/main/Screenshot.png"
       ],
-      "license": "other",
+      "license": "mit",
       "date_added": "Apr 13 2022",
       "suggested_by": "@dkhamsing",
       "stars": 49,
@@ -29092,7 +29100,7 @@
         "grdb"
       ],
       "source": "https://github.com/cinderella-project/iMast",
-      "license": "other",
+      "license": "apache-2.0",
       "date_added": "Apr 18 2022",
       "suggested_by": "@Gigas002",
       "stars": 122,
@@ -29125,7 +29133,7 @@
       "description": "Team channels, direct chat, task management, drive and calendar; all in one place",
       "homepage": "https://twake.app",
       "source": "https://github.com/linagora/Twake-Mobile",
-      "license": "other",
+      "license": "agpl-3.0",
       "stars": 58,
       "tags": [
         "swift",
@@ -29147,7 +29155,7 @@
       "screenshots": [
         "https://zulip.com/static/images/app-screenshots/zulip-iphone-rough.png"
       ],
-      "license": "other",
+      "license": "apache-2.0",
       "stars": 1347,
       "tags": [
         "swift",
@@ -29332,7 +29340,7 @@
         "swift",
         "swiftui"
       ],
-      "license": "other",
+      "license": "mit",
       "description": "Replicate the screenshot from the camera app",
       "source": "https://github.com/jegnux/SwiftUICameraAppSpeedrunChallenge",
       "date_added": "May 29 2022",
@@ -29367,7 +29375,7 @@
         "swift",
         "swiftui"
       ],
-      "license": "other",
+      "license": "mit",
       "lang": "spa",
       "description": "Collection of small SwiftUI sample projects, including news, to-do and scores",
       "source": "https://github.com/twostraws/simple-swiftui",
@@ -29384,7 +29392,7 @@
       ],
       "description": "Create a single codebase and app target for Mac, iPad, and iPhone. Sample code by Apple",
       "source": "https://github.com/apple/sample-food-truck",
-      "license": "other",
+      "license": "mit",
       "tags": [
         "swift",
         "macos",
@@ -29592,7 +29600,7 @@
         "swift",
         "swiftui"
       ],
-      "license": "other",
+      "license": "mit",
       "source": "https://github.com/daneden/Broadcast",
       "date_added": "Jul 3 2022",
       "suggested_by": "@dkhamsing",
@@ -29867,7 +29875,7 @@
         "misc"
       ],
       "source": "https://github.com/joreilly/PeopleInSpace",
-      "license": "other",
+      "license": "apache-2.0",
       "tags": [
         "kmm",
         "kotlin",
@@ -31299,7 +31307,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/76922883/209883943-03fc014d-778a-429d-8817-79d5a665ba0d.jpg"
       ],
-      "license": "other",
+      "license": "mit",
       "date_added": "May 13 2023",
       "suggested_by": "@dkhamsing",
       "stars": 107,
@@ -32208,7 +32216,7 @@
         "https://github.com/yichengchen/ATV-Bilibili-demo/raw/main/imgs/1.jpg"
       ],
       "source": "https://github.com/yichengchen/ATV-Bilibili-demo",
-      "license": "other",
+      "license": "gpl-2.0",
       "date_added": "Jun 3 2024",
       "suggested_by": "@dkhamsing",
       "stars": 3148,
@@ -32223,7 +32231,7 @@
         "swift"
       ],
       "source": "https://github.com/ivan-magda/ios-demo",
-      "license": "other",
+      "license": "mit",
       "date_added": "Jun 12 2024",
       "suggested_by": "@dkhamsing",
       "stars": 1,
@@ -32245,7 +32253,7 @@
         "https://github.com/metal-by-example/metal-spatial-dynamic-mesh/raw/master/screenshots/01.png"
       ],
       "source": "https://github.com/metal-by-example/metal-spatial-dynamic-mesh",
-      "license": "other",
+      "license": "unlicense",
       "date_added": "Jun 14 2024",
       "suggested_by": "@dkhamsing",
       "stars": 107,
@@ -32441,6 +32449,7 @@
       ],
       "description": "Provides real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions",
       "source": "https://github.com/YusuFKaan48/PixelWeather",
+      "license": "mit",
       "stars": 18,
       "tags": [
         "swift"
@@ -32459,6 +32468,7 @@
       ],
       "description": "Designed with a minimalist approach, delivers global news and offers user-friendly filters for a personalized reading experience",
       "source": "https://github.com/YusuFKaan48/News",
+      "license": "mit",
       "stars": 0,
       "tags": [
         "swift",
@@ -33075,7 +33085,7 @@
       "description": "Video game emulator for non-jailbroken devices (successor to GBA4iOS)",
       "source": "https://github.com/rileytestut/Delta",
       "itunes": "https://apps.apple.com/app/delta-game-emulator/id1048524688",
-      "license": "other",
+      "license": "agpl-3.0",
       "date_added": "Feb 10 2025",
       "suggested_by": "@ndrew222",
       "stars": 6136,
@@ -33790,7 +33800,7 @@
       "screenshots": [
         "http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
       ],
-      "license": "other",
+      "license": "agpl-3.0",
       "date_added": "Aug 22 2025",
       "suggested_by": "@dkhamsing",
       "stars": 6636,
