@@ -47,9 +47,11 @@ Left in place after a browser GET: Habitica (`/static/home` returns 200), Kodi, 
 
 The same day, 63 archived homepages were checked. Task Coach, Bitrise, the 花灰 tweet (`twitter.com` to `x.com` with the same status id), and Status (`status.im` to `status.app`) now use the page the old URL redirects to. These stayed: Dash for iOS redirects to the macOS product page, BoardBank's domain is now a personal résumé, TriangleDraw's domain is an unrelated page, and the Ireland COVID Tracker redirect returns 404. Of 528 unique App Store links, 165 return 404 and none redirect to a different app id.
 
+When HTTPS fails the certificate check and the same path over HTTP returns the page or image, the entry uses HTTP. That covers Swab (`http://swabthe.com/`, title still the creative-ad blocker), the PropertyCross thumbnails, BrewMobile `8_small.png`, and 15 Apple CDN screenshots. BrewMobile `9_small.png` stays on HTTPS because HTTP returns 403. The iOS 10 Day by Day demo gif now points at `App_Demo.gif` in `ScottLogic/iOS10-day-by-day`.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:17 PM Toronto:
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:20 PM Toronto:
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
