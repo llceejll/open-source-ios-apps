@@ -29,7 +29,11 @@ On 27 October 2026, GitHub's detected license was compared with every GitHub `so
 
 A specific catalog license was corrected when the repository `LICENSE` file opens with that other license and GitHub reports the same key. That corrected 53 entries. Judge the file by its opening lines. The Mozilla Public License text mentions the GPL later in the file, and that mention is not the project's license. DNSCloak and Nio open with MPL 2.0. SIP Calculator opens with GPL 2.
 
-Do not run `.github/deploy.sh`.
+On 27 October 2026, a missing `stars` field was filled when the `source` is a GitHub repository root and the repository exists. That filled 40 entries. Those entries kept a missing `updated` field. A new push timestamp ranks the app above entries whose stored dates are older snapshots, and `LATEST.md` “Most recently updated” then lists the newly stamped apps first. Both `stars` and `updated` were replaced when a source move had left the previous repository’s metadata: the star count differs by 10 or more, one of the two fields is missing, or the calendar day differs and the star count differs by 5 or more. That replaced 11 entries (Savings Assistant, NaughtyKeyboard, Locative, That Movie With, my41, Hedgewars, SwiftTextClock, Helio Workstation, Linphone, ConfFriends, Fivey). A repository with 0 stars stays at 0. The converter prints a star badge only when the count is greater than 0. A source that points at a file or directory inside a repository does not take that repository’s star count.
+
+Project objects in `contents.json` are not indented the same way. Some openers use six spaces or a tab, and some closers put a tab between `}` and the comma. An edit has to walk to the `{` and `}` lines of that object. Matching a fixed four-space closer writes the next project’s stars into the previous project.
+
+Do not run `.github/deploy.sh`, `.github/osia_update_github.rb`, `.github/osia_update_lic.rb`, or `.github/osia_update_history.rb`. The GitHub updater rewrites the whole file and refreshes every star count and push time.
 
 GitHub Actions link and schema workflows use Ruby 3.3, matching `.github/workflows/pr-approved.yml`. That workflow force-pushes generated markdown to `master` after convert.
 
@@ -89,7 +93,7 @@ Paws used `https://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animatio
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:52 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator. The link check for the description trim, run `40552027108`, completed success at 1:37 PM Toronto the same day. The link check for the license and tag notes, run `40552775880`, completed success at 1:41 PM Toronto. The link check for the filled licenses, run `40553976653`, completed success at 1:49 PM Toronto.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 2:02 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator, and there were 0 open pull requests. The link check for the description trim, run `40552027108`, completed success at 1:37 PM Toronto the same day. The link check for the license and tag notes, run `40552775880`, completed success at 1:41 PM Toronto. The link check for the filled licenses, run `40553976653`, completed success at 1:49 PM Toronto. The link check for the license-file corrections, run `40554721744`, completed success at 1:54 PM Toronto.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
