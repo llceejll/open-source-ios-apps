@@ -1721,7 +1721,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2026` `react-native` 
   -  ☆`45105` 
 - [Loose Leaf](https://github.com/adamwulf/loose-leaf): Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures
-  - [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452) <a href='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452) <a href='https://github.com/adamwulf/loose-leaf/blob/main/example-gif/collapse-stack.gif?raw=true'>`Screenshot 1`</a> 
   -  `2023` `ipad` `pdf` `apple pencil` 
   -  ☆`670` 
 - [Notesnook](https://github.com/streetwriters/notesnook): End-to-end encrypted and private note taking alternative to Evernote
