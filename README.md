@@ -1645,7 +1645,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6769007201) <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide1-entries.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide2-insights.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide3-ask.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide4-mood-timeline.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` `cloudkit` 
 - [MoodSnap](https://github.com/drpeterrohde/MoodSnap): Mood diary
-  -  <a href='https://github.com/user-attachments/assets/8295b8a5-7ad0-4a6a-8097-c82a28a28212)'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/user-attachments/assets/8295b8a5-7ad0-4a6a-8097-c82a28a28212'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`62` 
 - [Nano Buddha](https://github.com/knorthfield/nano-buddha): Meditation timer with no clock: a singing bowl rings after a slightly random time, and each completed sit quietly grows 15 seconds longer. iPhone, iPad, Watch, TV and Mac; logs Mindful Minutes to Health
