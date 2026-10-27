@@ -298,7 +298,7 @@ Jump to
   -  `2024` `swift` `combine` 
   -  ☆`241` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
-  - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png?raw=true'>`Screenshot 3`</a> 
   -  `2024` `watchos` `swiftui` `alamofire` 
   -  ☆`93` 
 ## Browser 
@@ -521,7 +521,7 @@ Jump to
   -  `2021` `objc` 
   -  ☆`261` 
 - [Context Composer](https://github.com/sahilsatralkar/ContextComposer): Context Composer is a cutting-edge app that leverages Apple's Foundation Models framework to generate contextually appropriate response variations.
-  -  <a href='https://github.com/sahilsatralkar/ContextComposer/blob/main/screenshot.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/sahilsatralkar/ContextComposer/blob/main/screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `swifui` 
   -  ☆`5` 
 - [deltachat](https://github.com/deltachat/deltachat-ios): Email-based instant messaging
@@ -969,7 +969,7 @@ Jump to
   -  `2025` `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
   -  ☆`170` 
 - [TwitterSentiment](https://github.com/draese/TwitterSentiment): Score Twitter messages using a CoreML model for NLP sentiment analysis
-  -  <a href='https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`15` 
 - [uhohlingo](https://github.com/nate-parrott/uhohlingo): Like duolingo but you can generate whatever lesson you want
@@ -1180,7 +1180,7 @@ Widget (iOS 14) — [back to top](#readme)
   -  `2024` `swift` 
   -  ☆`16` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
-  - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png?raw=true'>`Screenshot 3`</a> 
   -  `2024` `watchos` `swiftui` `alamofire` 
   -  ☆`93` 
 - [XKCDY for xkcd](https://github.com/XKCDY/app)
@@ -1275,7 +1275,7 @@ File Management — [back to top](#readme)
   -  `2024` `swift` 
   -  ☆`33` 
 - [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense
-  -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`41` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
@@ -1545,7 +1545,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2023` `swift` `spritekit` `gameplaykit` 
   -  ☆`439` 
 - [Frozen Bubble](https://github.com/ulritter/FrozenPengu): Re-implementation of Linux Frozen Bubble Game
-  -  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb1.png'>`Screenshot 1`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb2.png'>`Screenshot 2`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb3.png'>`Screenshot 3`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb4.png'>`Screenshot 4`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb5.png'>`Screenshot 5`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb6.png'>`Screenshot 6`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb7.png'>`Screenshot 7`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb8.png'>`Screenshot 8`</a> 
+  -  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb4.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb5.png?raw=true'>`Screenshot 5`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb6.png?raw=true'>`Screenshot 6`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb7.png?raw=true'>`Screenshot 7`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb8.png?raw=true'>`Screenshot 8`</a> 
   -  `2023` `swift` 
   -  ☆`8` 
 - [Potato Game](https://github.com/mick-schroeder/PotatoGame): Relaxing physics-based puzzle game where players tilt the board to move emojis and merge matching ones until they create a potato
@@ -1638,7 +1638,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`4` 
 - [Migraine Log](https://gitlab.com/mglog/org.zerodogg.migraineLog): A headache diary that respects your privacy
   - <a href=https://migrainelog.zerodogg.org/en>`https://migrainelog.zerodogg.org/en`</a>
-  - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/raw/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/raw/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/raw/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
   - `flutter` `dart` 
 - [MirrorNotes](https://github.com/lokii49/mirror): Private AI journaling with daily reflection prompts, mood timeline, and more
   - <a href=https://mirrornotes.org>`https://mirrornotes.org`</a>
@@ -2124,7 +2124,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2020` `swift` 
   -  ☆`1` 
 - [Ghibliii](https://github.com/kxvn-lx/Ghibliii): Studio Ghibli movie database
-  -  <a href='https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image1.png'>`Screenshot 1`</a>  <a href='https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image2.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image2.png?raw=true'>`Screenshot 2`</a> 
   -  `2020` `swift` 
   -  ☆`33` 
 - [Homepok](https://github.com/iAlexander/Homepok): Catalog of Ukrainian vehicle plates
@@ -2137,7 +2137,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2026` `swift` 
   -  ☆`788` 
 - [Library Genesis](https://github.com/MartinStamenkovski/LibraryGenesis): Preview and download books from Library Genesis https://libgen.rs
-  -  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png'>`Screenshot 1`</a>  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png'>`Screenshot 2`</a>  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png?raw=true'>`Screenshot 3`</a> 
   -  `2021` `swift` 
   -  ☆`66` 
 - [Monotone](https://github.com/Neko3000/Monotone): Modern way to explore Unsplash
@@ -2166,7 +2166,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2020` `swift` `swiftui` `combine` 
   -  ☆`38` 
 - [Projector](https://github.com/fatih-gursoy/Projector): Get information about movies using The Movie Database (TMDb)
-  -  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png?raw=true'>`Screenshot 3`</a> 
   -  `2022` `swift` `core-data` `alamofire` `themoviedb` 
   -  ☆`4` 
 - [Reading List](https://github.com/AndrewBennet/ReadingListV1): Track personal reading lists
@@ -2961,7 +2961,7 @@ https://newsapi.org/ — [back to top](#readme)
  
 
 - [Shlist](https://github.com/pointspy/shlist): Shopping list
-  - [` App Store`](https://apps.apple.com/app/shlist/id1551533470) <a href='https://github.com/pointspy/shlist/blob/master/images/image1.png'>`Screenshot 1`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image2.png'>`Screenshot 2`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image3.png'>`Screenshot 3`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image4.png'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/shlist/id1551533470) <a href='https://github.com/pointspy/shlist/blob/master/images/image1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image4.png?raw=true'>`Screenshot 4`</a> 
   -  `2021` `swift` `ipad` 
   -  ☆`17` 
 - [WooCommerce](https://github.com/woocommerce/woocommerce-ios): Manage orders, receive sales notifications, and view key metrics
@@ -2990,14 +2990,14 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2026` `swift` `swiftui` 
   -  ☆`247` 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists
-  -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png?raw=true'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` `ipad` `spotify` `spotifyradar` `rxswift` `coordinator` `mvvm` 
   -  ☆`644` 
 - [TweetleDumb](https://github.com/IanKeen/TweetleDumb): Mock (dumb) Twitter app
   -  `2020` `swift` 
   -  ☆`33` 
 - [TwitterSentiment](https://github.com/draese/TwitterSentiment): Score Twitter messages using a CoreML model for NLP sentiment analysis
-  -  <a href='https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`15` 
 ### Mastodon 
@@ -3115,7 +3115,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `ipad` `pdf` `apple pencil` 
   -  ☆`670` 
 - [MajorKey](https://github.com/KrauseFx/MajorKey): The fastest way to add a note to your email inbox
-  -  <a href='https://github.com/KrauseFx/MajorKey/blob/master/screenshot.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/KrauseFx/MajorKey/blob/master/screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`185` 
 - [NoteGen](https://github.com/codexu/note-gen): Capture scattered information and organize it into Markdown notes with AI
@@ -3219,7 +3219,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`8` 
 - [Sky Wizard](https://github.com/hishd/SkyWizard-SwiftUI): Interactive 3D models, animated forecasts and a wizard guide for real-time updates
   - <a href=https://hishd.github.io/SkyWizard/>`https://hishd.github.io/SkyWizard/`</a>
-  - [` App Store`](https://apps.apple.com/app/sky-wizard/id6738307790) <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg'>`Screenshot 4`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg'>`Screenshot 5`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg'>`Screenshot 6`</a> 
+  - [` App Store`](https://apps.apple.com/app/sky-wizard/id6738307790) <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg?raw=true'>`Screenshot 5`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg?raw=true'>`Screenshot 6`</a> 
   -  `2025` `swiftui` `weather` `spritekit` `scenekit` `openmetro` `geocoding` 
   -  ☆`17` 
 - [StormyLaunch](https://github.com/Sendeky/weatherkit-weather-app): Weather with launchable rocket and animations
@@ -3324,7 +3324,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2025` `objc` 
   -  ☆`192` 
 - [Food2Fork Recipes](https://github.com/mitchtabian/Food2Fork-KMM)
-  -  <a href='https://github.com/mitchtabian/Food2Fork-KMM/blob/master/assets/list_detail_demo.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/mitchtabian/Food2Fork-KMM/blob/master/assets/list_detail_demo.gif?raw=true'>`Screenshot 1`</a> 
   -  `2022` `kmm` `kotlin` 
   -  ☆`369` 
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP): An implementation of the Remote Desktop Protocol (RDP)
@@ -3472,7 +3472,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2024` `swift` 
   -  ☆`33` 
 - [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense
-  -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`41` 
 ### Firebase 
@@ -3955,7 +3955,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2022` `swift` `swift3` `rxswift` `mvvm` 
   -  ☆`1286` 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists
-  -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png?raw=true'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` `ipad` `spotify` `spotifyradar` `rxswift` `coordinator` `mvvm` 
   -  ☆`644` 
 - [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture
@@ -4463,7 +4463,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2019` `swift` `swiftui` `openweathermap api` 
   -  ☆`26` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
-  - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png?raw=true'>`Screenshot 3`</a> 
   -  `2024` `watchos` `swiftui` `alamofire` 
   -  ☆`93` 
 - [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game, Word Master and wordle-solver

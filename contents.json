@@ -1631,7 +1631,7 @@
       "description": "Harry Potter themed social network similar to Instagram",
       "source": "https://github.com/surayashivji/potter-pics",
       "screenshots": [
-        "https://github.com/surayashivji/potter-pics/blob/master/Overview.gif"
+        "https://github.com/surayashivji/potter-pics/blob/master/Overview.gif?raw=true"
       ],
       "date_added": "Jan 15 2017",
       "suggested_by": "@surayashivji",
@@ -2536,7 +2536,7 @@
       ],
       "source": "https://github.com/SeekingMini/MoneyPlus",
       "screenshots": [
-        "https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png"
+        "https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png?raw=true"
       ],
       "date_added": "May 17 2020",
       "suggested_by": "@SeekingMini",
@@ -2726,14 +2726,14 @@
       "description": "Re-implementation of Linux Frozen Bubble Game",
       "source": "https://github.com/ulritter/FrozenPengu",
       "screenshots": [
-        "https://github.com/ulritter/FrozenPengu/blob/main/fb1.png",
-        "https://github.com/ulritter/FrozenPengu/blob/main/fb2.png",
-        "https://github.com/ulritter/FrozenPengu/blob/main/fb3.png",
-        "https://github.com/ulritter/FrozenPengu/blob/main/fb4.png",
-        "https://github.com/ulritter/FrozenPengu/blob/main/fb5.png",
-        "https://github.com/ulritter/FrozenPengu/blob/main/fb6.png",
-        "https://github.com/ulritter/FrozenPengu/blob/main/fb7.png",
-        "https://github.com/ulritter/FrozenPengu/blob/main/fb8.png"
+        "https://github.com/ulritter/FrozenPengu/blob/main/fb1.png?raw=true",
+        "https://github.com/ulritter/FrozenPengu/blob/main/fb2.png?raw=true",
+        "https://github.com/ulritter/FrozenPengu/blob/main/fb3.png?raw=true",
+        "https://github.com/ulritter/FrozenPengu/blob/main/fb4.png?raw=true",
+        "https://github.com/ulritter/FrozenPengu/blob/main/fb5.png?raw=true",
+        "https://github.com/ulritter/FrozenPengu/blob/main/fb6.png?raw=true",
+        "https://github.com/ulritter/FrozenPengu/blob/main/fb7.png?raw=true",
+        "https://github.com/ulritter/FrozenPengu/blob/main/fb8.png?raw=true"
       ],
       "license": "gpl-2.0",
       "date_added": "Aug 18 2023",
@@ -5201,8 +5201,8 @@
       ],
       "source": "https://github.com/opensourceios/Keinex-iOS",
       "screenshots": [
-        "https://github.com/opensourceios/Keinex-iOS/blob/master/1.jpg",
-        "https://github.com/opensourceios/Keinex-iOS/blob/master/2.jpg"
+        "https://github.com/opensourceios/Keinex-iOS/blob/master/1.jpg?raw=true",
+        "https://github.com/opensourceios/Keinex-iOS/blob/master/2.jpg?raw=true"
       ],
       "tags": [
         "swift",
@@ -5936,10 +5936,10 @@
       "date_added": "Sat Mar 20 14:27:17 +0500 2021",
       "suggested_by": "@pointspy",
       "screenshots": [
-        "https://github.com/pointspy/shlist/blob/master/images/image1.png",
-        "https://github.com/pointspy/shlist/blob/master/images/image2.png",
-        "https://github.com/pointspy/shlist/blob/master/images/image3.png",
-        "https://github.com/pointspy/shlist/blob/master/images/image4.png"
+        "https://github.com/pointspy/shlist/blob/master/images/image1.png?raw=true",
+        "https://github.com/pointspy/shlist/blob/master/images/image2.png?raw=true",
+        "https://github.com/pointspy/shlist/blob/master/images/image3.png?raw=true",
+        "https://github.com/pointspy/shlist/blob/master/images/image4.png?raw=true"
       ],
       "updated": "2021-03-20 09:15:42 UTC"
     },
@@ -11383,7 +11383,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/pjchavarria/Swift-Gif/blob/master/Swift-Gif/demo.gif"
+        "https://github.com/pjchavarria/Swift-Gif/blob/master/Swift-Gif/demo.gif?raw=true"
       ],
       "date_added": "Tue Jun 14 08:57:25 2016 -0700",
       "suggested_by": "@dkhamsing",
@@ -13072,9 +13072,9 @@
       "source": "https://github.com/ivan-magda/MVVM-Example",
       "license": "mit",
       "screenshots": [
-        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png",
-        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png",
-        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png"
+        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png?raw=true",
+        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png?raw=true",
+        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png?raw=true"
       ],
       "suggested_by": "@vanyaland",
       "stars": 52,
@@ -13277,8 +13277,8 @@
       "description": "A game like ’Life Line’",
       "source": "https://github.com/cpo007/S.C.P-Asylum-Fail",
       "screenshots": [
-        "https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Launch.png",
-        "https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Home.png"
+        "https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Launch.png?raw=true",
+        "https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Home.png?raw=true"
       ],
       "lang": "zho",
       "category-ids": [
@@ -14359,8 +14359,8 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png",
-        "https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png"
+        "https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png?raw=true",
+        "https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png?raw=true"
       ],
       "description": "Cross-platform app for discovering recent & popular movies",
       "source": "https://github.com/ivan-magda/Popular-Movies",
@@ -14384,7 +14384,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif"
+        "https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif?raw=true"
       ],
       "license": "other",
       "date_added": "Jan 20 2017",
@@ -16968,7 +16968,7 @@
       ],
       "stars": 3283,
       "screenshots": [
-        "https://github.com/artemnovichkov/iOS-11-by-Examples/blob/master/resources/vision-landmarks-example.jpeg"
+        "https://github.com/artemnovichkov/iOS-11-by-Examples/blob/master/resources/vision-landmarks-example.jpeg?raw=true"
       ],
       "date_added": "Sep 7 2017",
       "suggested_by": "@artemnovichkov",
@@ -17405,7 +17405,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/KrauseFx/MajorKey/blob/master/screenshot.png"
+        "https://github.com/KrauseFx/MajorKey/blob/master/screenshot.png?raw=true"
       ],
       "stars": 185,
       "license": "mit",
@@ -20011,7 +20011,7 @@
       "source": "https://github.com/tirupati17/giphy-mvvm-swift",
       "description": "Uses the MVVM (Model–view–viewmodel) pattern",
       "screenshots": [
-        "https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png"
+        "https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png?raw=true"
       ],
       "tags": [
         "mvvm",
@@ -20032,8 +20032,8 @@
       "source": "https://github.com/tirupati17/contacts-mvp-swift",
       "description": "Uses the MVP (Model View Presenter) pattern",
       "screenshots": [
-        "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot1.png",
-        "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot2.png"
+        "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot1.png?raw=true",
+        "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot2.png?raw=true"
       ],
       "tags": [
         "mvp",
@@ -20429,9 +20429,9 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png",
-        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png",
-        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png"
+        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png?raw=true",
+        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png?raw=true",
+        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png?raw=true"
       ],
       "date_added": "March 24 2020",
       "suggested_by": "@MartinStamenkovski",
@@ -23762,7 +23762,7 @@
         "mvvm"
       ],
       "screenshots": [
-        "https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png"
+        "https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png?raw=true"
       ],
       "date_added": "Jun 26 2020",
       "suggested_by": "@thasianx",
@@ -24600,8 +24600,8 @@
       "description": "Studio Ghibli movie database",
       "source": "https://github.com/kxvn-lx/Ghibliii",
       "screenshots": [
-        "https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image1.png",
-        "https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image2.png"
+        "https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image1.png?raw=true",
+        "https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image2.png?raw=true"
       ],
       "license": "apache-2.0",
       "tags": [
@@ -24862,7 +24862,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/opensourceios/AccountBook/blob/master/1242x2688bb.png"
+        "https://github.com/opensourceios/AccountBook/blob/master/1242x2688bb.png?raw=true"
       ],
       "date_added": "Aug 20 2020",
       "suggested_by": "Mas0nSun",
@@ -26430,9 +26430,9 @@
       "source": "https://github.com/kyledold/WordOfTheDay",
       "itunes": "https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328",
       "screenshots": [
-        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png",
-        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png",
-        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png"
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png?raw=true",
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png?raw=true",
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png?raw=true"
       ],
       "date_added": "Feb 8 2021",
       "license": "mit",
@@ -27856,7 +27856,7 @@
         "kotlin"
       ],
       "screenshots": [
-        "https://github.com/mitchtabian/Food2Fork-KMM/blob/master/assets/list_detail_demo.gif"
+        "https://github.com/mitchtabian/Food2Fork-KMM/blob/master/assets/list_detail_demo.gif?raw=true"
       ],
       "date_added": "Nov 8 2021",
       "suggested_by": "@dkhamsing",
@@ -28400,7 +28400,7 @@
       "date_added": "Jan 19 2022",
       "suggested_by": "@draese",
       "screenshots": [
-        "https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png"
+        "https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png?raw=true"
       ],
       "stars": 15,
       "updated": "2022-01-19 18:43:01 UTC"
@@ -28656,9 +28656,9 @@
       "description": "Get information about movies using The Movie Database (TMDb)",
       "source": "https://github.com/fatih-gursoy/Projector",
       "screenshots": [
-        "https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png",
-        "https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png",
-        "https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png"
+        "https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png?raw=true",
+        "https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png?raw=true",
+        "https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png?raw=true"
       ],
       "license": "other",
       "date_added": "Feb 10 2022",
@@ -29772,9 +29772,9 @@
       ],
       "description": "A headache diary that respects your privacy",
       "screenshots": [
-        "https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png",
-        "https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png",
-        "https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png"
+        "https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/raw/main/en-GB/1-iPhone%2013%20Pro%20Max.png",
+        "https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/raw/main/en-GB/2-iPhone%2013%20Pro%20Max.png",
+        "https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/raw/main/en-GB/3-iPhone%2013%20Pro%20Max.png"
       ],
       "license": "gpl-3.0",
       "source": "https://gitlab.com/mglog/org.zerodogg.migraineLog",
@@ -32911,12 +32911,12 @@
       "date_added": "Nov 29 2024",
       "suggested_by": "@hishd",
       "screenshots": [
-        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg",
-        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg",
-        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg",
-        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg",
-        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg",
-        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg"
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg?raw=true",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg?raw=true",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg?raw=true",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg?raw=true",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg?raw=true",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg?raw=true"
       ],
       "updated": "2025-01-13 12:31:07 UTC"
     },
@@ -33830,7 +33830,7 @@
         "swifui"
       ],
       "screenshots": [
-        "https://github.com/sahilsatralkar/ContextComposer/blob/main/screenshot.png"
+        "https://github.com/sahilsatralkar/ContextComposer/blob/main/screenshot.png?raw=true"
       ],
       "license": "apache-2.0",
       "stars": 5,
