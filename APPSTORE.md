@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/llceejll/open-source-ios-apps -->
 
-List of **333** open-source apps published on the App Store (complete list [here](https://github.com/llceejll/open-source-ios-apps)).
+List of **332** open-source apps published on the App Store (complete list [here](https://github.com/llceejll/open-source-ios-apps)).
 
 
 

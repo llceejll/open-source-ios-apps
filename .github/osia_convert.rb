@@ -17,24 +17,10 @@ SHOW_TWITTER = false
 # Helpers
 
 def app_store_total(j)
-  apps = j['projects']
-  s = apps.reject { |x| x['itunes'].nil? }
-
-  count = 1
-  s.each do |x|
+  j['projects'].count do |x|
     tags = x['tags']
-    if tags.nil?
-      t = "#{count} "
-      count = count + 1
-    else
-      unless tags.include?(ARCHIVE_TAG)
-        t = "#{count} #{tags}"
-        count = count + 1
-      end
-    end
+    !x['itunes'].nil? && (tags.nil? || !tags.include?(ARCHIVE_TAG))
   end
-
-  count
 end
 
 def apps_archived(apps)
