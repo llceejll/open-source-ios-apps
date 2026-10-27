@@ -2589,7 +2589,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2026` `swift` `carthage` `afnetworking` `purelayout` 
   -  ☆`168` 
 - [WordPress](https://github.com/wordpress-mobile/WordPress-iOS): Official WordPress app
-  - [` App Store`](https://apps.apple.com/app/wordpress/id335703880) <a href='https://mobiledotblog.files.wordpress.com/2019/10/690x0w.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/wordpress/id335703880) <a href='https://mobiledotblog.wordpress.com/wp-content/uploads/2019/10/690x0w.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`3904` 
 ## Productivity 
