@@ -1425,7 +1425,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`46` 
 - [Conduck](https://github.com/GigaDuckAI/conduck): Native voice and text client for your self-hosted or BYO-key AI, on iPhone, iPad, Mac, Apple Watch and CarPlay
   - [` App Store`](https://apps.apple.com/app/id6773045286) <a href='https://github.com/user-attachments/assets/083609a7-f841-4d2c-96dc-78c0d6c9de5a'>`Screenshot 1`</a> 
-  -  `2026` `swift` `swiftui` `apple-watch` `macos` `swiftui` 
+  -  `2026` `swift` `swiftui` `apple-watch` `macos` 
   -  ☆`33` 
 - [DartPDF](https://github.com/ben-milanko/dart-pdf/tree/main/app): PDF editor for annotating documents and filling forms
   - <a href=https://dart-pdf.com/>`https://dart-pdf.com/`</a>

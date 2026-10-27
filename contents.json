@@ -15532,7 +15532,6 @@
       "description": "An early stage app.net iPhone app",
       "source": "https://github.com/FredericJacobs/fudge",
       "tags": [
-        "archive",
         "archive"
       ],
       "category-ids": [
@@ -34501,7 +34500,6 @@
         "tvos",
         "cloudkit",
         "top shelf",
-        "cloudkit",
         "shareplay"
       ],
       "license": "mit",
@@ -34834,8 +34832,7 @@
         "swift",
         "swiftui",
         "apple-watch",
-        "macos",
-        "swiftui"
+        "macos"
       ],
       "description": "Native voice and text client for your self-hosted or BYO-key AI, on iPhone, iPad, Mac, Apple Watch and CarPlay",
       "source": "https://github.com/GigaDuckAI/conduck",
