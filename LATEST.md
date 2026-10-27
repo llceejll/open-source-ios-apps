@@ -1,6 +1,6 @@
 # Open-Source iOS Apps Latest
 
-## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
+## Latest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
 1. [Pocket AI Lab](https://github.com/ananasDDA/pocket-ai-lab)
 2. [Waybill](https://github.com/Yvsleyen00941/Waybill)

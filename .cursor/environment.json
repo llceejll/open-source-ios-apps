@@ -1,5 +1,4 @@
 {
-  "name": "open-source-ios-apps",
   "user": "ubuntu",
   "install": "bash .cursor/install.sh"
 }

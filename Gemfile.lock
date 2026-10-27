@@ -1,0 +1,27 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_bot (1.20.0)
+      parallel (= 1.20.1)
+    json_schema (0.21.0)
+    parallel (1.20.1)
+
+PLATFORMS
+  ruby
+  x86_64-linux-gnu
+
+DEPENDENCIES
+  awesome_bot (= 1.20.0)
+  json_schema (= 0.21.0)
+
+CHECKSUMS
+  awesome_bot (1.20.0) sha256=9795d7e2ad86f0ba2c034a6c77d7641fe137f65109e3f2b0a2286dac1fe854b3
+  bundler (4.0.23) sha256=407ba8a1d928f412847f819aa5f8b6aef7c59fb51feb517112af8a165487287b
+  json_schema (0.21.0) sha256=d6e1eaf004a5185b7679eee34286a79d48e467d794ff68981d72ad23d3b2ec5b
+  parallel (1.20.1) sha256=ed4faec4498bf921e10ac8683ed5840d91e2f307c26f8e24f8d8ae58415ea500
+
+RUBY VERSION
+  ruby 3.2.3
+
+BUNDLED WITH
+  4.0.23

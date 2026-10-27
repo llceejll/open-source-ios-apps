@@ -1,25 +1,52 @@
 name: Validate
 
 on:
+  push:
+    branches: [ '**' ]
   pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.4.0'    
-          bundler-cache: true      
-
-      - name: Install json_schema
-        run: gem install json_schema
+          ruby-version: '3.2.3'
+          bundler-cache: true
 
       - name: Validate schema
-        run: validate-schema .github/schema.json contents.json
+        run: bundle exec validate-schema .github/schema.json contents.json
 
       - name: Validate categories
-        run: ruby .github/osia_validate_categories.rb
+        run: bundle exec ruby .github/osia_validate_categories.rb
+
+      - name: Validate scripts and configuration
+        run: |
+          for file in .github/*.rb; do
+            bundle exec ruby -c "$file"
+          done
+          bash -n .cursor/install.sh .github/deploy.sh
+          bundle exec ruby -rjson -e 'JSON.parse(File.read(".cursor/environment.json"))'
+          git diff --check
+
+      - name: Verify generated files
+        env:
+          TZ: UTC
+        run: |
+          SOURCE_DATE_EPOCH="$(git log -1 --format=%ct -- contents.json)"
+          export SOURCE_DATE_EPOCH
+          bundle exec ruby .github/osia_convert.rb
+          git diff --exit-code -- README.md APPSTORE.md ARCHIVE.md LATEST.md

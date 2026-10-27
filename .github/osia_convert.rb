@@ -172,7 +172,12 @@ def output_apps(apps, appstoreonly)
 end
 
 def output_badges(count, twitter)
-  date = DateTime.now
+  source_date_epoch = ENV['SOURCE_DATE_EPOCH']
+  date = if source_date_epoch.nil? || source_date_epoch.empty?
+           DateTime.now
+         else
+           Time.at(Integer(source_date_epoch, 10)).utc.to_datetime
+         end
   date_display = date.strftime "%B %e, %Y"
   date_display = date_display.gsub ' ', '%20'
 
@@ -327,6 +332,6 @@ write_list(j, APPSTORE, subtitle_app_store, true)
 subtitle_archive = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
 write_archive(j, subtitle_archive)
 
-subtitle_latest = "## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)\n"
+subtitle_latest = "## Latest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)\n"
 subtitle_updated = "## Most recently updated\n"
 write_latest(j, LATEST_NUM, subtitle_latest, subtitle_updated)

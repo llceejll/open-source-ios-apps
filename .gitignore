@@ -1,1 +1,8 @@
 /.gtm/
+/.bundle/
+/vendor/bundle/
+/ab-results*
+/check-info.txt
+/check-links.txt
+/check-unique.txt
+/git_history
