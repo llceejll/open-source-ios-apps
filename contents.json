@@ -8912,7 +8912,7 @@
       "source": "https://github.com/brewfactory/BrewMobile",
       "screenshots": [
         "https://brewfactory.org/BrewMobile/img/9_small.png",
-        "https://brewfactory.org/BrewMobile/img/8_small.png"
+        "http://brewfactory.org/BrewMobile/img/8_small.png"
       ],
       "stars": 192,
       "tags": [
@@ -9413,7 +9413,7 @@
       ],
       "screenshots": [
         "https://a4.mzstatic.com/us/r1000/098/Purple/v4/f2/ce/23/f2ce23f1-c0f5-f589-6cf6-8afcc6f374bf/mzl.taaxblls.1136x1136-75.jpg",
-        "https://a1808.phobos.apple.com/us/r1000/070/Purple/v4/c8/df/c2/c8dfc22a-9ef2-abc1-c8a6-55faab448440/mzl.qlhvmpoi.png",
+        "http://a1808.phobos.apple.com/us/r1000/070/Purple/v4/c8/df/c2/c8dfc22a-9ef2-abc1-c8a6-55faab448440/mzl.qlhvmpoi.png",
         "https://a2.mzstatic.com/us/r1000/103/Purple2/v4/48/4c/e4/484ce4d9-7e47-b6d9-261b-d1270cd31c4d/mzl.jnoizpbg.1136x1136-75.jpg"
       ],
       "stars": 1636,
@@ -11853,7 +11853,7 @@
       "description": "Ad blocker for creative, web & design ads",
       "license": "bsd-3-clause",
       "source": "https://github.com/pkamb/swab",
-      "homepage": "https://swabthe.com/",
+      "homepage": "http://swabthe.com/",
       "itunes": "https://apps.apple.com/app/swab-content-blocker-creative/id1042086002",
       "tags": [
         "swift",
@@ -12995,7 +12995,7 @@
       ],
       "stars": 605,
       "screenshots": [
-        "https://www.shinobicontrols.com/wp-content/uploads/2016/07/App_Demo.gif"
+        "https://raw.githubusercontent.com/ScottLogic/iOS10-day-by-day/master/01%20-%20Messages/Images/App_Demo.gif"
       ],
       "date_added": "Sep 2 2016",
       "suggested_by": "@dkhamsing",
@@ -13331,7 +13331,7 @@
       "lang": "fra",
       "source": "https://github.com/tpgoffline/tpg-offline-iOS",
       "screenshots": [
-        "https://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg"
+        "http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg"
       ],
       "license": "mit",
       "date_added": "Oct 14 2016",
@@ -14138,8 +14138,8 @@
       ],
       "source": "https://github.com/tastejs/PropertyCross/tree/master/xamarin",
       "screenshots": [
-        "https://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png",
-        "https://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png"
+        "http://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png",
+        "http://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png"
       ],
       "tags": [
         "csharp",
@@ -14337,7 +14337,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
+        "http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
       ],
       "license": "other",
       "date_added": "Jan 18 2017",
@@ -15306,10 +15306,10 @@
         "timer"
       ],
       "screenshots": [
-        "https://is2.mzstatic.com/image/thumb/Purple71/v4/b8/28/80/b82880a1-b833-6fdf-e381-996d9b5efbe9/source/392x696bb.jpg",
-        "https://is4.mzstatic.com/image/thumb/Purple62/v4/b1/93/93/b19393b8-4f40-da6f-5782-9dc064a00b7a/source/392x696bb.jpg",
-        "https://is1.mzstatic.com/image/thumb/Purple62/v4/f0/97/48/f0974881-d371-ed70-ee40-d813d5253a81/source/392x696bb.jpg",
-        "https://is3.mzstatic.com/image/thumb/Purple71/v4/17/6b/c3/176bc37e-da3d-7b14-3983-7fe1e255dc3d/source/392x696bb.jpg"
+        "http://is2.mzstatic.com/image/thumb/Purple71/v4/b8/28/80/b82880a1-b833-6fdf-e381-996d9b5efbe9/source/392x696bb.jpg",
+        "http://is4.mzstatic.com/image/thumb/Purple62/v4/b1/93/93/b19393b8-4f40-da6f-5782-9dc064a00b7a/source/392x696bb.jpg",
+        "http://is1.mzstatic.com/image/thumb/Purple62/v4/f0/97/48/f0974881-d371-ed70-ee40-d813d5253a81/source/392x696bb.jpg",
+        "http://is3.mzstatic.com/image/thumb/Purple71/v4/17/6b/c3/176bc37e-da3d-7b14-3983-7fe1e255dc3d/source/392x696bb.jpg"
       ],
       "license": "other",
       "date_added": "Apr 21 2017",
@@ -15330,9 +15330,9 @@
       ],
       "source": "https://github.com/opensourceios/superday",
       "screenshots": [
-        "https://is5.mzstatic.com/image/thumb/Purple118/v4/d6/97/b8/d697b84a-e5e4-9a30-f349-64e46c960310/source/392x696bb.jpg",
-        "https://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg",
-        "https://is2.mzstatic.com/image/thumb/Purple118/v4/ed/52/fe/ed52fead-02f5-dbea-ae3b-e1a8c902f0f0/source/392x696bb.jpg"
+        "http://is5.mzstatic.com/image/thumb/Purple118/v4/d6/97/b8/d697b84a-e5e4-9a30-f349-64e46c960310/source/392x696bb.jpg",
+        "http://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg",
+        "http://is2.mzstatic.com/image/thumb/Purple118/v4/ed/52/fe/ed52fead-02f5-dbea-ae3b-e1a8c902f0f0/source/392x696bb.jpg"
       ],
       "license": "bsd-3-clause",
       "date_added": "Oct 10 2017",
@@ -17096,8 +17096,8 @@
         "archive"
       ],
       "screenshots": [
-        "https://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg",
-        "https://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg"
+        "http://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg",
+        "http://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg"
       ],
       "date_added": "Oct 28 2017",
       "suggested_by": "@michaello",
@@ -17112,8 +17112,8 @@
       "description": "Collaborative list of Mobile Conferences",
       "itunes": "https://apps.apple.com/app/awesome-mobile-conferences/id1289255473",
       "screenshots": [
-        "https://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg",
-        "https://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg"
+        "http://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg",
+        "http://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg"
       ],
       "tags": [
         "swift",
@@ -17277,7 +17277,7 @@
       "source": "https://github.com/louisdh/openterm",
       "description": "Sandboxed command line interface",
       "screenshots": [
-        "https://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg"
+        "http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg"
       ],
       "date_added": "Jan 8 2018",
       "suggested_by": "@dkhamsing",
@@ -33787,7 +33787,7 @@
         "react-native"
       ],
       "screenshots": [
-        "https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
+        "http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
       ],
       "license": "other",
       "date_added": "Aug 22 2025",

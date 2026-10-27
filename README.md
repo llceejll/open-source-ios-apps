@@ -3146,7 +3146,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2026` `1password` `fabric` `crashlytics` 
   -  ☆`2150` 
 - [Standard Notes](https://github.com/standardnotes/app): Notes app with focus on longevity, portability & privacy
-  - [` App Store`](https://apps.apple.com/app/standard-notes/id1285392450) <a href='https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/standard-notes/id1285392450) <a href='http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`6636` 
 ## Timer 
