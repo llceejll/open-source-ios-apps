@@ -51,9 +51,11 @@ Left in place after a browser GET: Habitica (`/static/home` returns 200), Kodi, 
 
 `ARCHIVE.md` lists titles and sources only, so a dead archived screenshot stays invisible until `contents.json` is checked. On 27 October 2026, 1,275 unique archived screenshots were requested. 284 returned 404. A screenshot URL was replaced only when the same file on the catalogued source, or the same filename after a branch move, returned an image. That covers NaughtyKeyboard, SwiftTextClock, Sol (`master` to `main`), 360 VR Player (`Example/Screenshot/PlayDemo.gif`), and the `opensourceios` repositories already used as `source` for Keinex, Retriever, LunarCore, Showio, CZInstagram, AccountBook, AR Plastic Ocean, notGIF, Wordflick, and AppleWatchFaces. Apple CDN (`mzstatic.com`) 404s and screenshots whose repository is gone were left.
 
-The same day, 63 archived homepages were checked. Task Coach, Bitrise, the 花灰 tweet (`twitter.com` to `x.com` with the same status id), and Status (`status.im` to `status.app`) now use the page the old URL redirects to. These stayed: Dash for iOS redirects to the macOS product page, BoardBank's domain is now a personal résumé, TriangleDraw's domain is an unrelated page, and the Ireland COVID Tracker redirect returns 404. Of 528 unique App Store links, 165 return 404 and none redirect to a different app id.
+The same day, 63 archived homepages were checked. Task Coach, Bitrise, the 花灰 tweet (`twitter.com` to `x.com` with the same status id), and Status (`status.im` to `status.app`) now use the page the old URL redirects to. These stayed: Dash for iOS redirects to the macOS product page, BoardBank's domain is now a personal résumé, TriangleDraw's domain is an unrelated page, and the Ireland COVID Tracker redirect returns 404. Of 528 unique App Store links, 165 return 404 and none redirect to a different app id. Checked again on 27 October 2026: all 528 are still on `apps.apple.com`, every URL has an app id, and none follow a redirect to a different id.
 
 When HTTPS fails the certificate check and the same path over HTTP returns the page or image, the entry uses HTTP. That covers Swab (`http://swabthe.com/`, title still the creative-ad blocker), the PropertyCross thumbnails, BrewMobile `8_small.png`, and 16 Apple CDN screenshots. The Bread screenshot on `is2.mzstatic.com` was the last HTTPS URL in the catalog whose certificate check failed and whose HTTP path returned `image/jpeg`. BrewMobile `9_small.png` stays on HTTPS because HTTP returns 403. Emission and Bean Juice stay, because the pages served after ignoring the certificate are not those apps. The iOS 10 Day by Day demo gif now points at `App_Demo.gif` in `ScottLogic/iOS10-day-by-day`.
+
+The 21 `http://` URLs still in the catalog were requested again over HTTPS. Twenty still fail the certificate check (curl 60). Molecules fails the handshake (curl 35). Those entries stay on HTTP.
 
 The 249 archived `aN.mzstatic.com` screenshots that returned `404 application/json` were requested again at low concurrency and still return that 404. Rewriting the host to `isN-ssl.mzstatic.com` returns 403 HTML, so those URLs stayed. Other `aN.mzstatic.com` URLs in the catalog still return `200 image/jpeg`.
 
@@ -77,7 +79,7 @@ Paws used `https://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animatio
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:09 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:12 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
