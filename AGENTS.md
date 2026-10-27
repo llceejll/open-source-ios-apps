@@ -63,9 +63,13 @@ A HEAD request to `github.com/.../assets/` and `user-attachments` URLs often ret
 
 Two more GitHub screenshot paths return 404 after the default branch redirect. `atrinh0/covid19` removed `images/graphs.png` in commit `484ab79bdb` on 12 November 2022. Delta Chat removed `docs/images/screenshot_chat_view.png` and `docs/images/screenshot_chat_list.png` in 2025. Those commits delete the files. They do not rename them, so the catalog URLs stay.
 
+A GitHub `blob` screenshot URL without `?raw=true` returns the HTML file page. On 27 October 2026, 52 of those URLs returned `text/html`. The same URL with `?raw=true` returned the file: 50 as `image/*`, and two GIFs (`Swift-Gif` `demo.gif` and Food2Fork `list_detail_demo.gif`) as `application/octet-stream` with a `GIF89a` header. Those fields now include `?raw=true`. Migraine Log’s three GitLab screenshots used `/-/blob/` and returned HTML. The same path with `/-/raw/` returns `image/png`. Those fields now use `/-/raw/`.
+
+The same day, 461 unique `raw.githubusercontent.com`, GitLab `/-/raw/`, Bitbucket, and Codeberg screenshot URLs were requested. 454 returned an image. Seven returned 404 on repositories that are already gone: Eros-FE, Beers, RaceMe, RxCurrency, and Crystal Clipboard. `status.im/img/teaser-image.png` redirects to the Status homepage, and the same path on `status.app` is 404, so that URL stayed.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:46 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:54 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
