@@ -1637,7 +1637,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2026` `swift` `swiftui` 
   -  ☆`4` 
 - [Migraine Log](https://gitlab.com/mglog/org.zerodogg.migraineLog): A headache diary that respects your privacy
-  - <a href=https://migrainelog.zerodogg.org>`https://migrainelog.zerodogg.org`</a>
+  - <a href=https://migrainelog.zerodogg.org/en>`https://migrainelog.zerodogg.org/en`</a>
   - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
   - `flutter` `dart` 
 - [MirrorNotes](https://github.com/lokii49/mirror): Private AI journaling with daily reflection prompts, mood timeline, and more
@@ -3119,7 +3119,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2022` `swift` 
   -  ☆`185` 
 - [NoteGen](https://github.com/codexu/note-gen): Capture scattered information and organize it into Markdown notes with AI
-  - <a href=https://notegen.top/>`https://notegen.top/`</a>
+  - <a href=https://notegen.top/en>`https://notegen.top/en`</a>
   -  <a href='https://s2.loli.net/2025/12/22/jlpEP2c6ogwHhIA.png'>`Screenshot 1`</a> 
   -  `2026` `typescript` `rust` 
   -  ☆`12863` 
@@ -4242,7 +4242,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2020` `swift` `swiftui` `combine` 
   -  ☆`38` 
 - [Overcast drawer animation](https://github.com/ryanlintott/OvercastDrawer)
-  - <a href=https://twitter.com/ryanlintott/status/1548445717257064448>`https://twitter.com/ryanlintott/status/1548445717257064448`</a>
+  - <a href=https://x.com/ryanlintott/status/1548445717257064448>`https://x.com/ryanlintott/status/1548445717257064448`</a>
   -  `2022` `swift` `swiftui` 
   -  ☆`19` 
 - [Parallax-Card-SwiftUI](https://github.com/neodroid/Parallax-Card-SwiftUI)
@@ -4334,7 +4334,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2021` `swift` `swiftui` `ipad` `macos` 
   -  ☆`234` 
 - [StarPlane game proof of concept](https://gist.github.com/JohnSundell/7ae3223b5bad3712378a57aaff31d7e2)
-  - <a href=https://twitter.com/johnsundell/status/1280998529394184193>`https://twitter.com/johnsundell/status/1280998529394184193`</a>
+  - <a href=https://x.com/johnsundell/status/1280998529394184193>`https://x.com/johnsundell/status/1280998529394184193`</a>
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/09b87de7-56be-47e9-83f8-4db1d72eac09'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
 - [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)
