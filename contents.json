@@ -2604,6 +2604,7 @@
       ],
       "description": "Show portfolio in a minimalist Today Extension",
       "source": "https://github.com/premnirmal/TodayStocks",
+      "itunes": "https://apps.apple.com/app/todaystocks/id993467855",
       "stars": 41,
       "license": "mit",
       "date_added": "Mon Jun 29 11:48:38 2015 +0800",
@@ -9532,6 +9533,7 @@
       ],
       "license": "apache-2.0",
       "source": "https://github.com/Haoest/SudokuResolv",
+      "itunes": "https://apps.apple.com/app/sudoku-resolv/id446583583",
       "tags": [
         "archive"
       ],
@@ -12423,6 +12425,7 @@
         "archive"
       ],
       "source": "https://github.com/100mango/Celluloid",
+      "itunes": "https://apps.apple.com/app/celluloid/id1124966798",
       "license": "mit",
       "lang": "zho",
       "date_added": "Sun Jul 24 18:02:47 2016 -0300",
@@ -16690,6 +16693,7 @@
     {
       "title": "gbible",
       "source": "https://github.com/photokandyStudios/gbible",
+      "itunes": "https://apps.apple.com/app/greek-interlinear-bible/id520000138",
       "category-ids": [
         "misc"
       ],
@@ -29093,6 +29097,7 @@
       "license": "mit",
       "description": "Terminal emulator and SSH client",
       "source": "https://github.com/migueldeicaza/SwiftTermApp",
+      "itunes": "https://apps.apple.com/app/la-terminal-mosh-ssh-client/id1629902861",
       "screenshots": [
         "https://user-images.githubusercontent.com/36863/81033655-645d5980-8e62-11ea-91c5-1d8b1931c7ce.png"
       ],
