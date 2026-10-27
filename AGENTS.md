@@ -17,6 +17,8 @@ Required project fields are `title`, `category-ids`, and `source`. An unknown ca
 
 On 27 October 2026, `awesome_bot check-unique.txt --allow-ssl --allow 302,429,502` checked 2,106 source and screenshot URLs. The only failure was `https://git.shadowfacts.net/shadowfacts/Tusker`, which the link workflow already whitelists as `shadowfacts`.
 
+The link workflow whitelist is a substring match. Two entries matched no current catalog URL and were removed. `263bb0f74818` was an OpenNutriTracker screenshot replaced in upstream `#1901`. `linphone.org` was the old GitLab host; Linphone's source is now `BelledonneCommunications/linphone-iphone`. The 17 Medium CDN screenshots and the FTC Scorer Giphy file that the remaining tokens cover returned an image on GET the same day.
+
 Generated list links point at `llceejll/open-source-ios-apps`. `suggested_by` values and screenshot files hosted under `dkhamsing/open-source-ios-apps` stay as they are. The footer still credits the original author.
 
 Do not run `.github/deploy.sh`.
@@ -79,7 +81,7 @@ Paws used `https://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animatio
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:12 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:29 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.

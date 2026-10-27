@@ -43,12 +43,10 @@ jobs:
             shadowfacts,
             c0051d18eb21,
             636db0400a1d,
-            263bb0f74818,
             b04e7e7b9917,
             86f88feaf81a,
             cdn-images-1,
-            ib9hnrPzudBWOE5hTr,
-            linphone.org
+            ib9hnrPzudBWOE5hTr
         run: |
           awesome_bot check-unique.txt \
             --allow-ssl \
