@@ -26398,7 +26398,9 @@
         "github"
       ],
       "tags": [
-        "swift, reactorkit, rxswift",
+        "swift",
+        "reactorkit",
+        "rxswift",
         "moya",
         "archive"
       ],
@@ -27992,10 +27994,9 @@
         "kmm",
         "graphql"
       ],
-      "license": "mit",
+      "license": "apache-2.0",
       "source": "https://github.com/joreilly/StarWars",
       "date_added": "Nov 22 2021",
-      "suggested_by": "apache-2.0",
       "screenshots": [
         "https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true"
       ],
