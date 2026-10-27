@@ -1318,7 +1318,7 @@ File Management — [back to top](#readme)
   -  `2026` `objc` 
   -  ☆`274` 
 - [Bread](https://github.com/breadwallet/breadwallet-ios): Bitcoin wallet
-  - [` App Store`](https://apps.apple.com/app/breadwallet/id885251393) <a href='https://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/breadwallet/id885251393) <a href='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`638` 
 - [Cryptocurrency Info](https://github.com/denissimon/Cryptocurrency-Info): Prices and other related info using the Messari API
