@@ -45,9 +45,11 @@ Left in place after a browser GET: Habitica (`/static/home` returns 200), Kodi, 
 
 `ARCHIVE.md` lists titles and sources only, so a dead archived screenshot stays invisible until `contents.json` is checked. On 27 October 2026, 1,275 unique archived screenshots were requested. 284 returned 404. A screenshot URL was replaced only when the same file on the catalogued source, or the same filename after a branch move, returned an image. That covers NaughtyKeyboard, SwiftTextClock, Sol (`master` to `main`), 360 VR Player (`Example/Screenshot/PlayDemo.gif`), and the `opensourceios` repositories already used as `source` for Keinex, Retriever, LunarCore, Showio, CZInstagram, AccountBook, AR Plastic Ocean, notGIF, Wordflick, and AppleWatchFaces. Apple CDN (`mzstatic.com`) 404s and screenshots whose repository is gone were left.
 
+The same day, 63 archived homepages were checked. Task Coach, Bitrise, the 花灰 tweet (`twitter.com` to `x.com` with the same status id), and Status (`status.im` to `status.app`) now use the page the old URL redirects to. These stayed: Dash for iOS redirects to the macOS product page, BoardBank's domain is now a personal résumé, TriangleDraw's domain is an unrelated page, and the Ireland COVID Tracker redirect returns 404. Of 528 unique App Store links, 165 return 404 and none redirect to a different app id.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:11 PM Toronto:
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:17 PM Toronto:
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
