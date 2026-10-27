@@ -59,9 +59,13 @@ The remaining non-Apple archived screenshot failures were searched in each live 
 
 MoodSnap’s screenshot URL had a trailing `)`. With that character the GitHub asset returns 404. Without it, the same asset returns HTTP 302 to `image/jpeg` (JFIF, 166,363 bytes). The parenthesis is removed and the asset URL is unchanged.
 
+A HEAD request to `github.com/.../assets/` and `user-attachments` URLs often returns 403. GET follows the redirect and returns the image. Those URLs stay. `user-images.githubusercontent.com` and `cloud.githubusercontent.com` samples return the image on GET.
+
+Two more GitHub screenshot paths return 404 after the default branch redirect. `atrinh0/covid19` removed `images/graphs.png` in commit `484ab79bdb` on 12 November 2022. Delta Chat removed `docs/images/screenshot_chat_view.png` and `docs/images/screenshot_chat_list.png` in 2025. Those commits delete the files. They do not rename them, so the catalog URLs stay.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:43 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:46 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
