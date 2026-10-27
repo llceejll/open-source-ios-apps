@@ -130,7 +130,7 @@
       "title": "SpriteKit",
       "id": "spritekit",
       "parent": "game",
-      "description": "https://developer.apple.com/reference/spritekit"
+      "description": "https://developer.apple.com/documentation/spritekit"
     },
     {
       "title": "Health",
@@ -155,7 +155,7 @@
       "title": "ResearchKit",
       "id": "researchkit",
       "parent": "health",
-      "description": "https://www.apple.com/researchkit/"
+      "description": "https://www.researchandcare.org/"
     },
     {
       "title": "Home",
@@ -345,7 +345,7 @@
       "title": "Realm",
       "id": "realm",
       "parent": "misc",
-      "description": "https://realm.io/"
+      "description": "https://www.mongodb.com/docs/atlas/device-sdks/deprecation/"
     },
     {
       "title": "RxSwift",
@@ -368,7 +368,7 @@
       "title": "Xamarin",
       "id": "xamarin",
       "parent": "misc",
-      "description": "https://www.xamarin.com/"
+      "description": "https://dotnet.microsoft.com/en-us/apps/xamarin"
     },
     {
       "title": "Bonus",

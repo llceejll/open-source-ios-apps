@@ -1513,7 +1513,7 @@ https://cocos2d.org/ — [back to top](#readme)
 
 ### SpriteKit 
  
-https://developer.apple.com/reference/spritekit — [back to top](#readme) 
+https://developer.apple.com/documentation/spritekit — [back to top](#readme) 
  
 
 - [2048](https://github.com/danqing/2048)
@@ -1828,7 +1828,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`2` 
 ### ResearchKit 
  
-https://www.apple.com/researchkit/ — [back to top](#readme) 
+https://www.researchandcare.org/ — [back to top](#readme) 
  
 
 ## Home 
@@ -3927,7 +3927,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   -  ☆`1498` 
 ### Realm 
  
-https://realm.io/ — [back to top](#readme) 
+https://www.mongodb.com/docs/atlas/device-sdks/deprecation/ — [back to top](#readme) 
  
 
 - [Model2App Test App](https://github.com/Q-Mobile/Model2App): Simple CRM app built using Model2App library, lets you quickly generate a CRUD iOS app based on just a data model
@@ -4493,7 +4493,7 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
   -  ☆`331` 
 ### Xamarin 
  
-https://www.xamarin.com/ — [back to top](#readme) 
+https://dotnet.microsoft.com/en-us/apps/xamarin — [back to top](#readme) 
  
 
 - [GitTrends](https://github.com/TheCodeTraveler/GitTrends): Track Repo Clones and Views

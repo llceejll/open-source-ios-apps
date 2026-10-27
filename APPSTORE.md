@@ -824,7 +824,7 @@ https://cocos2d.org/ — [back to top](#readme)
 
 ### SpriteKit 
  
-https://developer.apple.com/reference/spritekit — [back to top](#readme) 
+https://developer.apple.com/documentation/spritekit — [back to top](#readme) 
  
 
 - [Potato Game](https://github.com/mick-schroeder/PotatoGame): Relaxing physics-based puzzle game where players tilt the board to move emojis and merge matching ones until they create a potato
@@ -1008,7 +1008,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`2` 
 ### ResearchKit 
  
-https://www.apple.com/researchkit/ — [back to top](#readme) 
+https://www.researchandcare.org/ — [back to top](#readme) 
  
 
 ## Home 
@@ -2064,7 +2064,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   -  ☆`1498` 
 ### Realm 
  
-https://realm.io/ — [back to top](#readme) 
+https://www.mongodb.com/docs/atlas/device-sdks/deprecation/ — [back to top](#readme) 
  
 
 ### RxSwift 
@@ -2160,7 +2160,7 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
   -  ☆`331` 
 ### Xamarin 
  
-https://www.xamarin.com/ — [back to top](#readme) 
+https://dotnet.microsoft.com/en-us/apps/xamarin — [back to top](#readme) 
  
 
 ## Bonus 
