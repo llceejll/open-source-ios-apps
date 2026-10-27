@@ -3745,7 +3745,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/Palleas/NaughtyKeyboard/raw/master/Images/twitter-keyboard.gif"
+        "https://github.com/ebelair/NaughtyKeyboard/raw/master/Images/twitter-keyboard.gif"
       ],
       "date_added": "Mon Nov 16 09:50:37 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -4196,7 +4196,7 @@
       "date_added": "Wed Dec 2 22:17:02 2015 +0800",
       "suggested_by": "@Hanton",
       "screenshots": [
-        "https://raw.githubusercontent.com/hanton/Fisheye/master/Screenshot/PlayDemo.gif"
+        "https://raw.githubusercontent.com/hanton/Fisheye/main/Example/Screenshot/PlayDemo.gif"
       ],
       "updated": "2026-03-08 21:49:08 UTC"
     },
@@ -5201,8 +5201,8 @@
       ],
       "source": "https://github.com/opensourceios/Keinex-iOS",
       "screenshots": [
-        "https://github.com/Keinex/Keinex-iOS/blob/master/1.jpg",
-        "https://github.com/Keinex/Keinex-iOS/blob/master/2.jpg"
+        "https://github.com/opensourceios/Keinex-iOS/blob/master/1.jpg",
+        "https://github.com/opensourceios/Keinex-iOS/blob/master/2.jpg"
       ],
       "tags": [
         "swift",
@@ -6651,8 +6651,8 @@
       "source": "https://github.com/comyar/Sol",
       "stars": 1472,
       "screenshots": [
-        "https://github.com/comyar/Sol/raw/master/Screenshots/1.png",
-        "https://github.com/comyar/Sol/raw/master/Screenshots/2.png"
+        "https://github.com/comyar/Sol/raw/main/Screenshots/1.png",
+        "https://github.com/comyar/Sol/raw/main/Screenshots/2.png"
       ],
       "date_added": "Mon Jun 15 23:24:53 2015 +0100",
       "suggested_by": "@Andrei Pop",
@@ -11494,7 +11494,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/MichMich/SwiftTextClock/raw/master/example.jpg"
+        "https://github.com/SliceOLife/SwiftTextClock/raw/master/example.jpg"
       ],
       "stars": 37,
       "date_added": "Sat Jun 18 06:41:16 2016 -0700",
@@ -13468,8 +13468,8 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/cyanzhong/retriever/raw/master/Screenshots/1.PNG",
-        "https://github.com/cyanzhong/retriever/raw/master/Screenshots/2.PNG"
+        "https://github.com/opensourceios/Retriever/raw/master/Screenshots/1.PNG",
+        "https://github.com/opensourceios/Retriever/raw/master/Screenshots/2.PNG"
       ],
       "license": "other",
       "date_added": "Oct 27 2016",
@@ -13619,7 +13619,7 @@
       "description": "Small lunar calendar with Today Extension",
       "source": "https://github.com/opensourceios/LunarCore",
       "screenshots": [
-        "https://github.com/cyanzhong/LunarCore/raw/master/iOS.png"
+        "https://github.com/opensourceios/LunarCore/raw/master/iOS.png"
       ],
       "category-ids": [
         "today",
@@ -16160,7 +16160,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/atuooo/notGIF/master/images/screenshots.png"
+        "https://raw.githubusercontent.com/opensourceios/notGIF/master/images/screenshots.png"
       ],
       "license": "mit",
       "date_added": "Jul 1 2017",
@@ -19206,7 +19206,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/orff/AppleWatchFaces/master/docs/AppleWatchFacesQuickDemo.gif"
+        "https://raw.githubusercontent.com/opensourceios/AppleWatchFaces/master/AppleWatchFacesQuickDemo.gif"
       ],
       "date_added": "Jan 16 2019",
       "suggested_by": "@orff",
@@ -19312,9 +19312,9 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true",
-        "https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true",
-        "https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true"
+        "https://github.com/opensourceios/showio-app/blob/master/assets/screen-1.png?raw=true",
+        "https://github.com/opensourceios/showio-app/blob/master/assets/screen-2.png?raw=true",
+        "https://github.com/opensourceios/showio-app/blob/master/assets/screen-3.png?raw=true"
       ],
       "date_added": "Mar 17 2019",
       "suggested_by": "@madyanov",
@@ -21701,7 +21701,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/geekaurora/CZInstagram/raw/master/Docs/CZInstagram.gif"
+        "https://github.com/opensourceios/CZInstagram/raw/master/Docs/CZInstagram.gif"
       ],
       "license": "mit",
       "date_added": "Apr 30 2020",
@@ -24862,7 +24862,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/Mas0nSun/AccountBook/blob/master/1242x2688bb.png"
+        "https://github.com/opensourceios/AccountBook/blob/master/1242x2688bb.png"
       ],
       "date_added": "Aug 20 2020",
       "suggested_by": "Mas0nSun",
@@ -30404,7 +30404,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/ynagatomo/ARPlasticOcean/raw/main/images/ss1.png"
+        "https://github.com/opensourceios/ARPlasticOcean/raw/main/images/ss1.png"
       ],
       "date_added": "Nov 19 2022",
       "suggested_by": "@dkhamsing",
@@ -32954,8 +32954,8 @@
         "archive"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/screenshot-sim.png",
-        "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/foutput_320.gif"
+        "https://raw.githubusercontent.com/opensourceios/wordflick-ios/main/assets/screenshot-sim.png",
+        "https://raw.githubusercontent.com/opensourceios/wordflick-ios/main/assets/foutput_320.gif"
       ],
       "stars": 0,
       "updated": "2024-12-11 19:20:00 UTC"
