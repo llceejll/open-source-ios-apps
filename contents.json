@@ -505,6 +505,7 @@
       ],
       "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
       "source": "https://github.com/Provenance-Emu/Provenance",
+      "itunes": "https://apps.apple.com/app/provenance-app/id1596862805",
       "stars": 6381,
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/132869460-db573d22-8474-47bb-9c31-db727821b879.png"
@@ -625,6 +626,7 @@
       "description": "Simple & secure Bitcoin wallet",
       "license": "apache-2.0",
       "source": "https://github.com/bither/bither-ios",
+      "itunes": "https://apps.apple.com/app/bither-bitcoin-wallet/id899478936",
       "tags": [
         "objc"
       ],
@@ -2023,6 +2025,7 @@
         "objc"
       ],
       "source": "https://github.com/rocketshipapps/adblockfast",
+      "itunes": "https://apps.apple.com/app/adblock-fast/id1032930802",
       "stars": 785,
       "license": "gpl-3.0",
       "date_added": "Fri Sep 25 08:41:14 2015 -0700",
@@ -3025,6 +3028,7 @@
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/WelkinXie/FiveInARow",
+      "itunes": "https://apps.apple.com/app/id1586528487",
       "stars": 23,
       "date_added": "Fri May 6 21:30:14 2016 -0500",
       "suggested_by": "@kvnbautista",
@@ -7460,6 +7464,7 @@
       "description": "Add phonetic keys for Chinese names",
       "license": "mit",
       "source": "https://github.com/iAugux/Phonetic",
+      "itunes": "https://apps.apple.com/app/phonetic-contacts/id1078961574",
       "screenshots": [
         "https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif"
       ],
@@ -13899,6 +13904,7 @@
       "title": "iperf",
       "description": "Run an iperf3 client, including reverse mode & multiple streams selection",
       "source": "https://github.com/ndfred/iperf-ios",
+      "itunes": "https://apps.apple.com/app/iperf-3-wifi-speed-test/id1462260546",
       "category-ids": [
         "developer"
       ],
@@ -20693,6 +20699,7 @@
       ],
       "description": "Docker/Portainer app",
       "source": "https://github.com/rrroyal/Harbour",
+      "itunes": "https://apps.apple.com/app/harbour-docker-manager/id1582439659",
       "date_added": "Apr 7 2019",
       "license": "agpl-3.0",
       "suggested_by": "@dkhamsing",
@@ -21652,6 +21659,7 @@
       ],
       "description": "Know when all your friends, colleagues and family are",
       "source": "https://github.com/mathieudutour/TimeLines",
+      "itunes": "https://apps.apple.com/app/time-lines-world-clock/id1506203873",
       "license": "other",
       "date_added": "Apr 27 2020",
       "suggested_by": "@dkhamsing",
@@ -23960,6 +23968,7 @@
         "flutter"
       ],
       "source": "https://github.com/invoiceninja/admin-portal",
+      "itunes": "https://apps.apple.com/app/invoice-ninja/id1503970375",
       "tags": [
         "flutter",
         "dart"
@@ -24010,6 +24019,7 @@
         "audio"
       ],
       "source": "https://github.com/fulldecent/vowel-practice",
+      "itunes": "https://apps.apple.com/app/vowel-practice/id799183655",
       "license": "mit",
       "tags": [
         "swift",
@@ -24073,6 +24083,7 @@
         "apple-watch"
       ],
       "source": "https://github.com/fulldecent/8-ball-answer",
+      "itunes": "https://apps.apple.com/app/8-ball-answer/id995732766",
       "license": "mit",
       "tags": [
         "swift",
@@ -24183,6 +24194,7 @@
       ],
       "description": "Identify resistors",
       "source": "https://github.com/thestoneage/IDResistors",
+      "itunes": "https://apps.apple.com/app/id-resistors/id1517383962",
       "screenshots": [
         "https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-05.png",
         "https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-02.png"
@@ -25707,6 +25719,7 @@
         "photo"
       ],
       "source": "https://github.com/meteochu/Blurry",
+      "itunes": "https://apps.apple.com/app/blurry/id1254612844",
       "license": "other",
       "tags": [
         "swift"
@@ -25917,6 +25930,7 @@
         "react-native"
       ],
       "source": "https://github.com/cheeaun/hackerweb-native-2",
+      "itunes": "https://apps.apple.com/app/hackerweb-hacker-news-client/id1084209377",
       "screenshots": [
         "https://github.com/cheeaun/hackerweb-native-2/raw/main/screenshots/hackerweb-stories-light.png"
       ],
@@ -28455,6 +28469,7 @@
       "description": "Jellyfin Client",
       "license": "mpl-2.0",
       "source": "https://github.com/jellyfin/Swiftfin",
+      "itunes": "https://apps.apple.com/app/swiftfin/id1604098728",
       "stars": 4192,
       "date_added": "Feb 6 2022",
       "suggested_by": "@dkhamsing",
@@ -30229,6 +30244,7 @@
       ],
       "description": "SHA-256 Hash collision computer",
       "source": "https://github.com/LemonPepperSeasoning/Hasher",
+      "itunes": "https://apps.apple.com/app/hasha/id6443560907",
       "screenshots": [
         "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp"
       ],
@@ -30326,6 +30342,7 @@
       "description": "Circular and corner complications for Now Playing controls",
       "license": "other",
       "source": "https://github.com/chockenberry/NowPlayingPlus",
+      "itunes": "https://apps.apple.com/app/now-playing-plus/id6443591394",
       "stars": 33,
       "date_added": "Oct 15 2022",
       "suggested_by": "@dkhamsing",
@@ -30460,6 +30477,7 @@
         "mastodon", "duo"
       ],
       "source": "https://github.com/Dimillian/IceCubesApp",
+      "itunes": "https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884",
       "tags": [
         "swift",
         "swiftui"
@@ -31576,6 +31594,7 @@
       ],
       "description": "Minimalistic and opinionated RSS Reader",
       "source": "https://github.com/prof18/feed-flow",
+      "itunes": "https://apps.apple.com/app/feedflow-rss-feed-reader/id6447210518",
       "license": "apache-2.0",
       "tags": [
         "kotlin",
@@ -31731,6 +31750,7 @@
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4ade6dbc-6bee-4018-9f10-4e9d28ca6027"
       ],
       "source": "https://github.com/tommyxchow/frosty",
+      "itunes": "https://apps.apple.com/app/frosty-for-twitch/id1603987585",
       "license": "agpl-3.0",
       "date_added": "Jan 1 2024",
       "suggested_by": "@th3m",
@@ -32403,6 +32423,7 @@
       ],
       "description": "Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information",
       "source": "https://github.com/simonoppowa/OpenNutriTracker",
+      "itunes": "https://apps.apple.com/app/opennutritracker/id6451490901",
       "screenshots": [
         "https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
         "https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
@@ -32755,6 +32776,7 @@
         "swift"
       ],
       "source": "https://github.com/EmergeTools/hackernews",
+      "itunes": "https://apps.apple.com/app/hacker-news-by-emerge/id6740922950",
       "license": "mit",
       "date_added": "Oct 25 2024",
       "suggested_by": "@dkhamsing",
@@ -33692,6 +33714,7 @@
       ],
       "description": "Mobile client for Claude Code",
       "source": "https://github.com/eugenepyvovarov/CodeAgentsMobile",
+      "itunes": "https://apps.apple.com/app/codeagents-mobile/id6748273716",
       "homepage": "https://testflight.apple.com/join/eUpweBZV",
       "date_added": "Jul 9 2025",
       "suggested_by": "@eugenepyvovarov",
