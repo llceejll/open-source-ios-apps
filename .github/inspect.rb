@@ -6,7 +6,7 @@ if ARGV.count == 0
   exit
 end
 
-c = File.read 'contents.json'
+c = File.read File.expand_path('../contents.json', __dir__)
 j = JSON.parse c
 
 projects = j['projects']

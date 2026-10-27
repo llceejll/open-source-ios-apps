@@ -11,12 +11,12 @@ end
 client = Octokit
 
 begin
-  r = client.repo g, accept: 'application/vnd.github.drax-preview+json'
+  r = client.repo g
   ap r
   lic = r[:license][:key]
 
   print "Result: "
   ap lic
-rescue => e
+rescue StandardError => e
   puts "Error: #{e}"
 end

@@ -18,7 +18,7 @@ apps.each do |a|
   else
     begin
         g = s.gsub('https://github.com/', '')
-        r = client.repo g, accept: 'application/vnd.github.drax-preview+json'
+        r = client.repo g
         lic = r[:license][:key]
         print lic
         print ':'
@@ -27,7 +27,7 @@ apps.each do |a|
         puts a['license']
 
         updated.push a
-      rescue => e
+      rescue StandardError
         a['license'] = 'other'
         puts a['license']
 

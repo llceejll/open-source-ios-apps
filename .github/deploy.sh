@@ -1,11 +1,12 @@
 #!/bin/bash
 
-set -e
+set -euo pipefail
 
 git config user.name "READMEbot"
 git config user.email "readmebot@users.noreply.github.com"
 
-status=`git status`
+initial_head=$(git rev-parse HEAD)
+status=$(git status --short)
 
 if [[ $status == *"README.md"* ]]
 then
@@ -31,4 +32,6 @@ then
   git commit -m "[auto] [ci skip] Generate LATEST"
 fi
 
-git push --quiet "https://${GH_TOKEN}@github.com/dkhamsing/open-source-ios-apps" master:master > /dev/null 2>&1
+if [[ $(git rev-parse HEAD) != "$initial_head" ]]; then
+  git push --quiet origin HEAD:master
+fi

@@ -23,7 +23,7 @@ apps.each_with_index do |a, index|
         a['stars'] = r['stargazers_count']
         a['updated'] = r['pushed_at']
         updated.push a
-      rescue => e
+      rescue StandardError => e
         puts "\nerror for #{s}: #{e}"
         updated.push a
         next

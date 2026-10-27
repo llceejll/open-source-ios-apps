@@ -1,4 +1,5 @@
 require_relative 'osia_helper'
+require 'open3'
 
 HISTORY = 'git_history'
 
@@ -9,13 +10,8 @@ h = {}
 apps.each_with_index do |a, i|
   t = a['title']
   puts "#{i + 1}/#{apps.count}. checking #{t}"
-  command = "git log --all --grep='#{t}'"
-
-  begin
-    r = `#{command}`
-  rescue e
-    r = e
-  end
+  stdout, stderr, status = Open3.capture3('git', 'log', '--all', "--grep=#{t}")
+  r = status.success? ? stdout : stderr
 
   h[t] = r
 end
