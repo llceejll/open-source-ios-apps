@@ -41,9 +41,13 @@ Applied on 27 October 2026: HealthSync to `healthysync.app`, Tutanota to `tuta.c
 
 Left in place after a browser GET: Habitica (`/static/home` returns 200), Kodi, Catrobat, TousAntiCovid, Thunderbird, and Autheris (Cloudflare 403), Strongbox (empty 202), Emission (the Berkeley host's certificate fails and the page is Berkeley Architecture Research, not the travel app), and Bean Juice (the studio work page is a 404). The latest-additions heading in `.github/osia_convert.rb` was `Lastest`; generated `LATEST.md` now says `Latest`.
 
+## Screenshots
+
+`ARCHIVE.md` lists titles and sources only, so a dead archived screenshot stays invisible until `contents.json` is checked. On 27 October 2026, 1,275 unique archived screenshots were requested. 284 returned 404. A screenshot URL was replaced only when the same file on the catalogued source, or the same filename after a branch move, returned an image. That covers NaughtyKeyboard, SwiftTextClock, Sol (`master` to `main`), 360 VR Player (`Example/Screenshot/PlayDemo.gif`), and the `opensourceios` repositories already used as `source` for Keinex, Retriever, LunarCore, Showio, CZInstagram, AccountBook, AR Plastic Ocean, notGIF, Wordflick, and AppleWatchFaces. Apple CDN (`mzstatic.com`) 404s and screenshots whose repository is gone were left.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:08 PM Toronto:
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:11 PM Toronto:
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
