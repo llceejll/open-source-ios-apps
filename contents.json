@@ -1348,8 +1348,8 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/contentful-labs/Wunderschnell/raw/master/Screenshots/initial_screen.png",
-        "https://github.com/contentful-labs/Wunderschnell/raw/master/Screenshots/order_successful.png"
+        "https://github.com/contentful/Wunderschnell/raw/master/Screenshots/initial_screen.png",
+        "https://github.com/contentful/Wunderschnell/raw/master/Screenshots/order_successful.png"
       ],
       "stars": 8,
       "date_added": "Mon May 18 08:52:02 2015 -0700",
@@ -7605,8 +7605,8 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/kimar/TheReservist/raw/master/Assets/marketing1.png",
-        "https://github.com/kimar/TheReservist/raw/master/Assets/marketing2.png"
+        "https://github.com/DK1DA/TheReservist/raw/master/Assets/marketing1.png",
+        "https://github.com/DK1DA/TheReservist/raw/master/Assets/marketing2.png"
       ],
       "stars": 6,
       "license": "mit",
@@ -13220,8 +13220,8 @@
       "description": "Full text search, favorites, and original publish dates for Calvin and Hobbes",
       "source": "https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer",
       "screenshots": [
-        "https://github.com/docileninja/Calvin-and-Hobbes-Viewer/raw/master/comic-preview.jpg",
-        "https://github.com/docileninja/Calvin-and-Hobbes-Viewer/raw/master/search-preview.jpg"
+        "https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer/raw/master/comic-preview.jpg",
+        "https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer/raw/master/search-preview.jpg"
       ],
       "category-ids": [
         "content"
@@ -23224,8 +23224,8 @@
         "archive"
       ],
       "screenshots": [
-        "https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.png",
-        "https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.gif"
+        "https://github.com/freddy5566/SwiftUI-Combine-todo-example/raw/master/asset/demo.png",
+        "https://github.com/freddy5566/SwiftUI-Combine-todo-example/raw/master/asset/demo.gif"
       ],
       "date_added": "Jun 6 2020",
       "suggested_by": "@dkhamsing",
@@ -25321,7 +25321,7 @@
       ],
       "source": "https://github.com/Oztechan/iosCCC",
       "screenshots": [
-        "https://github.com/CurrencyConverterCalculator/iosCCC/raw/master/dark.gif"
+        "https://github.com/Oztechan/iosCCC/raw/master/dark.gif"
       ],
       "license": "apache-2.0",
       "tags": [
@@ -27487,7 +27487,7 @@
       ],
       "source": "https://github.com/EthanLipnik/OpenSesame",
       "screenshots": [
-        "https://github.com/OpenSesameManager/OpenSesame/blob/main/Images/All.png?raw=true"
+        "https://github.com/EthanLipnik/OpenSesame/blob/main/Images/All.png?raw=true"
       ],
       "tags": [
         "swift",
