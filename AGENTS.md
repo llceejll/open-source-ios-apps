@@ -49,7 +49,7 @@ Left in place after a browser GET: Habitica (`/static/home` returns 200), Kodi, 
 
 The same day, 63 archived homepages were checked. Task Coach, Bitrise, the 花灰 tweet (`twitter.com` to `x.com` with the same status id), and Status (`status.im` to `status.app`) now use the page the old URL redirects to. These stayed: Dash for iOS redirects to the macOS product page, BoardBank's domain is now a personal résumé, TriangleDraw's domain is an unrelated page, and the Ireland COVID Tracker redirect returns 404. Of 528 unique App Store links, 165 return 404 and none redirect to a different app id.
 
-When HTTPS fails the certificate check and the same path over HTTP returns the page or image, the entry uses HTTP. That covers Swab (`http://swabthe.com/`, title still the creative-ad blocker), the PropertyCross thumbnails, BrewMobile `8_small.png`, and 15 Apple CDN screenshots. BrewMobile `9_small.png` stays on HTTPS because HTTP returns 403. The iOS 10 Day by Day demo gif now points at `App_Demo.gif` in `ScottLogic/iOS10-day-by-day`.
+When HTTPS fails the certificate check and the same path over HTTP returns the page or image, the entry uses HTTP. That covers Swab (`http://swabthe.com/`, title still the creative-ad blocker), the PropertyCross thumbnails, BrewMobile `8_small.png`, and 16 Apple CDN screenshots. The Bread screenshot on `is2.mzstatic.com` was the last HTTPS URL in the catalog whose certificate check failed and whose HTTP path returned `image/jpeg`. BrewMobile `9_small.png` stays on HTTPS because HTTP returns 403. Emission and Bean Juice stay, because the pages served after ignoring the certificate are not those apps. The iOS 10 Day by Day demo gif now points at `App_Demo.gif` in `ScottLogic/iOS10-day-by-day`.
 
 The 249 archived `aN.mzstatic.com` screenshots that returned `404 application/json` were requested again at low concurrency and still return that 404. Rewriting the host to `isN-ssl.mzstatic.com` returns 403 HTML, so those URLs stayed. Other `aN.mzstatic.com` URLs in the catalog still return `200 image/jpeg`.
 
@@ -57,7 +57,7 @@ The remaining non-Apple archived screenshot failures were searched in each live 
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:27 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:33 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
