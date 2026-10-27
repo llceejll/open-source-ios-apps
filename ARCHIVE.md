@@ -236,7 +236,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [EU VAT Number - VIES Freelance](https://github.com/opensourceios/VIES)
 - [EventBlankApp](https://github.com/icanzilb/EventBlankApp)
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS)
-- [EX Player](https://github.com/IGRSoft/exTVPlayer)
+- [EX Player](https://github.com/Agnidia/exTVPlayer)
 - [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios)
 - [Exchanger](https://github.com/vladimir-kaltyrin/exchanger)
 - [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building-an-app-to-notify-users-of-covid-19-exposure)

@@ -23,7 +23,11 @@ GitHub Actions link and schema workflows use Ruby 3.3, matching `.github/workflo
 
 ## Moved sources
 
-Change a `source` when the old URL redirects to the new repository, or when the destination description is the same project as the catalog entry. Confirmed moves include GitHub account renames, `master` to `main`, the Hedgewars GitHub mirror, and the WWDC22 page for the removed SwiftUI navigation article. Leave `opensourceios/*` mirrors as they are; they are unofficial forks and were not applied.
+Change a `source` when the old URL redirects to the new repository and that repository is still the catalogued project. Confirmed moves include GitHub account renames, `master` to `main`, the Hedgewars GitHub mirror, the WWDC22 page for the removed SwiftUI navigation article, and EX Player (`IGRSoft/exTVPlayer` to `Agnidia/exTVPlayer`).
+
+A GitHub redirect is not enough on its own. `fossasia/open-event-organizer-ios` redirects to `fossasia/eventyay-exhibition`, and that repository is now a Python exhibition plugin, so the iOS organizer entry stays on the old URL.
+
+On 27 October 2026 the GitHub API was checked for every repository `source`. 1,626 names already matched. 45 repository URLs returned 404. Those were left in place, including the `opensourceios/*` mirrors, because a mirror is not the original project. The four `gist.github.com` entries return 200. `https://github.com/3003h/Eros-FE` returns 451.
 
 ## Pull requests
 
