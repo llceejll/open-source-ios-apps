@@ -7655,7 +7655,7 @@
       "category-ids": [
         "security"
       ],
-      "description": "WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN) ",
+      "description": "WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN)",
       "license": "mit",
       "source": "https://github.com/WireGuard/wireguard-apple",
       "itunes": "https://apps.apple.com/app/wireguard/id1441195209",
@@ -12649,7 +12649,7 @@
       "category-ids": [
         "photo"
       ],
-      "description": "Obfuscate sensitive data in your pictures before sharing them online. ",
+      "description": "Obfuscate sensitive data in your pictures before sharing them online.",
       "source": "https://github.com/opensourceios/privacyblur",
       "homepage": "https://privacyblur.app/",
       "itunes": "https://apps.apple.com/app/privacyblur/id1536274106",
@@ -28185,7 +28185,7 @@
       "category-ids": [
         "cryptocurrency"
       ],
-      "description": " Ethereum wallet",
+      "description": "Ethereum wallet",
       "license": "other",
       "source": "https://github.com/jordansinger/lil-wallet",
       "tags": [
@@ -33605,7 +33605,7 @@
     },
     {
       "title": "Strata",
-      "description": " Notes for Micro.blog",
+      "description": "Notes for Micro.blog",
       "category-ids": [
         "react-native",
         "content"
@@ -33857,7 +33857,7 @@
     },
     {
       "title": "Readest",
-      "description": "Feature-rich ebook reader ",
+      "description": "Feature-rich ebook reader",
       "source": "https://github.com/readest/readest",
       "itunes": "https://apps.apple.com/app/readest-ebook-reader/id6738622779",
       "category-ids": [

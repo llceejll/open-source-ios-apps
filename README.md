@@ -1330,7 +1330,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/fearless-wallet/id1537251089) <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/84/7f/c5/847fc57b-0d8e-d2ea-23cd-6b3a144762bd/1279be76-e29b-4dcf-9c72-a795e43bd1ec_2.jpg/600x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/02/fc/4e02fcc7-f838-dce7-17ab-f52ec722f067/60a5c7bf-69ce-4b5c-9bcb-311a20acfe5c_3.jpg/600x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/05/32/38/053238ed-03e1-1818-bef2-89dcdd81a90a/d176b4b0-7a8b-4a86-b4e9-773c02427d44_7.jpg/600x0w.jpg'>`Screenshot 3`</a> 
   -  `2026` `swift` 
   -  ☆`93` 
-- [lil wallet](https://github.com/jordansinger/lil-wallet):  Ethereum wallet
+- [lil wallet](https://github.com/jordansinger/lil-wallet): Ethereum wallet
   -  `2024` `swift` `swiftui` 
   -  ☆`151` 
 - [Rainbow](https://github.com/rainbow-me/rainbow): Ethereum wallet that lives in your pocket
@@ -1978,7 +1978,7 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/pocket-casts-podcast-player/id414834813)
   -  `2026` `swift` `podcast` 
   -  ☆`1825` 
-- [Readest](https://github.com/readest/readest): Feature-rich ebook reader 
+- [Readest](https://github.com/readest/readest): Feature-rich ebook reader
   - [` App Store`](https://apps.apple.com/app/readest-ebook-reader/id6738622779) <a href='https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`24765` 
@@ -2181,7 +2181,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `kmm` `graphql` 
   -  ☆`243` 
-- [Strata](https://github.com/microdotblog/strata):  Notes for Micro.blog
+- [Strata](https://github.com/microdotblog/strata): Notes for Micro.blog
   - [` App Store`](https://apps.apple.com/app/strata-for-micro-blog/id6474192080)
   -  `2026` `react-native` 
   -  ☆`4` 
@@ -2892,7 +2892,7 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id922429609) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/10/b6/9e10b656-8e6e-b4b8-bdce-5f787f12d25e/mzl.utcbsrcn.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/40/cc/5f/40cc5f60-4d7a-cb19-ddb5-fb9e92de9205/mzl.xpwjvrke.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/c5/a2/a8c5a2de-33fc-1fad-7f5d-3f1579bc3fc3/mzl.xvkhmgab.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/be/32/0a/be320a6b-a860-a359-5c33-38bba742aef1/mzl.vgjqcasc.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2026` `javascript` `cordova` `iphone` `ipad` 
   -  ☆`7968` 
-- [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN) 
+- [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN)
   - [` App Store`](https://apps.apple.com/app/wireguard/id1441195209) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f9e45058-bd35-4626-b5c9-12f8ba174f63'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`1409` 
@@ -3896,7 +3896,7 @@ https://reactnative.dev/ — [back to top](#readme)
 - [RNTester](https://github.com/react/react-native/tree/main/packages/rn-tester): Showcases React Native views & modules
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ef0b930-4ab0-4c65-a70e-9a58bbc24c6d'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
-- [Strata](https://github.com/microdotblog/strata):  Notes for Micro.blog
+- [Strata](https://github.com/microdotblog/strata): Notes for Micro.blog
   - [` App Store`](https://apps.apple.com/app/strata-for-micro-blog/id6474192080)
   -  `2026` `react-native` 
   -  ☆`4` 
