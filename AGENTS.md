@@ -43,6 +43,8 @@ A later check the same day requested every active homepage and every active sour
 
 Description links follow the same redirect rule. Designer News (`www.designernews.co` HTTP 308 to `designernews.co`, title “Designer News”), Invoice Ninja (`www.invoiceninja.com` HTTP 301 to `invoiceninja.com`, title “Invoice Ninja”), and Earth View (`earthview.withgoogle.com` HTTP 301 to the Chrome Web Store listing “Earth View from Google Earth”, contact `earth-view@google.com`) now use the page the old URL opens. `punkapi.dev` is a different project, so the Beers description stays on `punkapi.com`. `libgen.rs` timed out and stayed.
 
+Category descriptions follow that rule too. SpriteKit now uses `developer.apple.com/documentation/spritekit` (HTTP 301 from `/reference/spritekit`, title “SpriteKit”). ResearchKit now uses `https://www.researchandcare.org/` (HTTP 301 from `apple.com/researchkit/`, title “ResearchKit & CareKit”). Xamarin now uses `https://dotnet.microsoft.com/en-us/apps/xamarin` (HTTP 301 from `xamarin.com`, title “Mobile development with Xamarin”). Realm now uses the Atlas Device SDK deprecation page that `realm.io` opens. `cocos2d.org` fails the TLS handshake, and the HTTP page is a WHOIS notice, so that link stayed.
+
 Left in place after a browser GET: Habitica (`/static/home` returns 200), Kodi, Catrobat, TousAntiCovid, Thunderbird, and Autheris (Cloudflare 403), Strongbox (empty 202), Emission (the Berkeley host's certificate fails and the page is Berkeley Architecture Research, not the travel app), and Bean Juice (the studio work page is a 404). The latest-additions heading in `.github/osia_convert.rb` was `Lastest`; generated `LATEST.md` now says `Latest`.
 
 ## Screenshots
@@ -75,7 +77,7 @@ Paws used `https://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animatio
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:01 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:09 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
