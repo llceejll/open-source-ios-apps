@@ -321,12 +321,12 @@ j = get_json
 subtitle_readme = j['subtitle']
 write_list(j, README, subtitle_readme)
 
-subtitle_app_store = "List of **#{app_store_total j}** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))."
+subtitle_app_store = "List of **#{app_store_total j}** open-source apps published on the App Store (complete list [here](https://github.com/llceejll/open-source-ios-apps))."
 write_list(j, APPSTORE, subtitle_app_store, true)
 
-subtitle_archive = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
+subtitle_archive = "This is an archive of the [main list](https://github.com/llceejll/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
 write_archive(j, subtitle_archive)
 
-subtitle_latest = "## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)\n"
+subtitle_latest = "## Lastest additions to the [main list](https://github.com/llceejll/open-source-ios-apps)\n"
 subtitle_updated = "## Most recently updated\n"
 write_latest(j, LATEST_NUM, subtitle_latest, subtitle_updated)

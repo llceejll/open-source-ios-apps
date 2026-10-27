@@ -1,6 +1,6 @@
 # Open-Source iOS Apps Archive
 
-This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
+This is an archive of the [main list](https://github.com/llceejll/open-source-ios-apps) for projects that are no longer maintained / old.
 
 
 - [1Trackr](https://github.com/JerryHDev/1Trackr)
@@ -861,7 +861,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 
 ## Thanks
 
-This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 
+This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift), and tracks [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps). Thanks to all the [contributors](https://github.com/llceejll/open-source-ios-apps/graphs/contributors) 🎉 
 
 ## Contact
 

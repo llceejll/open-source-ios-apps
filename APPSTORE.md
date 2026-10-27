@@ -2,9 +2,9 @@
 
 <!-- 
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
- https://github.com/dkhamsing/open-source-ios-apps -->
+ https://github.com/llceejll/open-source-ios-apps -->
 
-List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **333** open-source apps published on the App Store (complete list [here](https://github.com/llceejll/open-source-ios-apps)).
 
 
 
@@ -2170,7 +2170,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 
 ## Thanks
 
-This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 
+This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift), and tracks [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps). Thanks to all the [contributors](https://github.com/llceejll/open-source-ios-apps/graphs/contributors) 🎉 
 
 ## Contact
 

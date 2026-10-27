@@ -2,9 +2,9 @@
 
 <!-- 
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
- https://github.com/dkhamsing/open-source-ios-apps -->
+ https://github.com/llceejll/open-source-ios-apps -->
 
-A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
+A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/llceejll/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
 ![](https://img.shields.io/badge/Projects-1723-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202026-lightgrey.svg)
 
@@ -4522,7 +4522,7 @@ https://www.xamarin.com/ — [back to top](#readme)
   - `list` 
 ## Thanks
 
-This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 
+This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift), and tracks [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps). Thanks to all the [contributors](https://github.com/llceejll/open-source-ios-apps/graphs/contributors) 🎉 
 
 ## Contact
 
