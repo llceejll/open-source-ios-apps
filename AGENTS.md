@@ -55,6 +55,8 @@ When HTTPS fails the certificate check and the same path over HTTP returns the p
 
 The 249 archived `aN.mzstatic.com` screenshots that returned `404 application/json` were requested again at low concurrency and still return that 404. Rewriting the host to `isN-ssl.mzstatic.com` returns 403 HTML, so those URLs stayed. Other `aN.mzstatic.com` URLs in the catalog still return `200 image/jpeg`.
 
+A later pass requested all 1,055 `mzstatic.com` screenshots. Compass and TKeyboard return HTTP 410, and the same path on `isN-ssl.mzstatic.com` is 403 HTML. Open States uses `s3.mzstatic.com` and that URL returns `404 application/json`; the `is3-ssl` copy of the path is 403 HTML. Those three stayed. Timeouts against `isN-ssl.mzstatic.com` at six-way concurrency were the client: each of those URLs returned `image/jpeg` on a single retry, including ChatSecure.
+
 The remaining non-Apple archived screenshot failures were searched in each live source repository for the same filename. None of those files are present. AppleWatchProductHunt has `sc1.png`, `sc2.png`, and `sc3.png`. iStockcheck has `Screenshot.png`. PGPro has Fastlane screenshots with different names. Those URLs stayed.
 
 MoodSnap’s screenshot URL had a trailing `)`. With that character the GitHub asset returns 404. Without it, the same asset returns HTTP 302 to `image/jpeg` (JFIF, 166,363 bytes). The parenthesis is removed and the asset URL is unchanged.
@@ -73,7 +75,7 @@ Paws used `https://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animatio
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:58 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:01 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
