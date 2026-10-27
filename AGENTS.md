@@ -69,9 +69,11 @@ The same day, 461 unique `raw.githubusercontent.com`, GitLab `/-/raw/`, Bitbucke
 
 A later GET of every `github.com` screenshot followed redirects. 662 of 677 returned an image. GitHub drops `?raw=true` when it redirects `/blob/master/` to `/blob/main/`, and the HTML page that remains is not the image. Loose Leaf `collapse-stack.gif` and the two iOSDesignPatternSamples files (`app.gif`, `diff.png`) now use `/blob/main/` with `?raw=true`. That URL returns the image (`GIF89a` or PNG). Orgro and VisionProVacuumDemo screenshot assets are `video/mp4` and stayed, because that upload is the file the URL names. The other ten 404s are deleted files or missing repositories and stayed.
 
+Paws used `https://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animation.png`, which returns 404 HTML. The same article, “Building an Instagram-Like App with Parse and Swift”, now serves that filename at `https://www.appcoda.com/content/images/wordpress/2015/04/paws-demo-animation.png` (`image/png`, 63,820 bytes). The screenshot field uses that path.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:55 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:58 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
