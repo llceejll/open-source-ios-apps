@@ -5115,7 +5115,7 @@
     },
     {
       "title": "Designer News",
-      "description": "Browse the https://www.designernews.co/ design & technology site",
+      "description": "Browse the https://designernews.co/ design & technology site",
       "category-ids": [
         "news"
       ],
@@ -21135,7 +21135,7 @@
         "color",
         "clone"
       ],
-      "description": "Inspired by https://earthview.withgoogle.com",
+      "description": "Inspired by https://chromewebstore.google.com/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh",
       "license": "other",
       "source": "https://github.com/chuongtrh/palette-from-image",
       "tags": [
@@ -23934,7 +23934,7 @@
     },
     {
       "title": "Invoice Ninja",
-      "description": "https://www.invoiceninja.com/",
+      "description": "https://invoiceninja.com/",
       "category-ids": [
         "flutter"
       ],

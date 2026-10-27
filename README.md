@@ -3591,7 +3591,7 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/inkino/id1367181450) <a href='https://github.com/roughike/inKino/raw/development/assets/screenshots/now_in_theaters.png'>`Screenshot 1`</a> 
   -  `2022` `flutter` `dart` 
   -  ☆`3686` 
-- [Invoice Ninja](https://github.com/invoiceninja/admin-portal): https://www.invoiceninja.com/
+- [Invoice Ninja](https://github.com/invoiceninja/admin-portal): https://invoiceninja.com/
   -  `2026` `flutter` `dart` 
   -  ☆`1753` 
 - [Math Matrix](https://github.com/rwema3/Math-Matrix-App): Game to improve your math skills in a fun way
