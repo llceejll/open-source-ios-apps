@@ -1815,7 +1815,7 @@
       "source": "https://github.com/signalapp/Signal-iOS",
       "itunes": "https://apps.apple.com/app/id874139669",
       "stars": 12257,
-      "license": "gpl-3.0",
+      "license": "agpl-3.0",
       "date_added": "Fri Feb 27 07:36:14 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -6080,7 +6080,7 @@
         "https://raw.githubusercontent.com/shagedorn/StateRestorationDemo/master/Presentation/app_screenshot.png"
       ],
       "stars": 49,
-      "license": "bsd-3-clause",
+      "license": "mit",
       "date_added": "Mon Jan 25 08:16:01 2016 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2023-10-03 09:04:29 UTC"
@@ -10345,7 +10345,7 @@
         "objc"
       ],
       "description": "EveOnline MMORG character management tool",
-      "license": "lgpl-2.1",
+      "license": "mit",
       "source": "https://github.com/artem-shimanski/Neocom",
       "itunes": "https://apps.apple.com/app/eveuniverse/id418895101",
       "stars": 114,
@@ -11644,7 +11644,7 @@
       "tags": [
         "swift"
       ],
-      "license": "mit",
+      "license": "gpl-2.0",
       "stars": 38,
       "date_added": "Sun Jul 17 09:09:45 2016 -0700",
       "suggested_by": "@dkhamsing",
@@ -12318,7 +12318,7 @@
       "source": "https://github.com/element-hq/element-ios",
       "homepage": "https://element.io",
       "itunes": "https://apps.apple.com/app/element/id1083446067",
-      "license": "apache-2.0",
+      "license": "agpl-3.0",
       "stars": 1841,
       "date_added": "Thu Jul 21 22:53:48 2016 -0700",
       "suggested_by": "@Aakash Kambuj",
@@ -12927,7 +12927,7 @@
         "objc"
       ],
       "description": "Collect OpenStreetView data",
-      "license": "gpl-3.0",
+      "license": "mit",
       "source": "https://github.com/kartaview/ios",
       "itunes": "https://apps.apple.com/app/openstreetview/id1089548849",
       "stars": 47,
@@ -14421,7 +14421,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg"
       ],
-      "license": "mit",
+      "license": "gpl-3.0",
       "date_added": "Jan 26 2017",
       "suggested_by": "@paulsumit1993",
       "stars": 135,
@@ -14442,7 +14442,7 @@
         "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg"
       ],
-      "license": "bsd-2-clause",
+      "license": "bsd-3-clause",
       "date_added": "Feb 1 2017",
       "suggested_by": "@dkhamsing",
       "stars": 24928,
@@ -14489,7 +14489,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/024e3be5-cf9e-45f0-a65b-e2d5ea45fd13"
       ],
-      "license": "gpl-2.0",
+      "license": "mit",
       "date_added": "Feb 3 2017",
       "suggested_by": "@dkhamsing",
       "stars": 20,
@@ -14614,7 +14614,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/a0/14/a6a01466-204c-be56-11aa-9953a6913af0/mzl.qhffrqig.png/460x0w.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/41/00/2341001e-05ef-e1f1-6b0a-86b4146f6c18/mzl.phvtiqbd.png/460x0w.jpg"
       ],
-      "license": "bsd-2-clause",
+      "license": "gpl-3.0",
       "date_added": "Feb 10 2017",
       "suggested_by": "@dkhamsing",
       "stars": 93,
@@ -15419,7 +15419,7 @@
       "category-ids": [
         "developer"
       ],
-      "license": "bsd-3-clause",
+      "license": "mit",
       "date_added": "Apr 28 2017",
       "suggested_by": "@dkhamsing",
       "stars": 52517,
@@ -16439,7 +16439,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png"
       ],
-      "license": "mit",
+      "license": "gpl-3.0",
       "date_added": "Jul 21 2017",
       "suggested_by": "@AndrewBennet",
       "stars": 303,
@@ -16920,7 +16920,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif"
       ],
-      "license": "apache-2.0",
+      "license": "mit",
       "date_added": "Aug 27 2017",
       "suggested_by": "@jVirus",
       "stars": 76,
@@ -16941,7 +16941,7 @@
       "screenshots": [
         "https://github.com/kingreza/SeeFood/raw/master/seefood1.gif"
       ],
-      "license": "gpl-3.0",
+      "license": "lgpl-3.0",
       "date_added": "Sep 5 2017",
       "suggested_by": "@dkhamsing",
       "stars": 449,
@@ -17833,7 +17833,7 @@
       "tags": [
         "swift"
       ],
-      "license": "mit",
+      "license": "agpl-3.0",
       "stars": 88,
       "itunes": "https://apps.apple.com/app/racerunner-run-tracking-app/id1065017082",
       "screenshots": [
@@ -17858,7 +17858,7 @@
       "tags": [
         "swift"
       ],
-      "license": "mit",
+      "license": "agpl-3.0",
       "stars": 50,
       "itunes": "https://apps.apple.com/app/conjugar/id1236500467",
       "screenshots": [
@@ -17925,7 +17925,7 @@
       "description": "A minimalist open source password manager",
       "homepage": "https://padloc.app/",
       "source": "https://github.com/padloc/padloc",
-      "license": "gpl-3.0",
+      "license": "agpl-3.0",
       "stars": 2925,
       "tags": [
         "javascript",
@@ -18134,7 +18134,7 @@
         "ipad"
       ],
       "description": "Safari content blocker",
-      "license": "mit",
+      "license": "gpl-3.0",
       "source": "https://github.com/0xCUB3/wBlock",
       "itunes": "https://apps.apple.com/app/wblock/id6746388723",
       "stars": 2990,
@@ -18430,7 +18430,7 @@
       "description": "Display blood glucose values stored on your nightscout server",
       "source": "https://github.com/nightscout/nightguard",
       "homepage": "https://nightscout.github.io/",
-      "license": "gpl-3.0",
+      "license": "agpl-3.0",
       "tags": [
         "swift",
         "apple-watch"
@@ -18715,7 +18715,7 @@
       "description": "Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or cellular connection)",
       "source": "https://github.com/BelledonneCommunications/linphone-iphone",
       "itunes": "https://apps.apple.com/app/linphone/id360065638",
-      "license": "gpl-2.0",
+      "license": "gpl-3.0",
       "stars": 0,
       "tags": [
         "objc"
@@ -19942,7 +19942,7 @@
         "security"
       ],
       "description": "Override & secure DNS queries",
-      "license": "gpl-3.0",
+      "license": "mpl-2.0",
       "source": "https://github.com/s-s/dnscloak",
       "stars": 354,
       "tags": [
@@ -20109,7 +20109,7 @@
       "description": "Easy-to-use and secure Ethereum wallet",
       "source": "https://github.com/AlphaWallet/alpha-wallet-ios",
       "homepage": "https://alphawallet.com/",
-      "license": "agpl-3.0",
+      "license": "mit",
       "stars": 631,
       "tags": [
         "swift"
@@ -20431,7 +20431,7 @@
       ],
       "description": "Preview and download books from Library Genesis https://libgen.rs",
       "source": "https://github.com/MartinStamenkovski/LibraryGenesis",
-      "license": "mit",
+      "license": "gpl-3.0",
       "tags": [
         "swift"
       ],
@@ -20634,7 +20634,7 @@
         "https://github.com/nploi/corona_tracker/blob/master/screenshots/2.jpg?raw=true"
       ],
       "source": "https://github.com/nploi/corona_tracker",
-      "license": "mit",
+      "license": "gpl-3.0",
       "tags": [
         "dart"
       ],
@@ -20680,7 +20680,7 @@
       "description": "Docker/Portainer app",
       "source": "https://github.com/rrroyal/Harbour",
       "date_added": "Apr 7 2019",
-      "license": "gpl-3.0",
+      "license": "agpl-3.0",
       "suggested_by": "@dkhamsing",
       "stars": 762,
       "updated": "2026-07-23 20:56:23 UTC"
@@ -23036,7 +23036,7 @@
         "location"
       ],
       "description": "Learns about the places you visit & how you like to move around",
-      "license": "gpl-3.0",
+      "license": "lgpl-3.0",
       "source": "https://github.com/sobri909/ArcMini",
       "itunes": "https://apps.apple.com/app/arc-app-location-activity/id1063151918",
       "screenshots": [
@@ -23265,7 +23265,7 @@
         "social"
       ],
       "source": "https://github.com/IanKeen/TweetleDumb",
-      "license": "gpl-2.0",
+      "license": "mit",
       "tags": [
         "swift"
       ],
@@ -23323,7 +23323,7 @@
         "flutter",
         "dart"
       ],
-      "license": "gpl-3.0",
+      "license": "mit",
       "date_added": "Jun 10 2020",
       "suggested_by": "@dkhamsing",
       "stars": 1139,
@@ -23368,7 +23368,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0d30d103-e7f2-4422-aef6-5fbd1c405e19"
       ],
-      "license": "gpl-3.0",
+      "license": "agpl-3.0",
       "date_added": "Jun 12 2020",
       "suggested_by": "@dkhamsing",
       "stars": 537,
@@ -24499,7 +24499,7 @@
         "jetpack"
       ],
       "source": "https://github.com/joreilly/BikeShare",
-      "license": "mit",
+      "license": "apache-2.0",
       "date_added": "Aug 1 2020",
       "suggested_by": "@dkhamsing",
       "stars": 828,
@@ -24539,7 +24539,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3bfd8fe9-58a3-4f52-91a6-16426a6be60d"
       ],
-      "license": "mit",
+      "license": "apache-2.0",
       "date_added": "Aug 3 2020",
       "suggested_by": "@dkhamsing",
       "stars": 864,
@@ -25256,7 +25256,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/utmapp/UTM/main/screen.png"
       ],
-      "license": "mit",
+      "license": "apache-2.0",
       "tags": [
         "objc"
       ],
@@ -26270,7 +26270,7 @@
         "flutter",
         "dart"
       ],
-      "license": "mit",
+      "license": "gpl-3.0",
       "date_added": "Jan 9 2021",
       "suggested_by": "@dkhamsing",
       "stars": 1147,
@@ -26311,7 +26311,7 @@
       ],
       "description": "Keep track of your favorite TV shows & movies using Trakt",
       "source": "https://github.com/pietrocaselani/CouchTracker",
-      "license": "gpl-3.0",
+      "license": "unlicense",
       "stars": 53,
       "date_added": "Jan 20 2021",
       "suggested_by": "@dkhamsing",
@@ -26371,7 +26371,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png"
       ],
-      "license": "gpl-3.0",
+      "license": "mit",
       "date_added": "Feb 04 2021",
       "suggested_by": "@vinhnx",
       "stars": 732,
@@ -27187,7 +27187,7 @@
       ],
       "description": "Unofficial E-Hentai browser",
       "source": "https://github.com/EhPanda-Team/EhPanda",
-      "license": "apache-2.0",
+      "license": "mit",
       "stars": 3987,
       "tags": [
         "swiftui",
@@ -27486,7 +27486,7 @@
         "macos",
         "archive"
       ],
-      "license": "apache-2.0",
+      "license": "mit",
       "date_added": "Sep 14 2021",
       "suggested_by": "@dkhamsing",
       "stars": 475,
@@ -27749,7 +27749,7 @@
       "source": "https://github.com/pia-foss/mobile-ios",
       "homepage": "https://www.privateinternetaccess.com/download/ios-vpn/",
       "itunes": "https://apps.apple.com/app/id955626407",
-      "license": "gpl-3.0",
+      "license": "mit",
       "stars": 351,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/4c/3e/2c4c3ebf-d7bf-2470-c434-32767b574c6f/56ba6ee1-3819-4351-b9c3-46c9e2eb494a_pia_iphone_appstore_1.png/600x0w.png",
@@ -28473,7 +28473,7 @@
         "communication"
       ],
       "source": "https://github.com/niochat/nio",
-      "license": "mit",
+      "license": "mpl-2.0",
       "stars": 557,
       "tags": [
         "swift"
@@ -28977,7 +28977,7 @@
         "swift"
       ],
       "description": "NSUbiquitousKeyValueStore or iCLoud Shared UserDefaults project",
-      "license": "apache-2.0",
+      "license": "mit",
       "source": "https://github.com/StewartLynch/UbiquitousKeyValue-Storage",
       "date_added": "Mar 26 2022",
       "suggested_by": "@dkhamsing",
@@ -29120,7 +29120,7 @@
         "tvos"
       ],
       "stars": 3721,
-      "license": "mit",
+      "license": "agpl-3.0",
       "date_added": "Apr 19 2022",
       "suggested_by": "@Gigas002",
       "updated": "2026-08-23 11:05:24 UTC"
@@ -30453,7 +30453,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/Dimillian/IceCubesApp/main/Images/promo.png"
       ],
-      "license": "apache-2.0",
+      "license": "agpl-3.0",
       "date_added": "Dec 6 2022",
       "suggested_by": "@dkhamsing",
       "stars": 7074,
@@ -31060,7 +31060,7 @@
         "flutter",
         "dart"
       ],
-      "license": "agpl-3.0",
+      "license": "apache-2.0",
       "date_added": "Mar 10 2023",
       "suggested_by": "@rwema3",
       "stars": 54,
@@ -31546,7 +31546,7 @@
       ],
       "description": "Self-hosted photo and video backup",
       "source": "https://github.com/immich-app/immich",
-      "license": "mit",
+      "license": "agpl-3.0",
       "tags": [
         "flutter"
       ],
@@ -31585,7 +31585,7 @@
       "description": "Cross-platform alternative to AirDrop",
       "source": "https://github.com/localsend/localsend",
       "itunes": "https://apps.apple.com/app/localsend/id1661733229",
-      "license": "mit",
+      "license": "apache-2.0",
       "tags": [
         "flutter"
       ],
@@ -31984,7 +31984,7 @@
       "source": "https://github.com/logseq/logseq",
       "itunes": "https://apps.apple.com/app/logseq/id1601013908",
       "stars": 45105,
-      "license": "gpl-3.0",
+      "license": "agpl-3.0",
       "date_added": "Feb 14 2024",
       "suggested_by": "@l2dy",
       "screenshots": [
@@ -32436,7 +32436,7 @@
       ],
       "source": "https://github.com/dl-alexandre/SymbolGrid",
       "itunes": "https://apps.apple.com/app/symbolgrid/id1640916135",
-      "license": "mit",
+      "license": "apache-2.0",
       "date_added": "July 16 2024",
       "suggested_by": "@dl-alexandre",
       "stars": 7,
@@ -32617,7 +32617,7 @@
         "swift",
         "2fa"
       ],
-      "license": "mit",
+      "license": "agpl-3.0",
       "date_added": "Sep 16 2024",
       "suggested_by": "@AtFreezingPoint",
       "stars": 38,
@@ -33045,7 +33045,7 @@
       "screenshots": [
         "https://github.com/msasikanth/twine/blob/main/readme_images/banner.png?raw=true"
       ],
-      "license": "apache-2.0",
+      "license": "gpl-3.0",
       "date_added": "Feb 6 2025",
       "suggested_by": "@th3m",
       "stars": 2418,
@@ -33432,7 +33432,7 @@
       "description": "IP Camera with AI object detection",
       "source": "https://github.com/roryclear/clearcam",
       "itunes": "https://apps.apple.com/app/clearcam/id6743237694",
-      "license": "agpl-3.0",
+      "license": "gpl-3.0",
       "stars": 1635,
       "tags": [
         "objc",
@@ -34114,7 +34114,7 @@
       "screenshots": [
         "https://github.com/user-attachments/assets/82f09209-51af-49f1-b6b0-a5824c8ed875"
       ],
-      "license": "gpl-3.0",
+      "license": "agpl-3.0",
       "date_added": "Nov 25 2025",
       "suggested_by": "@dkhamsing",
       "stars": 112,
@@ -34507,7 +34507,7 @@
       ],
       "description": "Lightweight, privacy-focused YouTube client",
       "source": "https://github.com/verback2308/Opaline",
-      "license": "mit",
+      "license": "gpl-3.0",
       "tags": [
         "swift",
         "uikit",
@@ -35181,7 +35181,7 @@
       "source": "https://github.com/leepokai/Codync",
       "homepage": "https://www.codync.dev",
       "itunes": "https://apps.apple.com/app/codync/id6760984418",
-      "license": "mit",
+      "license": "apache-2.0",
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/92/a2/4092a244-6d5f-52f2-f161-98f5a0c41fdd/01-hero.png/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/42/b6/5e42b681-fc15-2d72-a2df-2f16a9dac4fd/02-device-top.png/392x696bb.jpg",
