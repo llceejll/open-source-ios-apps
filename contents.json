@@ -16628,21 +16628,6 @@
       "updated": "2013-08-08 18:18:03 UTC"
     },
     {
-      "title": "Dragon Shout",
-      "source": "https://github.com/rblalock/dragon_shout_app_open_source",
-      "category-ids": [
-        "misc"
-      ],
-      "tags": [
-        "archive"
-      ],
-      "license": "other",
-      "date_added": "Aug 2 2017",
-      "suggested_by": "@dkhamsing",
-      "stars": 19,
-      "updated": "2023-01-26 13:02:57 UTC"
-    },
-    {
       "title": "Dollar Bets",
       "source": "https://github.com/Rich86man/Dollar-Bets",
       "category-ids": [
@@ -21875,22 +21860,6 @@
       "suggested_by": "@dkhamsing",
       "stars": 16,
       "updated": "2022-06-04 07:44:07 UTC"
-    },
-    {
-      "title": "MedKeeper",
-      "category-ids": [
-        "health"
-      ],
-      "tags": [
-        "swift",
-        "archive"
-      ],
-      "license": "other",
-      "source": "https://github.com/jonrobinsdev/MedKeeper",
-      "date_added": "May 7 2020",
-      "suggested_by": "@dkhamsing",
-      "stars": 6,
-      "updated": "2016-01-28 03:46:25 UTC"
     },
     {
       "title": "Stepik",
