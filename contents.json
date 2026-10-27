@@ -3437,7 +3437,7 @@
       ],
       "description": "Sync selected Apple Health data to a private backend API",
       "source": "https://github.com/megabyte0x/healthykit",
-      "homepage": "https://healthysync.megabyte.sh/apple-health-app-sync",
+      "homepage": "https://healthysync.app/apple-health-app-sync",
       "screenshots": [
         "https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png"
       ],
@@ -10740,7 +10740,7 @@
       ],
       "description": "End-to-end encrypted email",
       "source": "https://github.com/tutao/tutanota",
-      "homepage": "https://tutanota.com/",
+      "homepage": "https://tuta.com/",
       "itunes": "https://apps.apple.com/app/id922429609",
       "license": "gpl-3.0",
       "stars": 7968,
@@ -11193,7 +11193,7 @@
       "description": "Location tracking where data can be shared over public or private servers",
       "license": "bsd-2-clause",
       "source": "https://github.com/miataru/miataru-ios-client",
-      "homepage": "https://miataru.com/ios/",
+      "homepage": "https://miataru.com/",
       "itunes": "https://apps.apple.com/app/id717539389",
       "stars": 20,
       "date_added": "Thu Jun 2 01:14:28 2016 -0600",
@@ -15406,7 +15406,7 @@
       "description": "Developer tool for creating experiences with interactive gestures & graphics",
       "source": "https://github.com/expo/expo",
       "itunes": "https://apps.apple.com/app/expo-client/id982107779",
-      "homepage": "https://expo.io/",
+      "homepage": "https://expo.dev/",
       "tags": [
         "react-native",
         "javascript"
@@ -18426,7 +18426,7 @@
       ],
       "description": "Display blood glucose values stored on your nightscout server",
       "source": "https://github.com/nightscout/nightguard",
-      "homepage": "https://www.nightscout.info/",
+      "homepage": "https://nightscout.github.io/",
       "license": "gpl-3.0",
       "tags": [
         "swift",
@@ -23662,7 +23662,7 @@
       ],
       "description": "Encrypted Email",
       "source": "https://github.com/ProtonMail/ios-mail",
-      "homepage": "https://protonmail.com/",
+      "homepage": "https://proton.me/mail",
       "itunes": "https://apps.apple.com/app/id979659905",
       "license": "gpl-3.0",
       "stars": 1622,
@@ -27759,7 +27759,7 @@
       ],
       "description": "Secure cloud to collaborate online, access your documents and files on all your devices",
       "source": "https://github.com/Infomaniak/ios-kDrive",
-      "homepage": "https://www.infomaniak.com/en/kdrive",
+      "homepage": "https://www.infomaniak.com/en/ksuite/kdrive",
       "itunes": "https://apps.apple.com/app/infomaniak-kdrive/id1482778676",
       "license": "gpl-3.0",
       "stars": 84,
@@ -35690,7 +35690,7 @@
       ],
       "description": "Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account",
       "source": "https://github.com/apoorvdarshan/fud-ai",
-      "homepage": "https://fud-ai.app",
+      "homepage": "https://www.fud-ai.app/",
       "itunes": "https://apps.apple.com/app/id6758935726",
       "license": "mit",
       "screenshots": [

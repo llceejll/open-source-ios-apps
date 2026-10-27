@@ -134,7 +134,7 @@ Jump to
   -  `2024` `objc` 
   -  ☆`230` 
 - [Fud AI](https://github.com/apoorvdarshan/fud-ai): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account
-  - <a href=https://fud-ai.app>`https://fud-ai.app`</a>
+  - <a href=https://www.fud-ai.app/>`https://www.fud-ai.app/`</a>
   - [` App Store`](https://apps.apple.com/app/id6758935726) <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/01-day-at-a-glance.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/02-snap-your-meal.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/07-ask-about-your-goals.png'>`Screenshot 3`</a> 
   - `swift` `swiftui` `ipad` `healthkit` `widgetkit` `watchos` `ai` 
 - [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
@@ -289,7 +289,7 @@ Jump to
   -  `2026` `objc` `fmdb` 
   -  ☆`228` 
 - [ProtonMail](https://github.com/ProtonMail/ios-mail): Encrypted Email
-  - <a href=https://protonmail.com/>`https://protonmail.com/`</a>
+  - <a href=https://proton.me/mail>`https://proton.me/mail`</a>
   - [` App Store`](https://apps.apple.com/app/id979659905) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `iphone` `ipad` `dompurify` `afnetworking` `flanimatedimage` 
   -  ☆`1622` 
@@ -323,7 +323,7 @@ Jump to
   -  `2026` `swift` 
   -  ☆`291` 
 - [Tutanota](https://github.com/tutao/tutanota): End-to-end encrypted email
-  - <a href=https://tutanota.com/>`https://tutanota.com/`</a>
+  - <a href=https://tuta.com/>`https://tuta.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id922429609) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/10/b6/9e10b656-8e6e-b4b8-bdce-5f787f12d25e/mzl.utcbsrcn.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/40/cc/5f/40cc5f60-4d7a-cb19-ddb5-fb9e92de9205/mzl.xpwjvrke.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/c5/a2/a8c5a2de-33fc-1fad-7f5d-3f1579bc3fc3/mzl.xvkhmgab.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/be/32/0a/be320a6b-a860-a359-5c33-38bba742aef1/mzl.vgjqcasc.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2026` `javascript` `cordova` `iphone` `ipad` 
   -  ☆`7968` 
@@ -372,7 +372,7 @@ Jump to
   -  `2024` `swift` `swift-evolution` 
   -  ☆`266` 
 - [Expo Client](https://github.com/expo/expo): Developer tool for creating experiences with interactive gestures & graphics
-  - <a href=https://expo.io/>`https://expo.io/`</a>
+  - <a href=https://expo.dev/>`https://expo.dev/`</a>
   - [` App Store`](https://apps.apple.com/app/expo-client/id982107779) <a href='https://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg'>`Screenshot 1`</a> 
   -  `2026` `react-native` `javascript` 
   -  ☆`52517` 
@@ -666,7 +666,7 @@ File Management — [back to top](#readme)
   -  `2026` `flutter` `webrtc` 
   -  ☆`668` 
 - [kDrive](https://github.com/Infomaniak/ios-kDrive): Secure cloud to collaborate online, access your documents and files on all your devices
-  - <a href=https://www.infomaniak.com/en/kdrive>`https://www.infomaniak.com/en/kdrive`</a>
+  - <a href=https://www.infomaniak.com/en/ksuite/kdrive>`https://www.infomaniak.com/en/ksuite/kdrive`</a>
   - [` App Store`](https://apps.apple.com/app/infomaniak-kdrive/id1482778676) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/5e/eb/fd5eeb3a-6bef-a79f-b3f6-f6dacd824b8e/2da2a5e3-f988-4215-931a-58f58c9b9a66_mobile-6.5-1.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/a7/72/8ea772cc-81d0-112f-ee4b-c475a92501bc/0c9b7def-a516-4116-92b4-7fa131519ac3_mobile-6.5-2.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c5/ca/17/c5ca17ff-2950-0ec1-ab91-4e02f8d0947f/1391ef65-23e7-44b7-9c64-62bb35d84f80_mobile-6.5-3.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/de/85/d7de854f-c3b4-269d-9777-0252d4933666/9eef055e-3d6b-4bf0-9ab4-a0d6d9b9055b_mobile-6.5-4.png/600x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/cd/2a/1acd2a04-49eb-94f5-fca3-6fc9c1e4ada5/df89351c-147d-457f-ba48-e6765e6a24c2_mobile-6.5-5.png/600x0w.png'>`Screenshot 5`</a> 
   -  `2026` `swift` 
   -  ☆`84` 
@@ -847,7 +847,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2026` `swift` 
   -  ☆`18` 
 - [Fud AI](https://github.com/apoorvdarshan/fud-ai): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account
-  - <a href=https://fud-ai.app>`https://fud-ai.app`</a>
+  - <a href=https://www.fud-ai.app/>`https://www.fud-ai.app/`</a>
   - [` App Store`](https://apps.apple.com/app/id6758935726) <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/01-day-at-a-glance.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/02-snap-your-meal.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/07-ask-about-your-goals.png'>`Screenshot 3`</a> 
   - `swift` `swiftui` `ipad` `healthkit` `widgetkit` `watchos` `ai` 
 - [Go Cycling Tracker](https://github.com/AnthonyH93/GoCycling)
@@ -1044,7 +1044,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  `2021` `objc` 
   -  ☆`47` 
 - [Miataru](https://github.com/miataru/miataru-ios-client): Location tracking where data can be shared over public or private servers
-  - <a href=https://miataru.com/ios/>`https://miataru.com/ios/`</a>
+  - <a href=https://miataru.com/>`https://miataru.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id717539389) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/6a/b0/f6/6ab0f684-a286-16d9-199d-89b4307590ac/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/64/49/47/64494743-7090-202f-344d-4d1750755ac4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/1d/31/e6/1d31e607-ebbc-8dda-7b48-d4361667e152/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/85/f6/a1/85f6a122-2962-a4be-126e-f2c97804caaf/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2026` `objc` 
   -  ☆`20` 
@@ -1330,7 +1330,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2026` `swift` `ipad` 
   -  ☆`572` 
 - [kDrive](https://github.com/Infomaniak/ios-kDrive): Secure cloud to collaborate online, access your documents and files on all your devices
-  - <a href=https://www.infomaniak.com/en/kdrive>`https://www.infomaniak.com/en/kdrive`</a>
+  - <a href=https://www.infomaniak.com/en/ksuite/kdrive>`https://www.infomaniak.com/en/ksuite/kdrive`</a>
   - [` App Store`](https://apps.apple.com/app/infomaniak-kdrive/id1482778676) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/5e/eb/fd5eeb3a-6bef-a79f-b3f6-f6dacd824b8e/2da2a5e3-f988-4215-931a-58f58c9b9a66_mobile-6.5-1.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/a7/72/8ea772cc-81d0-112f-ee4b-c475a92501bc/0c9b7def-a516-4116-92b4-7fa131519ac3_mobile-6.5-2.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c5/ca/17/c5ca17ff-2950-0ec1-ab91-4e02f8d0947f/1391ef65-23e7-44b7-9c64-62bb35d84f80_mobile-6.5-3.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/de/85/d7de854f-c3b4-269d-9777-0252d4933666/9eef055e-3d6b-4bf0-9ab4-a0d6d9b9055b_mobile-6.5-4.png/600x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/cd/2a/1acd2a04-49eb-94f5-fca3-6fc9c1e4ada5/df89351c-147d-457f-ba48-e6765e6a24c2_mobile-6.5-5.png/600x0w.png'>`Screenshot 5`</a> 
   -  `2026` `swift` 
   -  ☆`84` 
@@ -1519,7 +1519,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2026` `objc` 
   -  ☆`292` 
 - [ProtonMail](https://github.com/ProtonMail/ios-mail): Encrypted Email
-  - <a href=https://protonmail.com/>`https://protonmail.com/`</a>
+  - <a href=https://proton.me/mail>`https://proton.me/mail`</a>
   - [` App Store`](https://apps.apple.com/app/id979659905) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `iphone` `ipad` `dompurify` `afnetworking` `flanimatedimage` 
   -  ☆`1622` 
@@ -1538,7 +1538,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2024` `swift` `2fa` 
   -  ☆`540` 
 - [Tutanota](https://github.com/tutao/tutanota): End-to-end encrypted email
-  - <a href=https://tutanota.com/>`https://tutanota.com/`</a>
+  - <a href=https://tuta.com/>`https://tuta.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id922429609) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/10/b6/9e10b656-8e6e-b4b8-bdce-5f787f12d25e/mzl.utcbsrcn.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/40/cc/5f/40cc5f60-4d7a-cb19-ddb5-fb9e92de9205/mzl.xpwjvrke.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/c5/a2/a8c5a2de-33fc-1fad-7f5d-3f1579bc3fc3/mzl.xvkhmgab.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/be/32/0a/be320a6b-a860-a359-5c33-38bba742aef1/mzl.vgjqcasc.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2026` `javascript` `cordova` `iphone` `ipad` 
   -  ☆`7968` 
