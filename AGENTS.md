@@ -57,9 +57,11 @@ The 249 archived `aN.mzstatic.com` screenshots that returned `404 application/js
 
 The remaining non-Apple archived screenshot failures were searched in each live source repository for the same filename. None of those files are present. AppleWatchProductHunt has `sc1.png`, `sc2.png`, and `sc3.png`. iStockcheck has `Screenshot.png`. PGPro has Fastlane screenshots with different names. Those URLs stayed.
 
+MoodSnap’s screenshot URL had a trailing `)`. With that character the GitHub asset returns 404. Without it, the same asset returns HTTP 302 to `image/jpeg` (JFIF, 166,363 bytes). The parenthesis is removed and the asset URL is unchanged.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:40 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:43 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
