@@ -33,9 +33,17 @@ On 27 October 2026 the GitHub API was checked for every repository `source`. 1,6
 
 The same day, the 43 sources outside GitHub were checked with HTTP. Linphone's GitLab host fails the TLS handshake, so that entry now uses `BelledonneCommunications/linphone-iphone`, the official mirror. These stayed on their old URLs: Lister's library page redirects to a 404, SwiftStrike's RealityKit article is 404, `ericasadun.com` does not resolve, and the WWDC 2015 and WWDC 2021 links redirect to broad Apple indexes rather than the original pages. `git.shadowfacts.net` returned 200 on that check and remains on the link-check whitelist because it has failed before.
 
+## Homepages
+
+Update a `homepage` when a GET follows a redirect to the same product, or when the project names a replacement and the old host is dead. A 403 that returns a Cloudflare challenge, an empty 202, or a certificate error on a page that is no longer the catalogued app stays unchanged.
+
+Applied on 27 October 2026: HealthSync to `healthysync.app`, Tutanota to `tuta.com`, Expo to `expo.dev`, Proton Mail to `proton.me/mail`, kDrive to `/en/ksuite/kdrive`, Fud AI to `www.fud-ai.app`, Miataru from the forbidden `/ios/` path to `miataru.com`, and Nightguard from `www.nightscout.info` to `nightscout.github.io`. `nightscout.info` redirects to `nightcoutfoundation.org`, which does not resolve. The Nightscout README calls `nightscout.github.io` the current documentation and `nightscout.info` the older docs.
+
+Left in place after a browser GET: Habitica (`/static/home` returns 200), Kodi, Catrobat, TousAntiCovid, Thunderbird, and Autheris (Cloudflare 403), Strongbox (empty 202), Emission (the Berkeley host's certificate fails and the page is Berkeley Architecture Research, not the travel app), and Bean Juice (the studio work page is a 404). The latest-additions heading in `.github/osia_convert.rb` was `Lastest`; generated `LATEST.md` now says `Latest`.
+
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 11:53 AM Toronto:
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:08 PM Toronto:
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
