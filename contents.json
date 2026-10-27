@@ -18709,7 +18709,7 @@
         "communication"
       ],
       "description": "Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or cellular connection)",
-      "source": "https://gitlab.linphone.org/BC/public/linphone-iphone",
+      "source": "https://github.com/BelledonneCommunications/linphone-iphone",
       "itunes": "https://apps.apple.com/app/linphone/id360065638",
       "license": "gpl-2.0",
       "stars": 0,

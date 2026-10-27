@@ -273,7 +273,7 @@ Jump to
   - <a href=https://jami.net>`https://jami.net`</a>
   - [` App Store`](https://apps.apple.com/app/ring-a-gnu-package/id1306951055) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/3f/eb/2e3febb6-8e78-7e2d-ab6d-8fd4b887f72a/mzl.tmqasjxc.png/300x0w.jpg'>`Screenshot 1`</a> 
   - `swift` 
-- [Linphone](https://gitlab.linphone.org/BC/public/linphone-iphone): Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or cellular connection)
+- [Linphone](https://github.com/BelledonneCommunications/linphone-iphone): Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or cellular connection)
   - [` App Store`](https://apps.apple.com/app/linphone/id360065638) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/5f/07/485f073c-1bd4-acdb-127f-0bd5d266d359/mzl.gqlurkmf.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/b4/b8/ccb4b8a4-f912-b4a7-d69f-1f9fda24f368/mzl.whsepbnn.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/93/7c/fc/937cfca3-14fd-0a4e-0690-ab02d07452ee/mzl.wkqxfgho.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/49/12/40/4912400a-b408-3bf2-cf8a-8ecdefb858c0/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
   - `objc` 
 - [Mattermost](https://github.com/mattermost/mattermost-mobile): Secure messaging platform for DevOps teams

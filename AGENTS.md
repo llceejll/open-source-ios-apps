@@ -29,6 +29,8 @@ A GitHub redirect is not enough on its own. `fossasia/open-event-organizer-ios` 
 
 On 27 October 2026 the GitHub API was checked for every repository `source`. 1,626 names already matched. 45 repository URLs returned 404. Those were left in place, including the `opensourceios/*` mirrors, because a mirror is not the original project. The four `gist.github.com` entries return 200. `https://github.com/3003h/Eros-FE` returns 451.
 
+The same day, the 43 sources outside GitHub were checked with HTTP. Linphone's GitLab host fails the TLS handshake, so that entry now uses `BelledonneCommunications/linphone-iphone`, the official mirror. These stayed on their old URLs: Lister's library page redirects to a 404, SwiftStrike's RealityKit article is 404, `ericasadun.com` does not resolve, and the WWDC 2015 and WWDC 2021 links redirect to broad Apple indexes rather than the original pages. `git.shadowfacts.net` returned 200 on that check and remains on the link-check whitelist because it has failed before.
+
 ## Pull requests
 
 The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 11:53 AM Toronto:
