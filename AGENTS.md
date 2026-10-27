@@ -25,7 +25,9 @@ License display is commented out in `.github/osia_convert.rb`, and `suggested_by
 
 The converter matches `swift` with `tags.include? 'swift'`, which does not match a comma-joined string. GitTime was the only entry with a comma inside a tag (`swift, reactorkit, rxswift`). The repository languages include Swift, and its description names ReactorKit, RxSwift, and Moya, so that tag is now `swift`, `reactorkit`, and `rxswift`, with `moya` and `archive` kept. GitTime is archived, so `ARCHIVE.md` did not change. Tags that contain a space and no comma, such as `flickr api`, stay as one tag.
 
-On 27 October 2026, GitHub's detected license was compared with every GitHub `source`. A missing license, or a license of `other`, was filled only when the detected key is one of the schema values and is not `other`. That filled 83 entries, including the three list files in `dkhamsing/open-source-ios-apps` (`cc0-1.0`). A specific catalog license was left in place when GitHub disagreed, including when GitHub reported `other`. `fossasia/open-event-organizer-ios` still resolves to `fossasia/eventyay-exhibition`, so that entry did not take the exhibition repository's license. `eupl-1.2` and `0bsd` are outside the schema enum and were not written. License text is not rendered, so the generated lists stayed the same.
+On 27 October 2026, GitHub's detected license was compared with every GitHub `source`. A missing license, or a license of `other`, was filled only when the detected key is one of the schema values and is not `other`. That filled 83 entries, including the three list files in `dkhamsing/open-source-ios-apps` (`cc0-1.0`). A specific catalog license was left in place when GitHub reported `other`. `fossasia/open-event-organizer-ios` still resolves to `fossasia/eventyay-exhibition`, so that entry did not take the exhibition repository's license. `eupl-1.2` and `0bsd` are outside the schema enum and were not written. License text is not rendered, so the generated lists stayed the same.
+
+A specific catalog license was corrected when the repository `LICENSE` file opens with that other license and GitHub reports the same key. That corrected 53 entries. Judge the file by its opening lines. The Mozilla Public License text mentions the GPL later in the file, and that mention is not the project's license. DNSCloak and Nio open with MPL 2.0. SIP Calculator opens with GPL 2.
 
 Do not run `.github/deploy.sh`.
 
@@ -87,7 +89,7 @@ Paws used `https://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animatio
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:47 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator. The link check for the description trim, run `40552027108`, completed success at 1:37 PM Toronto the same day. The link check for the license and tag notes, run `40552775880`, completed success at 1:41 PM Toronto.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 1:52 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator. The link check for the description trim, run `40552027108`, completed success at 1:37 PM Toronto the same day. The link check for the license and tag notes, run `40552775880`, completed success at 1:41 PM Toronto. The link check for the filled licenses, run `40553976653`, completed success at 1:49 PM Toronto.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
