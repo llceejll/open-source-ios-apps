@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/llceejll/open-source-ios-apps -->
 
-List of **332** open-source apps published on the App Store (complete list [here](https://github.com/llceejll/open-source-ios-apps)).
+List of **336** open-source apps published on the App Store (complete list [here](https://github.com/llceejll/open-source-ios-apps)).
 
 
 
@@ -414,6 +414,11 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/apple-store/id1100539810) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'>`Screenshot 3`</a> 
   -  `2026` `c` `objc` `c++` 
   -  ☆`197` 
+- [Unwrap](https://github.com/twostraws/Unwrap): Learn Swift interactively on your iPhone https://www.hackingwithswift.com
+  - <a href=https://www.hackingwithswift.com/>`https://www.hackingwithswift.com/`</a>
+  - [` App Store`](https://apps.apple.com/app/unwrap/id1440611372) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5ab2e9bd-d8a9-4a67-a73c-289009a86244'>`Screenshot 1`</a> 
+  -  `2026` `swift` 
+  -  ☆`2332` 
 - [Verceltics](https://github.com/apoorvdarshan/verceltics): Manage hosting, domains, DNS, deployments, web analytics and uptime across 27 services including Vercel, Cloudflare and Netlify
   - <a href=https://verceltics.com>`https://verceltics.com`</a>
   - [` App Store`](https://apps.apple.com/app/id6761645656) <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/hosting.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/registrars.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/sites.png'>`Screenshot 3`</a> 
@@ -865,6 +870,11 @@ https://developer.apple.com/documentation/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `mapkit` `core-data` 
   -  ☆`195` 
+- [HealthSync](https://github.com/megabyte0x/healthykit): Sync selected Apple Health data to a private backend API
+  - <a href=https://healthysync.app/apple-health-app-sync>`https://healthysync.app/apple-health-app-sync`</a>
+  - [` App Store`](https://apps.apple.com/app/healthysync/id6776575569) <a href='https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png'>`Screenshot 1`</a> 
+  -  `2026` `swift` `swiftui` `healthkit` 
+  -  ☆`8` 
 - [KFinder](https://github.com/robertwtucker/kfinderapp-ios): Promotes consistent Vitamin K intake and regular blood testing for warfarin users
   - <a href=https://kfinderapp.com>`https://kfinderapp.com`</a>
   - [` App Store`](https://apps.apple.com/app/kfinder/id6738031531) <a href='https://raw.githubusercontent.com/robertwtucker/kfinderapp-ios/master/assets/kfinder-home.png'>`Screenshot 1`</a> 
@@ -1161,6 +1171,11 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/lysnbox/id6772035198) <a href='https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_1_Library.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_3_Voices.png'>`Screenshot 2`</a> 
   - `swift` `swiftui` 
   -  ☆`3` 
+- [Minidisc](https://github.com/Loriage/Minidisc): An opinionated music player for Navidrome, Subsonic and OpenSubsonic servers with native Lidarr integration.
+  - <a href=https://minidisc.dev>`https://minidisc.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/minidisc-navidrome-lidarr/id6794636813) <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/home.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/player.jpeg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/discover.jpeg'>`Screenshot 3`</a> 
+  -  `2026` `swift` 
+  -  ☆`33` 
 - [Podverse](https://github.com/podverse/podverse-rn): Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery
   - <a href=https://podverse.fm>`https://podverse.fm`</a>
   - [` App Store`](https://apps.apple.com/app/podverse/id1390888454) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b7d0b732-f756-4d80-b1a5-8578ea71b817'>`Screenshot 1`</a> 
@@ -1613,6 +1628,11 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/oakotp/id1567761178) <a href='https://raw.githubusercontent.com/AlexCatch/Oak/master/DesignAssets/accounts.png'>`Screenshot 1`</a>  <a href='https://github.com/AlexCatch/Oak/raw/master/DesignAssets/setup.png'>`Screenshot 2`</a>  <a href='https://github.com/AlexCatch/Oak/raw/master/DesignAssets/new.png'>`Screenshot 3`</a> 
   -  `2025` `swift` `2fa` `cloudkit` `core-data` 
   -  ☆`33` 
+- [Padlock](https://github.com/padloc/padloc): A minimalist open source password manager
+  - <a href=https://padloc.app/>`https://padloc.app/`</a>
+  - [` App Store`](https://apps.apple.com/app/padloc/id1478877043) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/bd/5d/afbd5d00-6c4d-8edf-ff9b-552df523d573/mzl.fszireix.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/82/e2/6d82e289-2522-38f2-9473-65f41700ba12/mzl.xvlxfqzn.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/f8/9c/c4f89c59-827f-3b1f-c426-3964c52ab4ac/mzl.pdmecikv.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/9e/18/5a9e1873-9ac8-80d7-0fc9-64d3ad8784e8/mzl.zwomnhtr.png/460x0w.jpg'>`Screenshot 4`</a> 
+  -  `2025` `javascript` `cordova` `iphone` `ipad` 
+  -  ☆`2925` 
 - [Pass](https://github.com/mssun/passforios): Client for the Pass command line app https://www.passwordstore.org/
   - <a href=https://mssun.github.io/passforios/>`https://mssun.github.io/passforios/`</a>
   - [` App Store`](https://apps.apple.com/app/pass-password-store/id1205820573) <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot4.png'>`Screenshot 4`</a> 

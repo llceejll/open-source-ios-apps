@@ -780,7 +780,7 @@ Jump to
   -  ☆`197` 
 - [Unwrap](https://github.com/twostraws/Unwrap): Learn Swift interactively on your iPhone https://www.hackingwithswift.com
   - <a href=https://www.hackingwithswift.com/>`https://www.hackingwithswift.com/`</a>
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5ab2e9bd-d8a9-4a67-a73c-289009a86244'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/unwrap/id1440611372) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5ab2e9bd-d8a9-4a67-a73c-289009a86244'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`2332` 
 - [UTM](https://github.com/utmapp/UTM): Virtual machines
@@ -1641,7 +1641,7 @@ https://developer.apple.com/documentation/spritekit — [back to top](#readme)
   -  ☆`119` 
 - [HealthSync](https://github.com/megabyte0x/healthykit): Sync selected Apple Health data to a private backend API
   - <a href=https://healthysync.app/apple-health-app-sync>`https://healthysync.app/apple-health-app-sync`</a>
-  -  <a href='https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/healthysync/id6776575569) <a href='https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `healthkit` 
   -  ☆`8` 
 - [KFinder](https://github.com/robertwtucker/kfinderapp-ios): Promotes consistent Vitamin K intake and regular blood testing for warfarin users
@@ -2054,7 +2054,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`3` 
 - [Minidisc](https://github.com/Loriage/Minidisc): An opinionated music player for Navidrome, Subsonic and OpenSubsonic servers with native Lidarr integration.
   - <a href=https://minidisc.dev>`https://minidisc.dev`</a>
-  -  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/home.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/player.jpeg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/discover.jpeg'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/minidisc-navidrome-lidarr/id6794636813) <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/home.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/player.jpeg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/discover.jpeg'>`Screenshot 3`</a> 
   -  `2026` `swift` 
   -  ☆`33` 
 - [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer): Let you listen to English news, see the text and let you analyze what you have heard
@@ -2973,7 +2973,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`33` 
 - [Padlock](https://github.com/padloc/padloc): A minimalist open source password manager
   - <a href=https://padloc.app/>`https://padloc.app/`</a>
-  -  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/bd/5d/afbd5d00-6c4d-8edf-ff9b-552df523d573/mzl.fszireix.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/82/e2/6d82e289-2522-38f2-9473-65f41700ba12/mzl.xvlxfqzn.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/f8/9c/c4f89c59-827f-3b1f-c426-3964c52ab4ac/mzl.pdmecikv.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/9e/18/5a9e1873-9ac8-80d7-0fc9-64d3ad8784e8/mzl.zwomnhtr.png/460x0w.jpg'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/padloc/id1478877043) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/bd/5d/afbd5d00-6c4d-8edf-ff9b-552df523d573/mzl.fszireix.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/82/e2/6d82e289-2522-38f2-9473-65f41700ba12/mzl.xvlxfqzn.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/f8/9c/c4f89c59-827f-3b1f-c426-3964c52ab4ac/mzl.pdmecikv.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/9e/18/5a9e1873-9ac8-80d7-0fc9-64d3ad8784e8/mzl.zwomnhtr.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2025` `javascript` `cordova` `iphone` `ipad` 
   -  ☆`2925` 
 - [Pass](https://github.com/mssun/passforios): Client for the Pass command line app https://www.passwordstore.org/

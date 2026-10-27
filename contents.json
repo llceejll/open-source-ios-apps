@@ -3440,6 +3440,7 @@
       "description": "Sync selected Apple Health data to a private backend API",
       "source": "https://github.com/megabyte0x/healthykit",
       "homepage": "https://healthysync.app/apple-health-app-sync",
+      "itunes": "https://apps.apple.com/app/healthysync/id6776575569",
       "screenshots": [
         "https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png"
       ],
@@ -17930,6 +17931,7 @@
       ],
       "description": "A minimalist open source password manager",
       "homepage": "https://padloc.app/",
+      "itunes": "https://apps.apple.com/app/padloc/id1478877043",
       "source": "https://github.com/padloc/padloc",
       "license": "agpl-3.0",
       "stars": 2925,
@@ -18619,6 +18621,7 @@
       "description": "Learn Swift interactively on your iPhone https://www.hackingwithswift.com",
       "source": "https://github.com/twostraws/Unwrap",
       "homepage": "https://www.hackingwithswift.com/",
+      "itunes": "https://apps.apple.com/app/unwrap/id1440611372",
       "license": "other",
       "stars": 2332,
       "tags": [
@@ -34680,6 +34683,7 @@
       "description": "An opinionated music player for Navidrome, Subsonic and OpenSubsonic servers with native Lidarr integration.",
       "source": "https://github.com/Loriage/Minidisc",
       "homepage": "https://minidisc.dev",
+      "itunes": "https://apps.apple.com/app/minidisc-navidrome-lidarr/id6794636813",
       "license": "mpl-2.0",
       "screenshots": [
         "https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/home.jpeg",
