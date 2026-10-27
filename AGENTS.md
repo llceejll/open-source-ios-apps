@@ -41,6 +41,8 @@ Applied on 27 October 2026: HealthSync to `healthysync.app`, Tutanota to `tuta.c
 
 A later check the same day requested every active homepage and every active source outside GitHub. StarPlane and the Overcast drawer animation now use the `x.com` status URL that `twitter.com` returns with HTTP 301 and the same status id. Migraine Log now uses `https://migrainelog.zerodogg.org/en` (HTTP 302, title “Migraine Log”). NoteGen now uses `https://notegen.top/en` (HTTP 307; the page still brands NoteGen and links the `codexu/note-gen` repository). Zulip returned 502 once and 200 on the next request, so `https://zulip.com` stayed. The footer contact `twitter.com/dkhamsing` and the `@opensourceios` badge still 301 to the same accounts on `x.com`. Those credit links stay on `twitter.com`.
 
+Description links follow the same redirect rule. Designer News (`www.designernews.co` HTTP 308 to `designernews.co`, title “Designer News”), Invoice Ninja (`www.invoiceninja.com` HTTP 301 to `invoiceninja.com`, title “Invoice Ninja”), and Earth View (`earthview.withgoogle.com` HTTP 301 to the Chrome Web Store listing “Earth View from Google Earth”, contact `earth-view@google.com`) now use the page the old URL opens. `punkapi.dev` is a different project, so the Beers description stays on `punkapi.com`. `libgen.rs` timed out and stayed.
+
 Left in place after a browser GET: Habitica (`/static/home` returns 200), Kodi, Catrobat, TousAntiCovid, Thunderbird, and Autheris (Cloudflare 403), Strongbox (empty 202), Emission (the Berkeley host's certificate fails and the page is Berkeley Architecture Research, not the travel app), and Bean Juice (the studio work page is a 404). The latest-additions heading in `.github/osia_convert.rb` was `Lastest`; generated `LATEST.md` now says `Latest`.
 
 ## Screenshots
@@ -57,7 +59,7 @@ The remaining non-Apple archived screenshot failures were searched in each live 
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:33 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 12:40 PM Toronto. Upstream `master` was still `28722ee0`, and this branch already contains it. `jordanch14-create` was still not a collaborator.
 
 - `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
 - Cursor's pull-request action returns `must be a collaborator`.
