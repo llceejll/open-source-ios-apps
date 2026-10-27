@@ -27,4 +27,14 @@ Change a `source` when the old URL redirects to the new repository, or when the 
 
 ## Pull requests
 
-The cloud agent can push branches. Opening a pull request still fails: the installation token's accepted permission for `POST /repos/llceejll/open-source-ios-apps/pulls` is `pull_requests=write`, and `ManagePullRequest` returns `must be a collaborator`. The repository is public, issues are enabled, and `pull_request_creation_policy` is `all`. The only collaborator is `llceejll` (admin). `jordanch14-create` and `cursor` are not collaborators. The admin has to invite the Cursor GitHub account with Write, and the Cursor GitHub App needs Pull requests set to Read and write. Do not work around a refused `ManagePullRequest` with `gh` or the REST API.
+The cloud agent can push branches. Opening a pull request still fails. Checked again on 27 October 2026 at 11:53 AM Toronto:
+
+- `POST /repos/llceejll/open-source-ios-apps/pulls` returns 403 and requires `pull_requests=write`.
+- Cursor's pull-request action returns `must be a collaborator`.
+- The repository is public, issues are enabled, and `pull_request_creation_policy` is `all`.
+- The only collaborator is `llceejll` (admin). `jordanch14-create` and `cursor` are not collaborators.
+- `cursor[bot]` can create an issue. The same token cannot edit, comment on, or close an issue.
+- https://github.com/llceejll/open-source-ios-apps/issues/3 asks the admin to invite `jordanch14-create` with Write and to set the Cursor GitHub App's Pull requests permission to Read and write.
+- https://github.com/llceejll/open-source-ios-apps/issues/2 is an empty probe from that check. This token cannot close it.
+
+Do not open another issue for the same request, and do not work around a refused pull request by calling `POST /pulls`. The branch to review is `cursor/sync-upstream-catalog-1c12`.
