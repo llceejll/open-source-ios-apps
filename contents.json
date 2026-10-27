@@ -10140,7 +10140,7 @@
       ],
       "description": "A simple to-do manager designed for composite tasks",
       "source": "https://sourceforge.net/projects/taskcoach/",
-      "homepage": "https://www.taskcoach.org/",
+      "homepage": "https://taskcoach.org/",
       "itunes": "https://apps.apple.com/app/task-coach/id311403563",
       "license": "gpl-3.0",
       "date_added": "Tue May 31 23:13:24 2016 -0600",
@@ -14869,7 +14869,7 @@
       "title": "花灰",
       "description": "How to prounounce programming terms in English",
       "source": "https://github.com/lexrus/Huahui",
-      "homepage": "https://twitter.com/lexrus/status/836928202912063491",
+      "homepage": "https://x.com/lexrus/status/836928202912063491",
       "screenshots": [
         "https://media.giphy.com/media/3oKIPvvaugnP88DdOE/source.gif"
       ],
@@ -17716,7 +17716,7 @@
       ],
       "description": "Client app for bitrise.io",
       "source": "https://github.com/toshi0383/Bitrise-iOS",
-      "homepage": "https://www.bitrise.io",
+      "homepage": "https://bitrise.io/",
       "license": "mit",
       "stars": 143,
       "tags": [
@@ -29162,7 +29162,7 @@
       "category-ids": [
         "cryptocurrency"
       ],
-      "homepage": "https://status.im/",
+      "homepage": "https://status.app/",
       "source": "https://github.com/status-im/status-legacy",
       "itunes": "https://apps.apple.com/app/status-private-communication/id1178893006",
       "screenshots": [
