@@ -383,6 +383,7 @@
       ],
       "description": "Free Bulgarian grammar drills for beginners with a Russian or Ukrainian interface",
       "source": "https://github.com/korchasa/bg-trainer",
+      "stars": 0,
       "homepage": "https://bgtrainer.korchasa.dev/",
       "itunes": "https://apps.apple.com/app/id6766068069",
       "license": "mit",
@@ -2571,12 +2572,13 @@
       "description": "Expense tracker",
       "license": "gpl-2.0",
       "source": "https://github.com/goncharik/savings-assistant",
+      "updated": "2015-09-05 08:09:29 UTC",
       "itunes": "https://apps.apple.com/app/savings-assistant/id1022760996",
       "tags": [
         "archive",
         "swift"
       ],
-      "stars": 14,
+      "stars": 0,
       "date_added": "Sat Sep 5 15:45:42 2015 +0800",
       "suggested_by": "@Chris Amanse",
       "screenshots": [
@@ -3739,7 +3741,7 @@
       "description": "Keyboard that supports The Big List of Naughty Strings",
       "license": "mit",
       "source": "https://github.com/ebelair/NaughtyKeyboard",
-      "stars": 591,
+      "stars": 1,
       "tags": [
         "swift",
         "archive"
@@ -3749,7 +3751,7 @@
       ],
       "date_added": "Mon Nov 16 09:50:37 2015 -0800",
       "suggested_by": "@dkhamsing",
-      "updated": "2015-09-09 22:42:17 UTC"
+      "updated": "2015-08-12 16:51:18 UTC"
     },
     {
       "title": "Slidden",
@@ -3953,8 +3955,9 @@
       ],
       "description": "Helping you to get the best out of your automated home, geofencing, iBeacons",
       "source": "https://github.com/gitter-badger/ios-app",
+      "updated": "2016-08-25 21:52:40 UTC",
       "itunes": "https://apps.apple.com/app/locative/id725198453",
-      "stars": 212,
+      "stars": 0,
       "license": "mit",
       "date_added": "Mon Dec 21 09:26:26 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -4775,6 +4778,7 @@
       ],
       "description": "Photo library organizer and cleaner with duplicate clustering, blur detection, and swipe triage",
       "source": "https://github.com/emlavankhoahienma-hue/PureLibrary",
+      "stars": 1,
       "tags": [
         "swift",
         "swiftui",
@@ -4964,8 +4968,9 @@
       ],
       "description": "Find common movies among actors",
       "source": "https://github.com/Eason828/thatmoviewith",
+      "updated": "2015-05-30 02:00:22 UTC",
       "itunes": "https://apps.apple.com/app/that-movie-with/id892972135",
-      "stars": 21,
+      "stars": 0,
       "license": "mit",
       "date_added": "Sat Jun 27 07:42:10 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -6037,6 +6042,7 @@
       ],
       "description": "Photo privacy redactor for sensitive text, faces, and barcodes with EXIF metadata scrubbing",
       "source": "https://github.com/emlavankhoahienma-hue/SafeRedact",
+      "stars": 0,
       "tags": [
         "swift",
         "swiftui",
@@ -7343,7 +7349,7 @@
       "description": "HP-41C/CV/CX Microcode emulator",
       "source": "https://github.com/BigEd/my41",
       "itunes": "https://apps.apple.com/app/my41cx/id979041950",
-      "stars": 22,
+      "stars": 1,
       "license": "bsd-3-clause",
       "date_added": "Fri Feb 19 12:11:12 2016 +0100",
       "suggested_by": "@Miroslav Perovic",
@@ -7353,7 +7359,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/3f/19/54/3f1954e5-355a-b143-0b2b-36a8267e5d64/pr_source.png/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/03/bd/09/03bd09ac-1a58-0ca4-4c72-f46f8bed3b38/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2025-05-17 08:39:56 UTC"
+      "updated": "2015-01-09 11:24:37 UTC"
     },
     {
       "title": "OpenCB",
@@ -10955,12 +10961,13 @@
       ],
       "description": "Turn-based strategy game",
       "source": "https://github.com/hedgewars/hw",
+      "stars": 572,
       "homepage": "https://www.hedgewars.org/",
       "itunes": "https://apps.apple.com/app/id391234866",
       "license": "gpl-2.0",
       "date_added": "Thu Jun 2 00:07:12 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "updated": "2018-04-02 15:00:01 UTC",
+      "updated": "2026-09-26 00:00:27 UTC",
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/b3/47/1bb34751-0f14-8964-0026-d00205a91eaa/pr_source.png/626x0w.png",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/68/6d/bf/686dbf81-1b2e-d74f-5b38-7a5d859de168/pr_source.png/626x0w.png",
@@ -11497,10 +11504,10 @@
       "screenshots": [
         "https://github.com/SliceOLife/SwiftTextClock/raw/master/example.jpg"
       ],
-      "stars": 37,
+      "stars": 0,
       "date_added": "Sat Jun 18 06:41:16 2016 -0700",
       "suggested_by": "@dkhamsing",
-      "updated": "2015-11-06 13:28:19 UTC"
+      "updated": "2014-11-05 18:49:29 UTC"
     },
     {
       "title": "To Do List (Redux)",
@@ -15381,8 +15388,8 @@
       "license": "gpl-3.0",
       "date_added": "Apr 27 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 3555,
-      "updated": "2026-09-22 16:18:32 UTC"
+      "stars": 3573,
+      "updated": "2026-10-26 15:35:44 UTC"
     },
     {
       "title": "Reviewery",
@@ -18714,9 +18721,10 @@
       ],
       "description": "Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or cellular connection)",
       "source": "https://github.com/BelledonneCommunications/linphone-iphone",
+      "updated": "2026-10-27 16:08:11 UTC",
       "itunes": "https://apps.apple.com/app/linphone/id360065638",
       "license": "gpl-3.0",
-      "stars": 0,
+      "stars": 663,
       "tags": [
         "objc"
       ],
@@ -18783,9 +18791,10 @@
       ],
       "description": "Connect with fellow developers during WWDC, Layers & AltConf",
       "source": "https://github.com/ethanhuang13/ConfFriends",
+      "updated": "2018-09-19 05:13:09 UTC",
       "itunes": "https://apps.apple.com/app/id1386399019",
       "license": "mit",
-      "stars": 2,
+      "stars": 0,
       "tags": [
         "objc",
         "archive"
@@ -25243,8 +25252,8 @@
       ],
       "date_added": "Sep 6 2020",
       "suggested_by": "dkhamsing",
-      "stars": 19,
-      "updated": "2020-09-06 04:20:11 UTC"
+      "stars": 0,
+      "updated": "2020-10-01 06:19:28 UTC"
     },
     {
       "title": "UTM",
@@ -31627,6 +31636,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/emlavankhoahienma-hue/DevHardware",
+      "stars": 0,
       "date_added": "Oct 23 2026",
       "suggested_by": "@emlavankhoahienma-hue"
     },
@@ -34999,6 +35009,7 @@
       ],
       "description": "Body-controlled game that tracks your movement with the device camera and can mirror play to a larger screen",
       "source": "https://github.com/Significant-Hobbies/motion",
+      "stars": 0,
       "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/Significant-Hobbies/motion/main/artifacts/app-store/iphone-6.9/motion-maker-clean.jpg"
@@ -35019,6 +35030,7 @@
       ],
       "description": "Workout player for structured strength, cardio and mobility programmes with set recording, rest timing and target comparisons",
       "source": "https://github.com/Significant-Hobbies/setline",
+      "stars": 1,
       "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/Significant-Hobbies/setline/main/ios/artifacts/app-store/iphone-6.9/workout-player.jpg"
@@ -35038,6 +35050,7 @@
       ],
       "description": "Private relationship journal with a closeness-weighted constellation, standing notes and a chronological memory log for each person",
       "source": "https://github.com/Significant-Hobbies/kith",
+      "stars": 0,
       "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/Significant-Hobbies/kith/main/ios/artifacts/simulator/constellation.png"
@@ -35059,6 +35072,7 @@
       ],
       "description": "Privacy-first two-factor authenticator for iPhone, iPad, Mac and Apple Watch",
       "source": "https://github.com/nerdykidtech/Autheris",
+      "stars": 1,
       "homepage": "https://autheris.app",
       "itunes": "https://apps.apple.com/app/autheris/id6760686327",
       "license": "mit",
@@ -35081,6 +35095,7 @@
       ],
       "description": "One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key",
       "source": "https://github.com/rokrokss/recly",
+      "stars": 18,
       "homepage": "https://recly.dev",
       "itunes": "https://apps.apple.com/app/recly-record-for-your-ai/id6809930443",
       "license": "agpl-3.0",
@@ -35105,6 +35120,7 @@
       ],
       "description": "Mood tracker with one pixel per day, so your whole year fits on one screen. No account, no ads, entries stay on your phone",
       "source": "https://github.com/mrzmyr/pixy-mood-tracker-app",
+      "stars": 153,
       "homepage": "https://pixy.day",
       "itunes": "https://apps.apple.com/app/pixy-mood-tracker/id1605327124",
       "license": "mit",
@@ -35125,6 +35141,7 @@
       ],
       "description": "Music player with NetEase Cloud Music and QQ Music search, synchronized lyrics, and local playlist backups.",
       "source": "https://github.com/can4hou6joeng4/Sonar",
+      "stars": 51,
       "license": "gpl-3.0",
       "lang": "zho",
       "screenshots": [
@@ -35143,6 +35160,7 @@
       ],
       "description": "Minimal player for your music files, with waveform seeking, DJ FX, CUE sheets, and Dropbox playback.",
       "source": "https://github.com/cmicali/vibe",
+      "stars": 49,
       "homepage": "https://vibeplayer.app",
       "itunes": "https://apps.apple.com/app/vibe-music-player/id1582482361",
       "license": "apache-2.0",
@@ -35160,6 +35178,7 @@
       "description": "Redact photos, videos and PDFs on-device (formerly ZeroNet Redact).",
       "license": "gpl-3.0",
       "source": "https://github.com/materialofair/ZeroNet_Redact",
+      "stars": 1,
       "homepage": "https://redact.siproducers.com",
       "itunes": "https://apps.apple.com/app/id6756290503",
       "screenshots": [
@@ -35179,6 +35198,7 @@
       ],
       "description": "Message the coding agents on your computer (Claude Code, Codex, Gemini and more) as persistent bots, with approvals, push notifications, remote screen and voice calls",
       "source": "https://github.com/leepokai/Codync",
+      "stars": 954,
       "homepage": "https://www.codync.dev",
       "itunes": "https://apps.apple.com/app/codync/id6760984418",
       "license": "apache-2.0",
@@ -35202,6 +35222,7 @@
       ],
       "description": "Manage hosting, domains, DNS, deployments, web analytics and uptime across 27 services including Vercel, Cloudflare and Netlify",
       "source": "https://github.com/apoorvdarshan/verceltics",
+      "stars": 40,
       "homepage": "https://verceltics.com",
       "itunes": "https://apps.apple.com/app/id6761645656",
       "license": "mit",
@@ -35224,6 +35245,7 @@
       ],
       "description": "Examples for the iPhone Duo (foldable iPhone) APIs in iOS 27.1: hinge, reserved regions, ArrangementView, vertical toolbar",
       "source": "https://github.com/Codelaby/IphoneDuo",
+      "stars": 12,
    "license": "apache-2.0",
       "date_added": "Oct 8 2026",
       "suggested_by": "@dkhamsing"		  
@@ -35259,6 +35281,7 @@
       ],
       "description": "Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys",
       "source": "https://github.com/Saffsanity/sill",
+      "stars": 4165,
       "homepage": "https://getsill.app",
       "itunes": "https://apps.apple.com/app/id6816359860",
       "license": "apache-2.0",
@@ -35286,6 +35309,7 @@
       ],
       "description": "Record lectures, meetings or voice memos and get a structured note with tasks, flashcards and a PDF study sheet; transcription runs on-device with Whisper",
       "source": "https://github.com/louiskl/Earnote",
+      "stars": 19,
       "homepage": "https://earnote.dev",
       "itunes": "https://apps.apple.com/app/earnote/id6815681807",
       "license": "mit",
@@ -35310,6 +35334,7 @@
       ],
       "description": "Notes with folders, checklists and tables that imports Apple Notes and lets ChatGPT, Claude and other AI apps read and edit your notes after you approve them",
       "source": "https://github.com/pinto-notes/pinto-notes",
+      "stars": 30,
       "homepage": "https://pintonotes.com",
       "license": "mit",
       "screenshots": [
@@ -35330,6 +35355,7 @@
       ],
       "description": "Four in a row in a 4x4x4 cube with a rotatable 3D board and 31 computer opponents; vibe coded with Claude Code, every prompt and decision included",
       "source": "https://github.com/evermeer/Quadrim",
+      "stars": 1,
       "itunes": "https://apps.apple.com/app/quadrim/id6804034367",
       "license": "mit",
       "screenshots": [
@@ -35354,6 +35380,7 @@
         "https://raw.githubusercontent.com/joexk1/JoeBro-Mobile/main/README_assets/phone-agent.png"
       ],
       "source": "https://github.com/joexk1/JoeBro-Mobile",
+      "stars": 2,
       "license": "gpl-3.0",
       "date_added": "Oct 14 2026",
       "suggested_by": "@joexk1"
@@ -35373,6 +35400,7 @@
         "https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_3_Voices.png"
       ],
       "source": "https://github.com/joseph6377/J7seven",
+      "stars": 3,
       "homepage": "https://books.josepht.in",
       "itunes": "https://apps.apple.com/app/lysnbox/id6772035198",
       "license": "mit",
@@ -35410,6 +35438,7 @@
       ],
       "description": "Workout log for lifting: sets, personal records, a rest timer, plates math and progress charts",
       "source": "https://github.com/Mattbusel/ironbook",
+      "stars": 2,
       "itunes": "https://apps.apple.com/app/id6814264434",
       "license": "mit",
       "screenshots": [
@@ -35432,6 +35461,7 @@
       ],
       "description": "Focus timer with a pair of animated eyes that watch you work (body doubling), with goals, streaks, a Live Activity and widgets",
       "source": "https://github.com/Mattbusel/minder",
+      "stars": 1,
       "itunes": "https://apps.apple.com/app/id6813451929",
       "license": "mit",
       "screenshots": [
@@ -35453,6 +35483,7 @@
       ],
       "description": "Habit tracker with interactive Home Screen widgets, a year quilt per habit, streak freezes, quit-habit counters and Apple Health auto-complete",
       "source": "https://github.com/Mattbusel/chain",
+      "stars": 2,
       "itunes": "https://apps.apple.com/app/id6814264554",
       "license": "mit",
       "screenshots": [
@@ -35498,6 +35529,7 @@
         "https://raw.githubusercontent.com/soma-intelligence/prism/main/docs/images/screens/today.png"
       ],
       "source": "https://github.com/soma-intelligence/prism",
+      "stars": 3,
       "license": "agpl-3.0",
       "date_added": "Oct 19 2026",
       "suggested_by": "@QuentinCar0n"
@@ -35519,6 +35551,7 @@
         "https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-radio.jpg"
       ],
       "source": "https://github.com/adrbn/aura",
+      "stars": 5,
       "itunes": "https://apps.apple.com/app/id6818241470",
       "homepage": "https://aura.adrbn.dev",
       "license": "gpl-3.0",
@@ -35542,6 +35575,7 @@
         "https://raw.githubusercontent.com/ischys-app/Ischys/main/docs/screenshots/home.png"
       ],
       "source": "https://github.com/ischys-app/Ischys",
+      "stars": 21,
       "homepage": "https://ischys.app",
       "itunes": "https://apps.apple.com/app/id6790443643",
       "license": "mit",
@@ -35565,6 +35599,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/04/73/e3047345-c483-2727-2ec3-c0b7982b36dc/08-today.png/230x499bb.jpg"
       ],
       "source": "https://github.com/super-productivity/super-productivity",
+      "stars": 23189,
       "itunes": "https://apps.apple.com/app/super-productivity/id1482572463",
       "license": "mit",
       "date_added": "Oct 20 2026",
@@ -35584,6 +35619,7 @@
         "camera"
       ],
       "source": "https://github.com/emlavankhoahienma-hue/ai-smart-framing-camera",
+      "stars": 3,
       "license": "mit",
       "date_added": "Oct 22 2026",
       "suggested_by": "@emlavankhoahienma-hue"
@@ -35605,6 +35641,7 @@
         "https://raw.githubusercontent.com/yuri-val/GeneratorTracker/main/marketing/article/images/ios-en-home.jpg"
       ],
       "source": "https://github.com/yuri-val/GeneratorTracker",
+      "stars": 0,
       "homepage": "https://generatortracker.yuri-val.dev",
       "itunes": "https://apps.apple.com/app/id6819560707",
       "license": "mit",
@@ -35634,6 +35671,7 @@
         "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/carplay-karaoke.png"
       ],
       "source": "https://github.com/noluyorAbi/lyricar",
+      "stars": 0,
       "homepage": "https://lyricar.adatepe.dev",
       "license": "apache-2.0",
       "date_added": "Oct 21 2026",
@@ -35647,6 +35685,7 @@
       ],
       "description": "Meditation timer with no clock: a singing bowl rings after a slightly random time, and each completed sit quietly grows 15 seconds longer. iPhone, iPad, Watch, TV and Mac; logs Mindful Minutes to Health",
       "source": "https://github.com/knorthfield/nano-buddha",
+      "stars": 0,
       "itunes": "https://apps.apple.com/app/id6824602807",
       "screenshots": [
         "https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/1-home.png",
@@ -35673,6 +35712,7 @@
       ],
       "description": "Translate, correct, simplify, explain or summarize text from any app through the Share sheet, using your own OpenAI, Claude, Mistral or OpenRouter API key",
       "source": "https://github.com/korchasa/craftify-byok-ai-shortcuts",
+      "stars": 2,
       "homepage": "https://craftify.korchasa.dev/",
       "itunes": "https://apps.apple.com/app/id6745511563",
       "license": "other",
@@ -35701,6 +35741,7 @@
       ],
       "description": "Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account",
       "source": "https://github.com/apoorvdarshan/fud-ai",
+      "stars": 499,
       "homepage": "https://www.fud-ai.app/",
       "itunes": "https://apps.apple.com/app/id6758935726",
       "license": "mit",
@@ -35728,6 +35769,7 @@
       ],
       "homepage": "https://getopenhabit.com",
       "source": "https://github.com/zamai/open-habit",
+      "stars": 2,
       "itunes": "https://apps.apple.com/app/id6808947599",
       "screenshots": [
         "https://raw.githubusercontent.com/zamai/open-habit/main/site/assets/iphone-overview-light.png",
@@ -35744,6 +35786,7 @@
       ],
       "description": "An iPhone voice companion for your own web workspace, with on-device recognition and reviewed draft insertion, without automatic sending.",
       "source": "https://github.com/alexlee2046/yihu-ios",
+      "stars": 1,
       "homepage": "https://getyihu.com/",
       "itunes": "https://apps.apple.com/us/app/yihu/id6819057500",
       "license": "apache-2.0",
@@ -35763,6 +35806,7 @@
       ],
       "description": "Block chosen websites and apps with Screen Time for a timed pause, now or on a schedule, with optional end-to-end encrypted iCloud sync",
       "source": "https://github.com/dees91/posato",
+      "stars": 4,
       "homepage": "https://posato.app",
       "itunes": "https://apps.apple.com/app/posato/id6812237585",
       "license": "apache-2.0",
@@ -35790,6 +35834,7 @@
       ],
       "description": "Tactile 3D logistics idle diorama game for iPad built with RealityKit and SwiftUI",
       "source": "https://github.com/Yvsleyen00941/Waybill",
+      "stars": 1,
       "homepage": "https://yorben.me/#waybill",
       "license": "mit",
       "screenshots": [
@@ -35813,6 +35858,7 @@
       ],
       "description": "Run open LLMs from Hugging Face offline on iPhone with llama.cpp, MLX, Core ML or Apple Foundation Models, with vision models, voice input, a memory-fit check before download and a built-in benchmark",
       "source": "https://github.com/ananasDDA/pocket-ai-lab",
+      "stars": 11,
       "homepage": "https://ananasdda.github.io/pocket-ai-lab/",
       "itunes": "https://apps.apple.com/app/id6802253142",
       "license": "mit",
