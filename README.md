@@ -3049,6 +3049,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2026` `swift` `swiftui` 
   -  ☆`7074` 
 - [iMast for Mastodon](https://github.com/cinderella-project/iMast)
+  - [` App Store`](https://apps.apple.com/app/imast/id1229461703)
   -  `2026` `swift` `swiftlint` `alamofire` `grdb` 
   -  ☆`122` 
 - [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker)
@@ -3779,6 +3780,7 @@ Cross platform projects — [back to top](#readme)
   -  `2020` `swift` `swiftui` `macos` 
   -  ☆`98` 
 - [iMast for Mastodon](https://github.com/cinderella-project/iMast)
+  - [` App Store`](https://apps.apple.com/app/imast/id1229461703)
   -  `2026` `swift` `swiftlint` `alamofire` `grdb` 
   -  ☆`122` 
 - [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones

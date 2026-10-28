@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/llceejll/open-source-ios-apps -->
 
-List of **359** open-source apps published on the App Store (complete list [here](https://github.com/llceejll/open-source-ios-apps)).
+List of **360** open-source apps published on the App Store (complete list [here](https://github.com/llceejll/open-source-ios-apps)).
 
 
 
@@ -1768,6 +1768,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884) <a href='https://raw.githubusercontent.com/Dimillian/IceCubesApp/main/Images/promo.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`7074` 
+- [iMast for Mastodon](https://github.com/cinderella-project/iMast)
+  - [` App Store`](https://apps.apple.com/app/imast/id1229461703)
+  -  `2026` `swift` `swiftlint` `alamofire` `grdb` 
+  -  ☆`122` 
 - [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker)
   - <a href=https://vaccor.space/tusker/>`https://vaccor.space/tusker/`</a>
   - [` App Store`](https://apps.apple.com/app/tusker/id1498334597) <a href='https://vaccor.space/tusker/img/tusker-light.png'>`Screenshot 1`</a> 
@@ -2112,6 +2116,10 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
   -  `2021` `swift` `swiftui` `ipad` `macos` 
   -  ☆`182` 
+- [iMast for Mastodon](https://github.com/cinderella-project/iMast)
+  - [` App Store`](https://apps.apple.com/app/imast/id1229461703)
+  -  `2026` `swift` `swiftlint` `alamofire` `grdb` 
+  -  ☆`122` 
 - [ProtonVPN](https://github.com/ProtonVPN/ios-mac-app)
   - <a href=https://protonvpn.com/>`https://protonvpn.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id1437005085) <a href='https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png'>`Screenshot 1`</a> 

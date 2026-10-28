@@ -1987,6 +1987,7 @@
         "apple-watch"
       ],
       "source": "https://github.com/opensourceios/trySwiftApp",
+      "itunes": "https://apps.apple.com/app/try/id1083944488",
       "screenshots": [
         "https://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg"
       ],
@@ -29134,6 +29135,7 @@
         "grdb"
       ],
       "source": "https://github.com/cinderella-project/iMast",
+      "itunes": "https://apps.apple.com/app/imast/id1229461703",
       "license": "apache-2.0",
       "date_added": "Apr 18 2022",
       "suggested_by": "@Gigas002",
