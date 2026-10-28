@@ -18,7 +18,7 @@ concurrency:
 jobs:
   check-links:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - uses: actions/checkout@v6
@@ -48,10 +48,10 @@ jobs:
             cdn-images-1,
             ib9hnrPzudBWOE5hTr
         run: |
-          awesome_bot check-unique.txt \
+          ruby .github/osia_check_links.rb check-unique.txt \
             --allow-ssl \
             --allow 302,429,502 \
-            --set-timeout 30 \
+            --set-timeout 20 \
             --white-list "$(echo "$WHITELIST" | tr -d ' \n')"
 
       - name: Upload link report
