@@ -17974,6 +17974,7 @@
       ],
       "description": "Quickly and easily uploads text or code to https://pastebin.com",
       "source": "https://github.com/jonluca/paste-bin-app",
+      "itunes": "https://apps.apple.com/app/pastebin-mobile/id1246981062",
       "license": "apache-2.0",
       "stars": 36,
       "screenshots": [
