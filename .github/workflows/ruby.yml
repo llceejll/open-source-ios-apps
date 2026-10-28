@@ -51,6 +51,7 @@ jobs:
           awesome_bot check-unique.txt \
             --allow-ssl \
             --allow 302,429,502 \
+            --set-timeout 30 \
             --white-list "$(echo "$WHITELIST" | tr -d ' \n')"
 
       - name: Upload link report
