@@ -11023,6 +11023,7 @@
       "description": "An encrypted social network",
       "source": "https://github.com/Minds/mobile",
       "homepage": "https://www.minds.com/",
+      "itunes": "https://apps.apple.com/app/minds-com/id961771928",
       "license": "agpl-3.0",
       "stars": 189,
       "date_added": "Thu Jun 2 00:25:37 2016 -0600",
