@@ -1,4 +1,4 @@
-To contribute to`open-source-ios-apps`, update the **contents.json** file (this will generate the README).
+To contribute to `open-source-ios-apps`, update the **contents.json** file (this will generate the README).
 
 A new entry should update **contents.json** with this format:
 
